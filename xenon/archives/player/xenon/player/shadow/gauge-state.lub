@@ -1,0 +1,8 @@
+c_gauge_max = 100 * point
+c_gauge_bias = 5
+c_level_max = 3
+c_gauge_heal_wait = 0 * sec
+c_gauge_consumption_0 = 0 * (point / sec)
+c_gauge_consumption_1 = 1 * (point / sec)
+c_gauge_consumption_2 = 4 * (point / sec)
+c_gauge_consumption_3 = 6 * (point / sec)

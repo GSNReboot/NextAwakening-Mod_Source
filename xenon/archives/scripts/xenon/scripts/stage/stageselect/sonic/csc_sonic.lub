@@ -1,0 +1,4 @@
+script.reload("scripts/stage/stageselect/sonic/csc/csc_a.lua")
+script.reload("scripts/stage/stageselect/sonic/csc/csc_b.lua")
+script.reload("scripts/stage/stageselect/sonic/csc/csc_c.lua")
+script.reload("scripts/stage/stageselect/sonic/csc/csc_e.lua")

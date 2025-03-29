@@ -1,0 +1,11 @@
+c_omega_laser_damage = 1
+c_omega_laser_power = 50 * N
+c_omega_laser_speed = 50 * (meter / sec)
+c_omega_laser_atime = 6
+c_omega_launcher_damage = 2
+c_omega_launcher_power = 50 * N
+c_omega_launcher_speed = 50 * (meter / sec)
+c_omega_launcher_atime = 6
+c_omega_shot_damage = 2
+c_omega_shot_power = 100 * N
+c_reload_shot = 0.5 * sec

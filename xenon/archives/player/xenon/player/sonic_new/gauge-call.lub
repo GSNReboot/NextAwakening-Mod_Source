@@ -1,0 +1,8 @@
+c_fatigue_green = 10 * point
+c_fatigue_red = 10 * point
+c_fatigue_blue = 10 * point
+c_fatigue_white = 10 * point
+c_fatigue_sky = 10 * point
+c_fatigue_yellow = 10 * point
+c_fatigue_purple = 10 * point
+c_fatigue_super = 10 * point

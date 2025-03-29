@@ -1,0 +1,6 @@
+c_flight_speed_acc = 17 * (meter / (sec * sec))
+c_flight_speed_min = 2 * (meter / sec)
+c_flight_speed_max = 17 * (meter / sec)
+c_flight_timer = 3 * sec
+c_flight_timer_b = 1.5 * sec
+c_flight_acc = 16 * meter

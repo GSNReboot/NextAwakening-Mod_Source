@@ -1,0 +1,7 @@
+l_bound_jump_height0 = 4 * meter
+l_bound_jump_height1 = 7 * meter
+c_boundjump_jmp = -30 * (meter / sec)
+c_boundjump_block = 0.2 * sec
+c_bound_jump_spd_0 = HeightToSpeed(l_bound_jump_height0)
+c_bound_jump_spd_1 = HeightToSpeed(l_bound_jump_height1)
+c_boundattack_power = 500 * N

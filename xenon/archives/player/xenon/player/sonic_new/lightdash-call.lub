@@ -1,0 +1,8 @@
+c_lockon_lightdash = {
+    type = shape_cylinder,
+    radius = 4 * meter,
+    height = 2 * meter,
+    sort = lockon_sort_distance,
+    lockon = lockon_type_lightdash
+  }
+  

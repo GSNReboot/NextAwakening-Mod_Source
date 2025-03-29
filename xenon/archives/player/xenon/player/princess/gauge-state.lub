@@ -1,0 +1,4 @@
+c_gauge_max = 100 * point
+c_gauge_heal_delay = 0.5 * sec
+c_gauge_heal = 50 * (point / sec)
+c_gauge_barrier = 10 * (point / sec)

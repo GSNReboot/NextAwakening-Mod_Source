@@ -1,0 +1,10 @@
+Stagelist = {
+    {
+        Story = "Sonic",
+        Stage = "dtd ( Dusty Desert )",
+        Area = "Area A",
+        Player = "Sonic",
+        ID = "dtd/sonic/a",
+        Comment = "\137\188\131}\131b\131v\130\240\131f\131U\131C\131\147\130\170\130\162\130\182\130\193\130\189\n\131Z\131b\131g\129F10%"
+      }
+}

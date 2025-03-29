@@ -1,0 +1,4 @@
+c_stealth_pray = 1 * sec
+c_stealth_limit = 20 * sec
+c_stealth_countdown = 20 * sec
+c_jump_double_count = 2

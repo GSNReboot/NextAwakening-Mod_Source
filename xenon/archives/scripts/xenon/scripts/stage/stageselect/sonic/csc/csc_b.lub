@@ -1,0 +1,10 @@
+Stagelist = {
+    {
+        Story = "Sonic",
+        Stage = "csc ( Crisis City )",
+        Area = "Area B",
+        Player = "Sonic",
+        ID = "csc/sonic/b",
+        Comment = "\131Z\131b\131g\129F90%\n\130\160\130\198\130\205\146\178\144\174\129\149\131q\131\147\131g\131{\131C\131X"
+      }
+}

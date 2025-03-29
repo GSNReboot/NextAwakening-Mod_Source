@@ -1,0 +1,2 @@
+c_spindash_spd = 30 * (meter / sec)
+c_spindash_time = 3 * sec

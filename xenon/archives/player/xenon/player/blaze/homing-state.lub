@@ -1,0 +1,4 @@
+c_homing_spd = 20 * (meter / sec)
+c_homing_time = 1 * sec
+c_homing_damage = 1 * point
+c_homing_power = 30 * N

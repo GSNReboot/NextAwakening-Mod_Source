@@ -1,0 +1,2 @@
+c_attack_brake = 20 * (meter / sec)
+c_homing_smash_charge = 0.2 * sec

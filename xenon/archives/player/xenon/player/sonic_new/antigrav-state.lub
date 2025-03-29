@@ -1,0 +1,5 @@
+c_sliding_time = 3 * sec
+c_sliding_speed_min = 10 * (meter / sec)
+c_sliding_speed_max = 16 * (meter / sec)
+c_sliding_power = 500 * N
+c_sliding_damage = 1 * point

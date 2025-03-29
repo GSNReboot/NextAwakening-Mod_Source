@@ -1,0 +1,19 @@
+c_lockon_chaos_spear = {
+    type = shape_frustum,
+    near_x = 1 * meter,
+    near_y = 1 * meter,
+    z = 10 * meter,
+    fov = 30 * deg,
+    rotate = {
+      x = 30 * deg,
+      y = 0 * deg,
+      z = 0 * deg
+    },
+    offset = {
+      x = 0 * meter,
+      y = 0.75 * meter,
+      z = 0.5 * meter
+    },
+    sort = lockon_sort_priority_and_distance,
+    lockon = lockon_type_lockon
+  }

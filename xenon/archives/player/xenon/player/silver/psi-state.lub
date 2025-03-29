@@ -1,0 +1,4 @@
+c_psi_gauge_heal = 100 * point
+c_psi_gauge_heal_delay = 0.4 * sec
+c_float_input = 0.2 * sec
+c_float_walk_speed = 18 * (meter / sec)

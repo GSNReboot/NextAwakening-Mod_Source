@@ -1,0 +1,6 @@
+c_chaos_spear_damage = 3
+c_chaos_spear_power = 50 * N
+c_chaos_spear_speed = 50 * (meter / sec)
+c_chaos_spear_atime = 1
+c_chaos_spear_accumulate_wait = 0.5 * sec
+c_chaos_spear_stiffening_time = 0.3 * sec

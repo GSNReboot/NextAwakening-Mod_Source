@@ -1,0 +1,10 @@
+Stagelist = {
+    {
+        Story = "Sonic",
+        Stage = "kdv ( Kingdom Valley )",
+        Area = "Area B",
+        Player = "Sonic",
+        ID = "kdv/sonic/b",
+        Comment = "\148\160\131}\131b\131v\n\131Z\131b\131g\129F0%"
+      }
+}

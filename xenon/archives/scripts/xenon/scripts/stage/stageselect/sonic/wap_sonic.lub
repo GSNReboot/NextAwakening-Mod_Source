@@ -1,0 +1,2 @@
+script.reload("scripts/stage/stageselect/sonic/wap/wap_a.lua")
+script.reload("scripts/stage/stageselect/sonic/wap/wap_b.lua")

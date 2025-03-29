@@ -1,0 +1,2 @@
+c_wallwait_time = 0.5 * sec
+c_wallrun_spd = 8 * (meter / sec)

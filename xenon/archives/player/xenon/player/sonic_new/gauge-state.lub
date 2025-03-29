@@ -1,0 +1,11 @@
+c_gauge_max = 100 * point
+c_green = 75 * point
+c_red = 20 * point
+c_blue = 15 * point
+c_white = 10 * point
+c_sky = 50 * point
+c_yellow = 75 * point
+c_purple = 50 * point
+c_super = 10 * point
+c_gauge_heal = 50 * (point / sec)
+c_gauge_heal_delay = 1.50 * sec

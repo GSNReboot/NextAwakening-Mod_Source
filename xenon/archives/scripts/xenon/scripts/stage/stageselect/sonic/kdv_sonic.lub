@@ -1,0 +1,4 @@
+script.reload("scripts/stage/stageselect/sonic/kdv/kdv_a.lua")
+script.reload("scripts/stage/stageselect/sonic/kdv/kdv_b.lua")
+script.reload("scripts/stage/stageselect/sonic/kdv/kdv_c.lua")
+script.reload("scripts/stage/stageselect/sonic/kdv/kdv_d.lua")

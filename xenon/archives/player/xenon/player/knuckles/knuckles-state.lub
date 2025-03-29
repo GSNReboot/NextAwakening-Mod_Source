@@ -1,0 +1,3 @@
+c_flight_acc = 7.8 * (meter / sec)
+c_flight_speed_acc = 12 * (meter / (sec * sec))
+c_climb_speed = 10 * (meter / sec)

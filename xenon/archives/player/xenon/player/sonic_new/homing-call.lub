@@ -1,0 +1,19 @@
+c_lockon_homing = {
+    type = shape_convex_box,
+    near_x = 5 * meter,
+    near_y = 6 * meter,
+    z = 13 * meter,
+    far_x = 15 * meter,
+    far_y = 13 * meter,
+    sort = lockon_sort_distance,
+    lockon = lockon_type_homing
+  }
+  c_homing_dir = {
+    x = 0 * meter,
+    y = 0 * meter,
+    z = 1 * meter
+  }
+  c_collision_homing = {
+    type = shape_sphere,
+    radius = 0.8 * meter
+  }

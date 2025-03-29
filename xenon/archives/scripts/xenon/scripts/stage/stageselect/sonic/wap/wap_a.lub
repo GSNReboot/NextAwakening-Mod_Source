@@ -1,0 +1,10 @@
+Stagelist = {
+    {
+        Story = "Sonic",
+        Stage = "wap ( White Acropolis )",
+        Area = "Area A",
+        Player = "Sonic",
+        ID = "wap/sonic/a",
+        Comment = "\137\188\131}\131b\131v\n\131Z\131b\131g\129F10%\n\138O\146\141\141\236\139\198\145\210\130\191\131Z\131b\131g\130\205\140\227\130\217\130\199"
+      }
+}
