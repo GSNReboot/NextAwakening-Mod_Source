@@ -1,12 +1,13 @@
 ![](art/modlogo.png)
 # SONIC THE HEDGEHOG NEXT AWAKENING
-The github repository for Sonic '06: Next Awakening Mod.
+The github repository for (the Xbox 360 version of) Sonic '06: Next Awakening Mod.
 
 Please check our [license](LICENSE) for usage information
 ## Documentation
 - [Disclaimer](#disclaimer)
 - [Tools](#tools)
 - [Special Thanks](#special-thanks)
+- [PS3 Version](#ps3-version)
 
 ## Disclaimer
 This repository does not contain any compressed arc files and all files in here are extracted and decompiled.
@@ -19,3 +20,6 @@ Ths repository is mainly for archival purposes only and if you want to download 
 
 ## Special Thanks
 - lillie-chan - Original [E3 Reveal Title Screen Opening mod](https://gamebanana.com/mods/34302) (Please check the mod's [license](https://gamebanana.com/mods/license/34302) for usage information)
+
+## PS3 Version
+A PS3 Version IS planned! The downside is that the Patch.mlua file won't work with real hardware unless pre-installed.
