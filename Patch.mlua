@@ -1,0 +1,21 @@
+--[Patch]--
+Platform("Xbox 360")
+
+--[Functions]--
+BeginBlock("core\archives\player.arc")
+PackageEdit("core\player\shadow.pkg"|"motion"|"rainbow_ring_e"|"player/shadow/sh_jump_panel_l.xnm")
+PackageEdit("core\player\shadow.pkg"|"motion"|"rainbow_ring_l"|"player/shadow/sh_jump_panel_l.xnm")
+PackageEdit("core\player\shadow.pkg"|"motion"|"rainbow_ring_s"|"player/shadow/sh_jump_panel_l.xnm")
+PackageEdit("core\player\shadow_none.pkg"|"motion"|"rainbow_ring_e"|"player/shadow/sh_jump_panel_l.xnm")
+PackageEdit("core\player\shadow_none.pkg"|"motion"|"rainbow_ring_l"|"player/shadow/sh_jump_panel_l.xnm")
+PackageEdit("core\player\shadow_csc_ex.pkg"|"motion"|"rainbow_ring_s"|"player/shadow/sh_jump_panel_l.xnm")
+PackageEdit("core\player\shadow_csc_ex.pkg"|"motion"|"rainbow_ring_e"|"player/shadow/sh_jump_panel_l.xnm")
+PackageEdit("core\player\shadow_csc_ex.pkg"|"motion"|"rainbow_ring_l"|"player/shadow/sh_jump_panel_l.xnm")
+PackageEdit("core\player\shadow_csc_ex.pkg"|"motion"|"rainbow_ring_s"|"player/shadow/sh_jump_panel_l.xnm")
+PackageEdit("core\player\blaze.pkg"|"motion"|"rainbow_ring_s"|"player/blaze/bl_jump_twist_Root.xnm")
+PackageEdit("core\player\blaze.pkg"|"motion"|"rainbow_ring_l"|"player/blaze/bl_jump_twist_Root.xnm")
+PackageEdit("core\player\blaze.pkg"|"motion"|"rainbow_ring_e"|"player/blaze/bl_jump_twist_Root.xnm")
+PackageEdit("core\player\silver.pkg"|"motion"|"rainbow_ring_s"|"player/silver/sv_roll_reverse_l.xnm")
+PackageEdit("core\player\silver.pkg"|"motion"|"rainbow_ring_l"|"player/silver/sv_roll_reverse_l.xnm")
+PackageEdit("core\player\silver.pkg"|"motion"|"rainbow_ring_e"|"player/silver/sv_roll_reverse_l.xnm")
+EndBlock("archive")
