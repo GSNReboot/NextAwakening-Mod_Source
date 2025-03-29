@@ -39,6 +39,19 @@ luac.out
 *.x86_64
 *.hex
 
-
-# '06's Lua files
+# Sonic '06's Lua files
 *.lub
+
+# Sonic '06's Audio files
+*.csb
+*.xma
+
+# Sonic '06's Filesystem
+*.arc
+
+# Other Sonic '06 files
+*.wmv
+*.dds
+
+# Kunai files
+*.xncp
