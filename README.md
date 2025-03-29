@@ -5,13 +5,17 @@ The github repository for (the Xbox 360 version of) Sonic '06: Next Awakening Mo
 Please check our [license](LICENSE) for usage information
 ## Documentation
 - [Disclaimer](#disclaimer)
+- [Downlaods](#downloads)
 - [Todos](#todos)
 - [Tools](#tools)
-- [PS3 Version](#ps3-version)
 
 ## Disclaimer
 This repository does not contain any compressed arc files and all files in here are extracted and decompiled.
-Please make sure that if you compiled the mod to replace your patches.ini file with [the one in this repository](patches.ini)
+Please make sure that if you downloaded the mod to replace your patches.ini file with [the one in this repository](patches.ini).
+
+## Downloads
+- [Merge Xbox 360 Version](/tree/xenon)
+- [Merge PlayStation 3 Version](/tree/ps3)
 
 ## Todos
 ### Completed Todos
@@ -39,9 +43,6 @@ More todos will be made after we come up with more ideas!
 - [Sonic '06 Toolkit](https://github.com/GerbilSoft/Sonic-06-Toolkit) - Used for extracting arc files, and decompiling stuff.
 - [Marathon](https://github.com/hyperbx/Marathon) - Used to repack arc files.
 - [Kunai](https://github.com/NextinMono/kunai) Used to edit xncp files.
-
-## PS3 Version
-A PS3 Version IS planned! The downside is that the Patch.mlua file won't work with real hardware unless pre-installed.
 
 # Special thanks
 - lillie-chan (title screen xmas)
