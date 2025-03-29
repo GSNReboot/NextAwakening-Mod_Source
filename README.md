@@ -43,7 +43,6 @@ More todos will be made after we come up with more ideas!
 - [Sonic '06 Toolkit](https://github.com/GerbilSoft/Sonic-06-Toolkit) - Used for extracting arc files, and decompiling stuff.
 - [Marathon](https://github.com/hyperbx/Marathon) - Used to repack arc files.
 - [Kunai](https://github.com/NextinMono/kunai) Used to edit xncp files.
-- [TrueAncestor](https://www.psx-place.com/resources/trueancestor-self-resigner-by-jjkkyu.33/) Used to decrypt the EBOOT.BIN file fr ps3
 
 # Special thanks
 - lillie-chan (title screen xmas)
