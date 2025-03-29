@@ -14,8 +14,8 @@ This repository does not contain any compressed arc files and all files in here 
 Please make sure that if you downloaded the mod to replace your patches.ini file with [the one in this repository](patches.ini).
 
 ## Downloads
-- [Merge Xbox 360 Version](/tree/xenon)
-- [Merge PlayStation 3 Version](/tree/ps3)
+- [Merge Xbox 360 Version](https://github.com/PixelBlitzBOI/NextAwakening-Mod_Source/tree/xenon)
+- [Merge PlayStation 3 Version](https://github.com/PixelBlitzBOI/NextAwakening-Mod_Source/tree/xps3)
 
 ## Todos
 ### Completed Todos
