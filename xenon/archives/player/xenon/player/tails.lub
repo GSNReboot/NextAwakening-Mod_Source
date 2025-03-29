@@ -103,11 +103,11 @@ c_flight_speed_acc = 17 * (meter / (sec * sec))
 c_flight_speed_min = 2 * (meter / sec)
 c_flight_speed_max = 17 * (meter / sec)
 c_flight_timer = 3 * sec
-c_flight_timer_b = 1.5 * sec
 c_flight_acc = 16 * meter
 c_ignore_spread_time = 0.1 * sec
 c_gauge_max = 100/c_flight_timer
 c_gauge_heal_delay = 0.5 * sec
 c_gauge_heal = 50 * sec
+
 script.reload("player/tails/gauge-state.lua")
 script.reload("player/tails/flight-state.lua")
