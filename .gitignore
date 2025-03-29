@@ -55,3 +55,6 @@ luac.out
 
 # Kunai files
 *.xncp
+
+# Mod manageer mlua files
+*.mlua
