@@ -2,7 +2,7 @@
 # SONIC THE HEDGEHOG NEXT AWAKENING
 The github repository for Sonic '06: Next Awakening Mod.
 
--# Please check our [license](LICENSE) for usage information
+Please check our [license](LICENSE) for usage information
 ## Documentation
 - [Disclaimer](#disclaimer)
 - [Tools](#tools)
