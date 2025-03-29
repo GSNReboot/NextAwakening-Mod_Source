@@ -16,7 +16,7 @@ Please make sure that if you compiled the mod to replace your patches.ini file w
 ## Todos
 ### Completed Todos
 - Increased Sonic and Shadow's Lightdash radius to behave more like P06
-- Increased Lghtdash speed
+- Increased Lightdash speed
 - Increased Sonic's airdash speed
 - Reduced Sonic and Shadow's airdash time
 - Reduced Shadow's Chaos Combo timer for better acccess to homing spam
