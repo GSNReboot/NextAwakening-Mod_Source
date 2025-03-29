@@ -42,3 +42,6 @@ More todos will be made after we come up with more ideas!
 
 ## PS3 Version
 A PS3 Version IS planned! The downside is that the Patch.mlua file won't work with real hardware unless pre-installed.
+
+# Special thanks
+- lillie-chan (title screen xmas)
