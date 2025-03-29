@@ -1,3 +1,0 @@
-script.reload("scripts/stage/stageselect/sonic/wvo/wvo_a.lua")
-script.reload("scripts/stage/stageselect/sonic/wvo/wvo_b.lua")
-script.reload("scripts/stage/stageselect/sonic/wvo/wvo_a_tails.lua")
