@@ -1,5 +1,0 @@
-c_homing_spd = 45 * (meter / sec)
-c_homing_time = 0.325 * sec
-c_homing_damage = 1 * point
-c_homing_power = 30 * N
-c_homing_grind_range = 10 * meter

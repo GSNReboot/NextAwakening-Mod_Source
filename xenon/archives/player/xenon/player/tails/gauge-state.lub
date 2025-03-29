@@ -1,3 +1,0 @@
-c_gauge_max = 100/c_flight_timer
-c_gauge_heal_delay = 0.5 * sec
-c_gauge_heal = 50 * sec
