@@ -15,7 +15,7 @@ Please make sure that if you downloaded the mod to replace your patches.ini file
 
 ## Downloads
 - [Merge Xbox 360 Version](https://github.com/PixelBlitzBOI/NextAwakening-Mod_Source/tree/xenon)
-- [PlayStation 3 Version](https://github.com/PixelBlitzBOI/NextAwakening-Mod_Source/tree/ps3)
+- [Merge PlayStation 3 Version](https://github.com/PixelBlitzBOI/NextAwakening-Mod_Source/tree/ps3)
 
 ## Todos
 ### Completed Todos
