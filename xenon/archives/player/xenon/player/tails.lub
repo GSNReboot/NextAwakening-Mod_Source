@@ -99,7 +99,9 @@ c_speedup_acc = (c_speedup_speed_max - c_walk_speed_max) / l_speedup_acc
 c_brake_acc_sand = c_brake_acc * 2
 c_run_acc_sand = c_run_acc * 0.5
 c_jump_speed_sand = SpeedByHeightBias(c_jump_speed, 0.5)
-c_ignore_spread_time = 0.1 * sec
-
-script.reload("player/tails/gauge-state.lua")
 script.reload("player/tails/flight-state.lua")
+c_gauge_max = 100/c_flight_timer
+c_gauge_heal_delay = 0.5 * sec
+c_gauge_heal = 50 * sec
+c_ignore_spread_time = 0.1 * sec
+script.reload("player/tails/gauge-state.lua")
