@@ -22,9 +22,18 @@ Please make sure that if you downloaded the mod to replace your patches.ini file
 - Increased Lightdash speed
 - Increased Sonic's airdash speed
 - Reduced Sonic and Shadow's airdash time
-- Reduced Shadow's Chaos Combo timer for better acccess to homing spam
-- Increased Tails' flight time at the cost of his speed
+- Increased Sonic´s Antigravity and Blaze´s Spinning Claw time slightly
+- Removed Sonic´s Blue Gem Delay
+- Reduced Shadow's Chaos Attack Combo timer for better acccess to homing spam
+- Increased Shadow´s Chaos Spear range and rebalanced Chaos Spread and Chaos Lance
+- Rebalanced Silver´s Teleport Dash
+- Increased Tails' flight time and reduced cap at the cost of his speed
+- Increased Knuckles´ Screwdriver Damage
+- Increased Rouge´s Bombs Range
+- Increased Omega Launcher Damage and Range
+- Rebalances to All Characters Speed
 - Edited every Omega voiceline to sound better
+- Animation Changes for Sonic (updownreel and slide)
 - Retextured the 3 main hedgehogs to look more like their CGI Cutscene models
 - Slightly decreased load times for some of Sonic's stages (WiP)
 
