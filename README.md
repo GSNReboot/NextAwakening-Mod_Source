@@ -6,7 +6,7 @@ Please check our [license](LICENSE) for usage information
 ## Documentation
 - [Disclaimer](#disclaimer)
 - [Downlaods](#downloads)
-- [Cutscenes](#cutsceneshttps://drive.google.com/drive/folders/1lVfxr2jfxJItLJY0u7DkIbYEh-nkipHF?usp=sharing)
+- [Cutscenes](https://drive.google.com/drive/folders/1lVfxr2jfxJItLJY0u7DkIbYEh-nkipHF?usp=sharing)
 - [Todos](#todos)
 - [Tools](#tools)
 
