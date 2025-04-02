@@ -7,7 +7,6 @@ function SetupModuleSub(param1)
   OpenEffect(param1, effect_module_sonic, "player_tails")
   OpenSound(param1, sound_module_tails, "player_tails")
   OpenAI(param1, ai_module_amigo)
-  OpenGauge(param1, 5)
   OpenLockOn(param1, "lockon_chase", stepable_pre)
   OpenOther(param1, other_module_talk)
   OpenLockOn(param1, "lockon", stepable_inter)
@@ -66,8 +65,8 @@ c_downforce = 0.2 * meter
 c_brake_acc = 40 * meter
 c_walk_border = 0.17
 c_run_border = 0.6
-c_walk_speed_max = 3 * (meter / sec)
-c_run_speed_max = 18 * (meter / sec)
+c_walk_speed_max = 2 * (meter / sec)
+c_run_speed_max = 15 * (meter / sec)
 c_jump_time_min = 0.1 * sec
 c_jump_brake = 16 * (meter / sec)
 c_jump_speed_acc = 20 * meter
@@ -100,8 +99,4 @@ c_brake_acc_sand = c_brake_acc * 2
 c_run_acc_sand = c_run_acc * 0.5
 c_jump_speed_sand = SpeedByHeightBias(c_jump_speed, 0.5)
 script.reload("player/tails/flight-state.lua")
-c_gauge_max = 100/c_flight_timer
-c_gauge_heal_delay = 0.5 * sec
-c_gauge_heal = 50 * sec
 c_ignore_spread_time = 0.1 * sec
-script.reload("player/tails/gauge-state.lua")

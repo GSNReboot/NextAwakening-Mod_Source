@@ -89,11 +89,11 @@ c_homing_dir = {
   z = 1 * meter
 }
 c_homing_spd = 20 * (meter / sec)
-c_homing_time = 1 * sec
+c_homing_time = 3 * sec
 c_homing_damage = 1 * point
 c_homing_power = 30 * N
 c_spinning_claw_min = 3 * sec
-c_spinning_claw_max = 15 * sec
+c_spinning_claw_max = 20 * sec
 c_wallwait_time = 0.5 * sec
 c_wallrun_spd = 8 * (meter / sec)
 script.reload("player/blaze/spinningclaw-state.lub")

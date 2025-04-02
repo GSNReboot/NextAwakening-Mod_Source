@@ -4,7 +4,6 @@ function SetupModuleSub(module)
   OpenWeapons(module, other_module_omega_weapons)
   OpenLockOn(module, "lockon_laser", stepable_inter)
   OpenLockOn(module, "lockon_launcher", stepable_inter)
-  OpenGauge(module, 0)
   OpenEffect(module, effect_module_standard, "player_omega")
   OpenEffect(module, effect_module_omega, "player_omega")
   OpenSound(module, sound_module_omega, "player_omega")
@@ -45,16 +44,16 @@ c_omega_shot = {
     z = 1 * meter
   }
 }
-c_omega_launcher_damage = 2
+c_omega_launcher_damage = 3
 c_omega_launcher_power = 50 * N
 c_omega_launcher_speed = 50 * (meter / sec)
 c_omega_launcher_atime = 6
 c_lockon_launcher = {
   type = shape_frustum,
   near_x = 1 * meter,
-  near_y = 1 * meter,
-  z = 100 * meter,
-  fov = 30 * deg,
+  near_y = 3 * meter,
+  z = 70 * meter,
+  fov = 33 * deg,
   rotate = {
     x = 30 * deg,
     y = 0 * deg,

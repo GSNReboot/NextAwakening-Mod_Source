@@ -1,4 +1,4 @@
-c_chaos_spear_damage = 3
+c_chaos_spear_damage = 1
 c_chaos_spear_power = 200 * N
 c_chaos_spear_speed = 80 * (meter / sec)
 c_chaos_spear_atime = 1

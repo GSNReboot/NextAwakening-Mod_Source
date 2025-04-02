@@ -90,7 +90,7 @@ c_homing_dir = {
 }
 c_homing_spd = 20 * (meter / sec)
 c_homing_time = 1 * sec
-c_homing_damage = 2 * point
+c_homing_damage = 3 * point
 c_homing_power = 60 * N
 c_flight_acc = 7.8 * (meter / sec)
 c_flight_speed_acc = 12 * (meter / (sec * sec))

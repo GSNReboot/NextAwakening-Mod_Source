@@ -1,2 +1,5 @@
-c_spinning_claw_min = 3 * sec
-c_spinning_claw_max = 15 * sec
+c_spinning_claw_time = 3.5 * sec
+c_spinning_claw_min = 3 * (meter / sec)
+c_spinning_claw_max = 20 * (meter / sec)
+c_spinning_claw_power = 500 * N
+c_spinning_claw_damage = 1 * point

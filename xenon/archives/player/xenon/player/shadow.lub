@@ -52,19 +52,19 @@ script.reload("player/shadow/chaosspear-state.lua")
 script.reload("player/shadow/chaosspear-call.lua")
 script.reload("player/shadow/gauge-state.lua")
 
-c_chaos_spread_count = 6
+c_chaos_spread_count = 3
 c_chaos_spread_damage = 3
 c_chaos_spread_power = 50 * N
 c_chaos_spread_speed = 50 * (meter / sec)
 c_chaos_spread_atime = 1
 c_lockon_chaos_spread = {
   type = shape_frustum,
-  near_x = 1 * meter,
-  near_y = 1 * meter,
-  z = 10 * meter,
-  fov = 30 * deg,
+  near_x = 5 * meter,
+  near_y = 2 * meter,
+  z = 60 * meter,
+  fov = 15 * deg,
   rotate = {
-    x = 30 * deg,
+    x = 10 * deg,
     y = 0 * deg,
     z = 0 * deg
   },

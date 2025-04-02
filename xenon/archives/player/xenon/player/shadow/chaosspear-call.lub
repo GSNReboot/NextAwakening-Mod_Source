@@ -1,11 +1,11 @@
 c_lockon_chaos_spear = {
     type = shape_frustum,
-    near_x = 1 * meter,
-    near_y = 1 * meter,
-    z = 10 * meter,
-    fov = 30 * deg,
+    near_x = 3 * meter,
+    near_y = 2 * meter,
+    z = 60 * meter,
+    fov = 15 * deg,
     rotate = {
-      x = 30 * deg,
+      x = 10 * deg,
       y = 0 * deg,
       z = 0 * deg
     },

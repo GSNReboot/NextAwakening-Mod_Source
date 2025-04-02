@@ -4,5 +4,5 @@ c_dunk_time = 0.2 * sec
 c_psychosmash_charge_time = 0.5 * sec
 c_psychosmash_time = 2 * sec
 c_tele_dash_input = 0.3 * sec
-l_tele_dash = 24 * meter
-c_tele_dash_time = 0.8 * sec
+l_tele_dash = 12 * meter
+c_tele_dash_time = 0.4 * sec
