@@ -43,7 +43,6 @@ Please make sure that if you downloaded the mod to replace your patches.ini file
 - Replace title screen logo
 - Replace title screen background video
 - Separate the audio from the title screen into a xma
-- Make a branch for the Xbox 360 version (the mod itself not the source code)
 - Make a branch for the PS3 version (the mod itself not the source code)
 
 More todos will be made after we come up with more ideas!
