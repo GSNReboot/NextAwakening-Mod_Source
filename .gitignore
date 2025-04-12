@@ -58,3 +58,6 @@ luac.out
 
 # Mod manageer mlua files
 *.mlua
+
+# Level placement files
+*.set
