@@ -1,0 +1,5388 @@
+{
+  "Cues": [
+    {
+      "Name": "all01_a00_sn",
+      "Category": 0,
+      "UnknownSingle": 500.0,
+      "Radius": 6000.0,
+      "Stream": "sound/voice/e/all01_a00_sn.wma"
+    },
+    {
+      "Name": "all01_a00_tl",
+      "Category": 0,
+      "UnknownSingle": 500.0,
+      "Radius": 6000.0,
+      "Stream": "sound/voice/e/all01_a00_tl.wma"
+    },
+    {
+      "Name": "all01_a00_kn",
+      "Category": 0,
+      "UnknownSingle": 500.0,
+      "Radius": 6000.0,
+      "Stream": "sound/voice/e/all01_a00_kn.wma"
+    },
+    {
+      "Name": "all01_a00_sd",
+      "Category": 0,
+      "UnknownSingle": 500.0,
+      "Radius": 6000.0,
+      "Stream": "sound/voice/e/all01_a00_sd.wma"
+    },
+    {
+      "Name": "all01_a00_rg",
+      "Category": 0,
+      "UnknownSingle": 500.0,
+      "Radius": 6000.0,
+      "Stream": "sound/voice/e/all01_a00_rg.wma"
+    },
+    {
+      "Name": "all01_a00_om",
+      "Category": 0,
+      "UnknownSingle": 500.0,
+      "Radius": 6000.0,
+      "Stream": "sound/voice/e/all01_a00_om.wma"
+    },
+    {
+      "Name": "all01_a00_am",
+      "Category": 0,
+      "UnknownSingle": 500.0,
+      "Radius": 6000.0,
+      "Stream": "sound/voice/e/all01_a00_am.wma"
+    },
+    {
+      "Name": "all01_a00_bz",
+      "Category": 0,
+      "UnknownSingle": 500.0,
+      "Radius": 6000.0,
+      "Stream": "sound/voice/e/all01_a00_bz.wma"
+    },
+    {
+      "Name": "all01_a00_sv",
+      "Category": 0,
+      "UnknownSingle": 500.0,
+      "Radius": 6000.0,
+      "Stream": "sound/voice/e/all01_a00_sv.wma"
+    },
+    {
+      "Name": "all01_a00_pr",
+      "Category": 0,
+      "UnknownSingle": 500.0,
+      "Radius": 6000.0,
+      "Stream": "sound/voice/e/all01_a00_pr.wma"
+    },
+    {
+      "Name": "all01_a01_sn",
+      "Category": 0,
+      "UnknownSingle": 500.0,
+      "Radius": 6000.0,
+      "Stream": "sound/voice/e/all01_a01_sn.wma"
+    },
+    {
+      "Name": "all01_a01_tl",
+      "Category": 0,
+      "UnknownSingle": 500.0,
+      "Radius": 6000.0,
+      "Stream": "sound/voice/e/all01_a01_tl.wma"
+    },
+    {
+      "Name": "all01_a01_kn",
+      "Category": 0,
+      "UnknownSingle": 500.0,
+      "Radius": 6000.0,
+      "Stream": "sound/voice/e/all01_a01_kn.wma"
+    },
+    {
+      "Name": "all01_a01_sd",
+      "Category": 0,
+      "UnknownSingle": 500.0,
+      "Radius": 6000.0,
+      "Stream": "sound/voice/e/all01_a01_sd.wma"
+    },
+    {
+      "Name": "all01_a01_rg",
+      "Category": 0,
+      "UnknownSingle": 500.0,
+      "Radius": 6000.0,
+      "Stream": "sound/voice/e/all01_a01_rg.wma"
+    },
+    {
+      "Name": "all01_a01_om",
+      "Category": 0,
+      "UnknownSingle": 500.0,
+      "Radius": 6000.0,
+      "Stream": "sound/voice/e/all01_a01_om.wma"
+    },
+    {
+      "Name": "all01_a01_am",
+      "Category": 0,
+      "UnknownSingle": 500.0,
+      "Radius": 6000.0,
+      "Stream": "sound/voice/e/all01_a01_am.wma"
+    },
+    {
+      "Name": "all01_a01_bz",
+      "Category": 0,
+      "UnknownSingle": 500.0,
+      "Radius": 6000.0,
+      "Stream": "sound/voice/e/all01_a01_bz.wma"
+    },
+    {
+      "Name": "all01_a01_sv",
+      "Category": 0,
+      "UnknownSingle": 500.0,
+      "Radius": 6000.0,
+      "Stream": "sound/voice/e/all01_a01_sv.wma"
+    },
+    {
+      "Name": "all01_a01_pr",
+      "Category": 0,
+      "UnknownSingle": 500.0,
+      "Radius": 6000.0,
+      "Stream": "sound/voice/e/all01_a01_pr.wma"
+    },
+    {
+      "Name": "all01_a02_sn",
+      "Category": 0,
+      "UnknownSingle": 500.0,
+      "Radius": 6000.0,
+      "Stream": "sound/voice/e/all01_a02_sn.wma"
+    },
+    {
+      "Name": "all01_a02_tl",
+      "Category": 0,
+      "UnknownSingle": 500.0,
+      "Radius": 6000.0,
+      "Stream": "sound/voice/e/all01_a02_tl.wma"
+    },
+    {
+      "Name": "all01_a02_kn",
+      "Category": 0,
+      "UnknownSingle": 500.0,
+      "Radius": 6000.0,
+      "Stream": "sound/voice/e/all01_a02_kn.wma"
+    },
+    {
+      "Name": "all01_a02_sd",
+      "Category": 0,
+      "UnknownSingle": 500.0,
+      "Radius": 6000.0,
+      "Stream": "sound/voice/e/all01_a02_sd.wma"
+    },
+    {
+      "Name": "all01_a02_rg",
+      "Category": 0,
+      "UnknownSingle": 500.0,
+      "Radius": 6000.0,
+      "Stream": "sound/voice/e/all01_a02_rg.wma"
+    },
+    {
+      "Name": "all01_a02_om",
+      "Category": 0,
+      "UnknownSingle": 500.0,
+      "Radius": 6000.0,
+      "Stream": "sound/voice/e/all01_a02_om.wma"
+    },
+    {
+      "Name": "all01_a02_am",
+      "Category": 0,
+      "UnknownSingle": 500.0,
+      "Radius": 6000.0,
+      "Stream": "sound/voice/e/all01_a02_am.wma"
+    },
+    {
+      "Name": "all01_a02_bz",
+      "Category": 0,
+      "UnknownSingle": 500.0,
+      "Radius": 6000.0,
+      "Stream": "sound/voice/e/all01_a02_bz.wma"
+    },
+    {
+      "Name": "all01_a02_sv",
+      "Category": 0,
+      "UnknownSingle": 500.0,
+      "Radius": 6000.0,
+      "Stream": "sound/voice/e/all01_a02_sv.wma"
+    },
+    {
+      "Name": "all01_a02_pr",
+      "Category": 0,
+      "UnknownSingle": 500.0,
+      "Radius": 6000.0,
+      "Stream": "sound/voice/e/all01_a02_pr.wma"
+    },
+    {
+      "Name": "all01_e00_sn",
+      "Category": 0,
+      "UnknownSingle": 500.0,
+      "Radius": 6000.0,
+      "Stream": "sound/voice/e/all01_e00_sn.wma"
+    },
+    {
+      "Name": "all01_e00_tl",
+      "Category": 0,
+      "UnknownSingle": 500.0,
+      "Radius": 6000.0,
+      "Stream": "sound/voice/e/all01_e00_tl.wma"
+    },
+    {
+      "Name": "all01_e00_kn",
+      "Category": 0,
+      "UnknownSingle": 500.0,
+      "Radius": 6000.0,
+      "Stream": "sound/voice/e/all01_e00_kn.wma"
+    },
+    {
+      "Name": "all01_e00_sd",
+      "Category": 0,
+      "UnknownSingle": 500.0,
+      "Radius": 6000.0,
+      "Stream": "sound/voice/e/all01_e00_sd.wma"
+    },
+    {
+      "Name": "all01_e00_rg",
+      "Category": 0,
+      "UnknownSingle": 500.0,
+      "Radius": 6000.0,
+      "Stream": "sound/voice/e/all01_e00_rg.wma"
+    },
+    {
+      "Name": "all01_e00_om",
+      "Category": 0,
+      "UnknownSingle": 500.0,
+      "Radius": 6000.0,
+      "Stream": "sound/voice/e/all01_e00_om.wma"
+    },
+    {
+      "Name": "all01_e00_am",
+      "Category": 0,
+      "UnknownSingle": 500.0,
+      "Radius": 6000.0,
+      "Stream": "sound/voice/e/all01_e00_am.wma"
+    },
+    {
+      "Name": "all01_e00_bz",
+      "Category": 0,
+      "UnknownSingle": 500.0,
+      "Radius": 6000.0,
+      "Stream": "sound/voice/e/all01_e00_bz.wma"
+    },
+    {
+      "Name": "all01_e00_sv",
+      "Category": 0,
+      "UnknownSingle": 500.0,
+      "Radius": 6000.0,
+      "Stream": "sound/voice/e/all01_e00_sv.wma"
+    },
+    {
+      "Name": "all01_e00_pr",
+      "Category": 0,
+      "UnknownSingle": 500.0,
+      "Radius": 6000.0,
+      "Stream": "sound/voice/e/all01_e00_pr.wma"
+    },
+    {
+      "Name": "all01_e01_sn",
+      "Category": 0,
+      "UnknownSingle": 500.0,
+      "Radius": 6000.0,
+      "Stream": "sound/voice/e/all01_e01_sn.wma"
+    },
+    {
+      "Name": "all01_e01_tl",
+      "Category": 0,
+      "UnknownSingle": 500.0,
+      "Radius": 6000.0,
+      "Stream": "sound/voice/e/all01_e01_tl.wma"
+    },
+    {
+      "Name": "all01_e01_kn",
+      "Category": 0,
+      "UnknownSingle": 500.0,
+      "Radius": 6000.0,
+      "Stream": "sound/voice/e/all01_e01_kn.wma"
+    },
+    {
+      "Name": "all01_e01_sd",
+      "Category": 0,
+      "UnknownSingle": 500.0,
+      "Radius": 6000.0,
+      "Stream": "sound/voice/e/all01_e01_sd.wma"
+    },
+    {
+      "Name": "all01_e01_rg",
+      "Category": 0,
+      "UnknownSingle": 500.0,
+      "Radius": 6000.0,
+      "Stream": "sound/voice/e/all01_e01_rg.wma"
+    },
+    {
+      "Name": "all01_e01_om",
+      "Category": 0,
+      "UnknownSingle": 500.0,
+      "Radius": 6000.0,
+      "Stream": "sound/voice/e/all01_e01_om.wma"
+    },
+    {
+      "Name": "all01_e01_am",
+      "Category": 0,
+      "UnknownSingle": 500.0,
+      "Radius": 6000.0,
+      "Stream": "sound/voice/e/all01_e01_am.wma"
+    },
+    {
+      "Name": "all01_e01_bz",
+      "Category": 0,
+      "UnknownSingle": 500.0,
+      "Radius": 6000.0,
+      "Stream": "sound/voice/e/all01_e01_bz.wma"
+    },
+    {
+      "Name": "all01_e01_sv",
+      "Category": 0,
+      "UnknownSingle": 500.0,
+      "Radius": 6000.0,
+      "Stream": "sound/voice/e/all01_e01_sv.wma"
+    },
+    {
+      "Name": "all01_e02_sn",
+      "Category": 0,
+      "UnknownSingle": 500.0,
+      "Radius": 6000.0,
+      "Stream": "sound/voice/e/all01_e02_sn.wma"
+    },
+    {
+      "Name": "all01_e02_tl",
+      "Category": 0,
+      "UnknownSingle": 500.0,
+      "Radius": 6000.0,
+      "Stream": "sound/voice/e/all01_e02_tl.wma"
+    },
+    {
+      "Name": "all01_e02_kn",
+      "Category": 0,
+      "UnknownSingle": 500.0,
+      "Radius": 6000.0,
+      "Stream": "sound/voice/e/all01_e02_kn.wma"
+    },
+    {
+      "Name": "all01_e02_sd",
+      "Category": 0,
+      "UnknownSingle": 500.0,
+      "Radius": 6000.0,
+      "Stream": "sound/voice/e/all01_e02_sd.wma"
+    },
+    {
+      "Name": "all01_e02_rg",
+      "Category": 0,
+      "UnknownSingle": 500.0,
+      "Radius": 6000.0,
+      "Stream": "sound/voice/e/all01_e02_rg.wma"
+    },
+    {
+      "Name": "all01_e02_om",
+      "Category": 0,
+      "UnknownSingle": 500.0,
+      "Radius": 6000.0,
+      "Stream": "sound/voice/e/all01_e02_om.wma"
+    },
+    {
+      "Name": "all01_e02_am",
+      "Category": 0,
+      "UnknownSingle": 500.0,
+      "Radius": 6000.0,
+      "Stream": "sound/voice/e/all01_e02_am.wma"
+    },
+    {
+      "Name": "all01_e02_bz",
+      "Category": 0,
+      "UnknownSingle": 500.0,
+      "Radius": 6000.0,
+      "Stream": "sound/voice/e/all01_e02_bz.wma"
+    },
+    {
+      "Name": "all01_e02_sv",
+      "Category": 0,
+      "UnknownSingle": 500.0,
+      "Radius": 6000.0,
+      "Stream": "sound/voice/e/all01_e02_sv.wma"
+    },
+    {
+      "Name": "all01_e03_sn",
+      "Category": 0,
+      "UnknownSingle": 500.0,
+      "Radius": 6000.0,
+      "Stream": "sound/voice/e/all01_e03_sn.wma"
+    },
+    {
+      "Name": "all01_e03_tl",
+      "Category": 0,
+      "UnknownSingle": 500.0,
+      "Radius": 6000.0,
+      "Stream": "sound/voice/e/all01_e03_tl.wma"
+    },
+    {
+      "Name": "all01_e03_kn",
+      "Category": 0,
+      "UnknownSingle": 500.0,
+      "Radius": 6000.0,
+      "Stream": "sound/voice/e/all01_e03_kn.wma"
+    },
+    {
+      "Name": "all01_e03_sd",
+      "Category": 0,
+      "UnknownSingle": 500.0,
+      "Radius": 6000.0,
+      "Stream": "sound/voice/e/all01_e03_sd.wma"
+    },
+    {
+      "Name": "all01_e03_rg",
+      "Category": 0,
+      "UnknownSingle": 500.0,
+      "Radius": 6000.0,
+      "Stream": "sound/voice/e/all01_e03_rg.wma"
+    },
+    {
+      "Name": "all01_e03_om",
+      "Category": 0,
+      "UnknownSingle": 500.0,
+      "Radius": 6000.0,
+      "Stream": "sound/voice/e/all01_e03_om.wma"
+    },
+    {
+      "Name": "all01_e03_am",
+      "Category": 0,
+      "UnknownSingle": 500.0,
+      "Radius": 6000.0,
+      "Stream": "sound/voice/e/all01_e03_am.wma"
+    },
+    {
+      "Name": "all01_e03_bz",
+      "Category": 0,
+      "UnknownSingle": 500.0,
+      "Radius": 6000.0,
+      "Stream": "sound/voice/e/all01_e03_bz.wma"
+    },
+    {
+      "Name": "all01_e03_sv",
+      "Category": 0,
+      "UnknownSingle": 500.0,
+      "Radius": 6000.0,
+      "Stream": "sound/voice/e/all01_e03_sv.wma"
+    },
+    {
+      "Name": "all01_e03_pr",
+      "Category": 0,
+      "UnknownSingle": 500.0,
+      "Radius": 6000.0,
+      "Stream": "sound/voice/e/all01_e03_pr.wma"
+    },
+    {
+      "Name": "all01_e04_sn",
+      "Category": 0,
+      "UnknownSingle": 500.0,
+      "Radius": 6000.0,
+      "Stream": "sound/voice/e/all01_e04_sn.wma"
+    },
+    {
+      "Name": "all01_e04_tl",
+      "Category": 0,
+      "UnknownSingle": 500.0,
+      "Radius": 6000.0,
+      "Stream": "sound/voice/e/all01_e04_tl.wma"
+    },
+    {
+      "Name": "all01_e04_kn",
+      "Category": 0,
+      "UnknownSingle": 500.0,
+      "Radius": 6000.0,
+      "Stream": "sound/voice/e/all01_e04_kn.wma"
+    },
+    {
+      "Name": "all01_e04_sd",
+      "Category": 0,
+      "UnknownSingle": 500.0,
+      "Radius": 6000.0,
+      "Stream": "sound/voice/e/all01_e04_sd.wma"
+    },
+    {
+      "Name": "all01_e04_rg",
+      "Category": 0,
+      "UnknownSingle": 500.0,
+      "Radius": 6000.0,
+      "Stream": "sound/voice/e/all01_e04_rg.wma"
+    },
+    {
+      "Name": "all01_e04_om",
+      "Category": 0,
+      "UnknownSingle": 500.0,
+      "Radius": 6000.0,
+      "Stream": "sound/voice/e/all01_e04_om.wma"
+    },
+    {
+      "Name": "all01_e04_am",
+      "Category": 0,
+      "UnknownSingle": 500.0,
+      "Radius": 6000.0,
+      "Stream": "sound/voice/e/all01_e04_am.wma"
+    },
+    {
+      "Name": "all01_e04_bz",
+      "Category": 0,
+      "UnknownSingle": 500.0,
+      "Radius": 6000.0,
+      "Stream": "sound/voice/e/all01_e04_bz.wma"
+    },
+    {
+      "Name": "all01_e04_sv",
+      "Category": 0,
+      "UnknownSingle": 500.0,
+      "Radius": 6000.0,
+      "Stream": "sound/voice/e/all01_e04_sv.wma"
+    },
+    {
+      "Name": "all01_e04_pr",
+      "Category": 0,
+      "UnknownSingle": 500.0,
+      "Radius": 6000.0,
+      "Stream": "sound/voice/e/all01_e04_pr.wma"
+    },
+    {
+      "Name": "all01_e05_sn",
+      "Category": 0,
+      "UnknownSingle": 500.0,
+      "Radius": 6000.0,
+      "Stream": "sound/voice/e/all01_e05_sn.wma"
+    },
+    {
+      "Name": "all01_e05_tl",
+      "Category": 0,
+      "UnknownSingle": 500.0,
+      "Radius": 6000.0,
+      "Stream": "sound/voice/e/all01_e05_tl.wma"
+    },
+    {
+      "Name": "all01_e05_kn",
+      "Category": 0,
+      "UnknownSingle": 500.0,
+      "Radius": 6000.0,
+      "Stream": "sound/voice/e/all01_e05_kn.wma"
+    },
+    {
+      "Name": "all01_e05_sd",
+      "Category": 0,
+      "UnknownSingle": 500.0,
+      "Radius": 6000.0,
+      "Stream": "sound/voice/e/all01_e05_sd.wma"
+    },
+    {
+      "Name": "all01_e05_rg",
+      "Category": 0,
+      "UnknownSingle": 500.0,
+      "Radius": 6000.0,
+      "Stream": "sound/voice/e/all01_e05_rg.wma"
+    },
+    {
+      "Name": "all01_e05_om",
+      "Category": 0,
+      "UnknownSingle": 500.0,
+      "Radius": 6000.0,
+      "Stream": "sound/voice/e/all01_e05_om.wma"
+    },
+    {
+      "Name": "all01_e05_am",
+      "Category": 0,
+      "UnknownSingle": 500.0,
+      "Radius": 6000.0,
+      "Stream": "sound/voice/e/all01_e05_am.wma"
+    },
+    {
+      "Name": "all01_e05_bz",
+      "Category": 0,
+      "UnknownSingle": 500.0,
+      "Radius": 6000.0,
+      "Stream": "sound/voice/e/all01_e05_bz.wma"
+    },
+    {
+      "Name": "all01_e05_sv",
+      "Category": 0,
+      "UnknownSingle": 500.0,
+      "Radius": 6000.0,
+      "Stream": "sound/voice/e/all01_e05_sv.wma"
+    },
+    {
+      "Name": "all01_e05_pr",
+      "Category": 0,
+      "UnknownSingle": 500.0,
+      "Radius": 6000.0,
+      "Stream": "sound/voice/e/all01_e05_pr.wma"
+    },
+    {
+      "Name": "all01_e06_sn",
+      "Category": 0,
+      "UnknownSingle": 500.0,
+      "Radius": 6000.0,
+      "Stream": "sound/voice/e/all01_e06_sn.wma"
+    },
+    {
+      "Name": "all01_e06_tl",
+      "Category": 0,
+      "UnknownSingle": 500.0,
+      "Radius": 6000.0,
+      "Stream": "sound/voice/e/all01_e06_tl.wma"
+    },
+    {
+      "Name": "all01_e06_kn",
+      "Category": 0,
+      "UnknownSingle": 500.0,
+      "Radius": 6000.0,
+      "Stream": "sound/voice/e/all01_e06_kn.wma"
+    },
+    {
+      "Name": "all01_e06_sd",
+      "Category": 0,
+      "UnknownSingle": 500.0,
+      "Radius": 6000.0,
+      "Stream": "sound/voice/e/all01_e06_sd.wma"
+    },
+    {
+      "Name": "all01_e06_rg",
+      "Category": 0,
+      "UnknownSingle": 500.0,
+      "Radius": 6000.0,
+      "Stream": "sound/voice/e/all01_e06_rg.wma"
+    },
+    {
+      "Name": "all01_e06_om",
+      "Category": 0,
+      "UnknownSingle": 500.0,
+      "Radius": 6000.0,
+      "Stream": "sound/voice/e/all01_e06_om.wma"
+    },
+    {
+      "Name": "all01_e06_am",
+      "Category": 0,
+      "UnknownSingle": 500.0,
+      "Radius": 6000.0,
+      "Stream": "sound/voice/e/all01_e06_am.wma"
+    },
+    {
+      "Name": "all01_e06_bz",
+      "Category": 0,
+      "UnknownSingle": 500.0,
+      "Radius": 6000.0,
+      "Stream": "sound/voice/e/all01_e06_bz.wma"
+    },
+    {
+      "Name": "all01_e06_sv",
+      "Category": 0,
+      "UnknownSingle": 500.0,
+      "Radius": 6000.0,
+      "Stream": "sound/voice/e/all01_e06_sv.wma"
+    },
+    {
+      "Name": "all01_e06_pr",
+      "Category": 0,
+      "UnknownSingle": 500.0,
+      "Radius": 6000.0,
+      "Stream": "sound/voice/e/all01_e06_pr.wma"
+    },
+    {
+      "Name": "all01_e07_sn",
+      "Category": 0,
+      "UnknownSingle": 500.0,
+      "Radius": 6000.0,
+      "Stream": "sound/voice/e/all01_e07_sn.wma"
+    },
+    {
+      "Name": "all01_e07_tl",
+      "Category": 0,
+      "UnknownSingle": 500.0,
+      "Radius": 6000.0,
+      "Stream": "sound/voice/e/all01_e07_tl.wma"
+    },
+    {
+      "Name": "all01_e07_kn",
+      "Category": 0,
+      "UnknownSingle": 500.0,
+      "Radius": 6000.0,
+      "Stream": "sound/voice/e/all01_e07_kn.wma"
+    },
+    {
+      "Name": "all01_e07_sd",
+      "Category": 0,
+      "UnknownSingle": 500.0,
+      "Radius": 6000.0,
+      "Stream": "sound/voice/e/all01_e07_sd.wma"
+    },
+    {
+      "Name": "all01_e07_rg",
+      "Category": 0,
+      "UnknownSingle": 500.0,
+      "Radius": 6000.0,
+      "Stream": "sound/voice/e/all01_e07_rg.wma"
+    },
+    {
+      "Name": "all01_e07_om",
+      "Category": 0,
+      "UnknownSingle": 500.0,
+      "Radius": 6000.0,
+      "Stream": "sound/voice/e/all01_e07_om.wma"
+    },
+    {
+      "Name": "all01_e07_am",
+      "Category": 0,
+      "UnknownSingle": 500.0,
+      "Radius": 6000.0,
+      "Stream": "sound/voice/e/all01_e07_am.wma"
+    },
+    {
+      "Name": "all01_e07_bz",
+      "Category": 0,
+      "UnknownSingle": 500.0,
+      "Radius": 6000.0,
+      "Stream": "sound/voice/e/all01_e07_bz.wma"
+    },
+    {
+      "Name": "all01_e07_sv",
+      "Category": 0,
+      "UnknownSingle": 500.0,
+      "Radius": 6000.0,
+      "Stream": "sound/voice/e/all01_e07_sv.wma"
+    },
+    {
+      "Name": "all01_e07_pr",
+      "Category": 0,
+      "UnknownSingle": 500.0,
+      "Radius": 6000.0,
+      "Stream": "sound/voice/e/all01_e07_pr.wma"
+    },
+    {
+      "Name": "all01_e08_sn",
+      "Category": 0,
+      "UnknownSingle": 500.0,
+      "Radius": 6000.0,
+      "Stream": "sound/voice/e/all01_e08_sn.wma"
+    },
+    {
+      "Name": "all01_e08_tl",
+      "Category": 0,
+      "UnknownSingle": 500.0,
+      "Radius": 6000.0,
+      "Stream": "sound/voice/e/all01_e08_tl.wma"
+    },
+    {
+      "Name": "all01_e08_kn",
+      "Category": 0,
+      "UnknownSingle": 500.0,
+      "Radius": 6000.0,
+      "Stream": "sound/voice/e/all01_e08_kn.wma"
+    },
+    {
+      "Name": "all01_e08_sd",
+      "Category": 0,
+      "UnknownSingle": 500.0,
+      "Radius": 6000.0,
+      "Stream": "sound/voice/e/all01_e08_sd.wma"
+    },
+    {
+      "Name": "all01_e08_rg",
+      "Category": 0,
+      "UnknownSingle": 500.0,
+      "Radius": 6000.0,
+      "Stream": "sound/voice/e/all01_e08_rg.wma"
+    },
+    {
+      "Name": "all01_e08_om",
+      "Category": 0,
+      "UnknownSingle": 500.0,
+      "Radius": 6000.0,
+      "Stream": "sound/voice/e/all01_e08_om.wma"
+    },
+    {
+      "Name": "all01_e08_am",
+      "Category": 0,
+      "UnknownSingle": 500.0,
+      "Radius": 6000.0,
+      "Stream": "sound/voice/e/all01_e08_am.wma"
+    },
+    {
+      "Name": "all01_e08_bz",
+      "Category": 0,
+      "UnknownSingle": 500.0,
+      "Radius": 6000.0,
+      "Stream": "sound/voice/e/all01_e08_bz.wma"
+    },
+    {
+      "Name": "all01_e08_sv",
+      "Category": 0,
+      "UnknownSingle": 500.0,
+      "Radius": 6000.0,
+      "Stream": "sound/voice/e/all01_e08_sv.wma"
+    },
+    {
+      "Name": "all01_e08_pr",
+      "Category": 0,
+      "UnknownSingle": 500.0,
+      "Radius": 6000.0,
+      "Stream": "sound/voice/e/all01_e08_pr.wma"
+    },
+    {
+      "Name": "all01_e09_sn",
+      "Category": 0,
+      "UnknownSingle": 500.0,
+      "Radius": 6000.0,
+      "Stream": "sound/voice/e/all01_e09_sn.wma"
+    },
+    {
+      "Name": "all01_e09_tl",
+      "Category": 0,
+      "UnknownSingle": 500.0,
+      "Radius": 6000.0,
+      "Stream": "sound/voice/e/all01_e09_tl.wma"
+    },
+    {
+      "Name": "all01_e09_kn",
+      "Category": 0,
+      "UnknownSingle": 500.0,
+      "Radius": 6000.0,
+      "Stream": "sound/voice/e/all01_e09_kn.wma"
+    },
+    {
+      "Name": "all01_e09_sd",
+      "Category": 0,
+      "UnknownSingle": 500.0,
+      "Radius": 6000.0,
+      "Stream": "sound/voice/e/all01_e09_sd.wma"
+    },
+    {
+      "Name": "all01_e09_rg",
+      "Category": 0,
+      "UnknownSingle": 500.0,
+      "Radius": 6000.0,
+      "Stream": "sound/voice/e/all01_e09_rg.wma"
+    },
+    {
+      "Name": "all01_e09_om",
+      "Category": 0,
+      "UnknownSingle": 500.0,
+      "Radius": 6000.0,
+      "Stream": "sound/voice/e/all01_e09_om.wma"
+    },
+    {
+      "Name": "all01_e09_am",
+      "Category": 0,
+      "UnknownSingle": 500.0,
+      "Radius": 6000.0,
+      "Stream": "sound/voice/e/all01_e09_am.wma"
+    },
+    {
+      "Name": "all01_e09_bz",
+      "Category": 0,
+      "UnknownSingle": 500.0,
+      "Radius": 6000.0,
+      "Stream": "sound/voice/e/all01_e09_bz.wma"
+    },
+    {
+      "Name": "all01_e09_sv",
+      "Category": 0,
+      "UnknownSingle": 500.0,
+      "Radius": 6000.0,
+      "Stream": "sound/voice/e/all01_e09_sv.wma"
+    },
+    {
+      "Name": "all01_e09_pr",
+      "Category": 0,
+      "UnknownSingle": 500.0,
+      "Radius": 6000.0,
+      "Stream": "sound/voice/e/all01_e09_pr.wma"
+    },
+    {
+      "Name": "all01_e10_sn",
+      "Category": 0,
+      "UnknownSingle": 500.0,
+      "Radius": 6000.0,
+      "Stream": "sound/voice/e/all01_e10_sn.wma"
+    },
+    {
+      "Name": "all02_a00_sn",
+      "Category": 0,
+      "UnknownSingle": 500.0,
+      "Radius": 6000.0,
+      "Stream": "sound/voice/e/all02_a00_sn.wma"
+    },
+    {
+      "Name": "all02_a00_tl",
+      "Category": 0,
+      "UnknownSingle": 500.0,
+      "Radius": 6000.0,
+      "Stream": "sound/voice/e/all02_a00_tl.wma"
+    },
+    {
+      "Name": "all02_a00_kn",
+      "Category": 0,
+      "UnknownSingle": 500.0,
+      "Radius": 6000.0,
+      "Stream": "sound/voice/e/all02_a00_kn.wma"
+    },
+    {
+      "Name": "all02_a00_sd",
+      "Category": 0,
+      "UnknownSingle": 500.0,
+      "Radius": 6000.0,
+      "Stream": "sound/voice/e/all02_a00_sd.wma"
+    },
+    {
+      "Name": "all02_a00_rg",
+      "Category": 0,
+      "UnknownSingle": 500.0,
+      "Radius": 6000.0,
+      "Stream": "sound/voice/e/all02_a00_rg.wma"
+    },
+    {
+      "Name": "all02_a00_om",
+      "Category": 0,
+      "UnknownSingle": 500.0,
+      "Radius": 6000.0,
+      "Stream": "sound/voice/e/all02_a00_om.wma"
+    },
+    {
+      "Name": "all02_a00_am",
+      "Category": 0,
+      "UnknownSingle": 500.0,
+      "Radius": 6000.0,
+      "Stream": "sound/voice/e/all02_a00_am.wma"
+    },
+    {
+      "Name": "all02_a00_bz",
+      "Category": 0,
+      "UnknownSingle": 500.0,
+      "Radius": 6000.0,
+      "Stream": "sound/voice/e/all02_a00_bz.wma"
+    },
+    {
+      "Name": "all02_a00_sv",
+      "Category": 0,
+      "UnknownSingle": 500.0,
+      "Radius": 6000.0,
+      "Stream": "sound/voice/e/all02_a00_sv.wma"
+    },
+    {
+      "Name": "all02_a00ps_sn",
+      "Category": 0,
+      "UnknownSingle": 500.0,
+      "Radius": 6000.0,
+      "Stream": "sound/voice/e/all02_a00ps_sn.wma"
+    },
+    {
+      "Name": "all02_a00ps_tl",
+      "Category": 0,
+      "UnknownSingle": 500.0,
+      "Radius": 6000.0,
+      "Stream": "sound/voice/e/all02_a00ps_tl.wma"
+    },
+    {
+      "Name": "all02_a00ps_kn",
+      "Category": 0,
+      "UnknownSingle": 500.0,
+      "Radius": 6000.0,
+      "Stream": "sound/voice/e/all02_a00ps_kn.wma"
+    },
+    {
+      "Name": "all02_a00ps_sd",
+      "Category": 0,
+      "UnknownSingle": 500.0,
+      "Radius": 6000.0,
+      "Stream": "sound/voice/e/all02_a00ps_sd.wma"
+    },
+    {
+      "Name": "all02_a00ps_rg",
+      "Category": 0,
+      "UnknownSingle": 500.0,
+      "Radius": 6000.0,
+      "Stream": "sound/voice/e/all02_a00ps_rg.wma"
+    },
+    {
+      "Name": "all02_a00ps_om",
+      "Category": 0,
+      "UnknownSingle": 500.0,
+      "Radius": 6000.0,
+      "Stream": "sound/voice/e/all02_a00ps_om.wma"
+    },
+    {
+      "Name": "all02_a00ps_am",
+      "Category": 0,
+      "UnknownSingle": 500.0,
+      "Radius": 6000.0,
+      "Stream": "sound/voice/e/all02_a00ps_am.wma"
+    },
+    {
+      "Name": "all02_a00ps_bz",
+      "Category": 0,
+      "UnknownSingle": 500.0,
+      "Radius": 6000.0,
+      "Stream": "sound/voice/e/all02_a00ps_bz.wma"
+    },
+    {
+      "Name": "all02_a00ps_sv",
+      "Category": 0,
+      "UnknownSingle": 500.0,
+      "Radius": 6000.0,
+      "Stream": "sound/voice/e/all02_a00ps_sv.wma"
+    },
+    {
+      "Name": "all03_a00_sn",
+      "Category": 0,
+      "UnknownSingle": 500.0,
+      "Radius": 6000.0,
+      "Stream": "sound/voice/e/all03_a00_sn.wma"
+    },
+    {
+      "Name": "all03_a00_tl",
+      "Category": 0,
+      "UnknownSingle": 500.0,
+      "Radius": 6000.0,
+      "Stream": "sound/voice/e/all03_a00_tl.wma"
+    },
+    {
+      "Name": "all03_a00_kn",
+      "Category": 0,
+      "UnknownSingle": 500.0,
+      "Radius": 6000.0,
+      "Stream": "sound/voice/e/all03_a00_kn.wma"
+    },
+    {
+      "Name": "all03_a00_sd",
+      "Category": 0,
+      "UnknownSingle": 500.0,
+      "Radius": 6000.0,
+      "Stream": "sound/voice/e/all03_a00_sd.wma"
+    },
+    {
+      "Name": "all03_a00_rg",
+      "Category": 0,
+      "UnknownSingle": 500.0,
+      "Radius": 6000.0,
+      "Stream": "sound/voice/e/all03_a00_rg.wma"
+    },
+    {
+      "Name": "all03_a00_om",
+      "Category": 0,
+      "UnknownSingle": 500.0,
+      "Radius": 6000.0,
+      "Stream": "sound/voice/e/all03_a00_om.wma"
+    },
+    {
+      "Name": "all03_a00_am",
+      "Category": 0,
+      "UnknownSingle": 500.0,
+      "Radius": 6000.0,
+      "Stream": "sound/voice/e/all03_a00_am.wma"
+    },
+    {
+      "Name": "all03_a00_bz",
+      "Category": 0,
+      "UnknownSingle": 500.0,
+      "Radius": 6000.0,
+      "Stream": "sound/voice/e/all03_a00_bz.wma"
+    },
+    {
+      "Name": "all03_a00_sv",
+      "Category": 0,
+      "UnknownSingle": 500.0,
+      "Radius": 6000.0,
+      "Stream": "sound/voice/e/all03_a00_sv.wma"
+    },
+    {
+      "Name": "all03_a00_pr",
+      "Category": 0,
+      "UnknownSingle": 500.0,
+      "Radius": 6000.0,
+      "Stream": "sound/voice/e/all03_a00_pr.wma"
+    },
+    {
+      "Name": "all03_a01_sn",
+      "Category": 0,
+      "UnknownSingle": 500.0,
+      "Radius": 6000.0,
+      "Stream": "sound/voice/e/all03_a01_sn.wma"
+    },
+    {
+      "Name": "all03_a01_sd",
+      "Category": 0,
+      "UnknownSingle": 500.0,
+      "Radius": 6000.0,
+      "Stream": "sound/voice/e/all03_a01_sd.wma"
+    },
+    {
+      "Name": "all03_a01_bz",
+      "Category": 0,
+      "UnknownSingle": 500.0,
+      "Radius": 6000.0,
+      "Stream": "sound/voice/e/all03_a01_bz.wma"
+    },
+    {
+      "Name": "all03_a01ps_sn",
+      "Category": 0,
+      "UnknownSingle": 500.0,
+      "Radius": 6000.0,
+      "Stream": "sound/voice/e/all03_a01ps_sn.wma"
+    },
+    {
+      "Name": "all03_a01ps_sd",
+      "Category": 0,
+      "UnknownSingle": 500.0,
+      "Radius": 6000.0,
+      "Stream": "sound/voice/e/all03_a01ps_sd.wma"
+    },
+    {
+      "Name": "all03_a01ps_bz",
+      "Category": 0,
+      "UnknownSingle": 500.0,
+      "Radius": 6000.0,
+      "Stream": "sound/voice/e/all03_a01ps_bz.wma"
+    },
+    {
+      "Name": "all03_h00_so",
+      "Category": 0,
+      "UnknownSingle": 500.0,
+      "Radius": 6000.0,
+      "Stream": "sound/voice/e/all03_h00_so.wma"
+    },
+    {
+      "Name": "all03_h01_so",
+      "Category": 0,
+      "UnknownSingle": 500.0,
+      "Radius": 6000.0,
+      "Stream": "sound/voice/e/all03_h01_so.wma"
+    },
+    {
+      "Name": "all03_h02_so",
+      "Category": 0,
+      "UnknownSingle": 500.0,
+      "Radius": 6000.0,
+      "Stream": "sound/voice/e/all03_h02_so.wma"
+    },
+    {
+      "Name": "all03_h03_so",
+      "Category": 0,
+      "UnknownSingle": 500.0,
+      "Radius": 6000.0,
+      "Stream": "sound/voice/e/all03_h03_so.wma"
+    },
+    {
+      "Name": "all03_h04_so",
+      "Category": 0,
+      "UnknownSingle": 500.0,
+      "Radius": 6000.0,
+      "Stream": "sound/voice/e/all03_h04_so.wma"
+    },
+    {
+      "Name": "all03_h05_so",
+      "Category": 0,
+      "UnknownSingle": 500.0,
+      "Radius": 6000.0,
+      "Stream": "sound/voice/e/all03_h05_so.wma"
+    },
+    {
+      "Name": "all03_h06_so",
+      "Category": 0,
+      "UnknownSingle": 500.0,
+      "Radius": 6000.0,
+      "Stream": "sound/voice/e/all03_h06_so.wma"
+    },
+    {
+      "Name": "all03_h07_so",
+      "Category": 0,
+      "UnknownSingle": 500.0,
+      "Radius": 6000.0,
+      "Stream": "sound/voice/e/all03_h07_so.wma"
+    },
+    {
+      "Name": "all03_h08_so",
+      "Category": 0,
+      "UnknownSingle": 500.0,
+      "Radius": 6000.0,
+      "Stream": "sound/voice/e/all03_h08_so.wma"
+    },
+    {
+      "Name": "all03_h09_so",
+      "Category": 0,
+      "UnknownSingle": 500.0,
+      "Radius": 6000.0,
+      "Stream": "sound/voice/e/all03_h09_so.wma"
+    },
+    {
+      "Name": "all03_h10_so",
+      "Category": 0,
+      "UnknownSingle": 500.0,
+      "Radius": 6000.0,
+      "Stream": "sound/voice/e/all03_h10_so.wma"
+    },
+    {
+      "Name": "all03_h11_so",
+      "Category": 0,
+      "UnknownSingle": 500.0,
+      "Radius": 6000.0,
+      "Stream": "sound/voice/e/all03_h11_so.wma"
+    },
+    {
+      "Name": "all03_h12_so",
+      "Category": 0,
+      "UnknownSingle": 500.0,
+      "Radius": 6000.0,
+      "Stream": "sound/voice/e/all03_h12_so.wma"
+    },
+    {
+      "Name": "all03_h13_so",
+      "Category": 0,
+      "UnknownSingle": 500.0,
+      "Radius": 6000.0,
+      "Stream": "sound/voice/e/all03_h13_so.wma"
+    },
+    {
+      "Name": "all03_h14_so",
+      "Category": 0,
+      "UnknownSingle": 500.0,
+      "Radius": 6000.0,
+      "Stream": "sound/voice/e/all03_h14_so.wma"
+    },
+    {
+      "Name": "all03_h15_so",
+      "Category": 0,
+      "UnknownSingle": 500.0,
+      "Radius": 6000.0,
+      "Stream": "sound/voice/e/all03_h15_so.wma"
+    },
+    {
+      "Name": "all03_h16_so",
+      "Category": 0,
+      "UnknownSingle": 500.0,
+      "Radius": 6000.0,
+      "Stream": "sound/voice/e/all03_h16_so.wma"
+    },
+    {
+      "Name": "all03_h17_so",
+      "Category": 0,
+      "UnknownSingle": 500.0,
+      "Radius": 6000.0,
+      "Stream": "sound/voice/e/all03_h17_so.wma"
+    },
+    {
+      "Name": "all03_h18_so",
+      "Category": 0,
+      "UnknownSingle": 500.0,
+      "Radius": 6000.0,
+      "Stream": "sound/voice/e/all03_h18_so.wma"
+    },
+    {
+      "Name": "all03_h19_so",
+      "Category": 0,
+      "UnknownSingle": 500.0,
+      "Radius": 6000.0,
+      "Stream": "sound/voice/e/all03_h19_so.wma"
+    },
+    {
+      "Name": "all03_h20_so",
+      "Category": 0,
+      "UnknownSingle": 500.0,
+      "Radius": 6000.0,
+      "Stream": "sound/voice/e/all03_h20_so.wma"
+    },
+    {
+      "Name": "all03_h21_so",
+      "Category": 0,
+      "UnknownSingle": 500.0,
+      "Radius": 6000.0,
+      "Stream": "sound/voice/e/all03_h21_so.wma"
+    },
+    {
+      "Name": "all03_h22_so",
+      "Category": 0,
+      "UnknownSingle": 500.0,
+      "Radius": 6000.0,
+      "Stream": "sound/voice/e/all03_h22_so.wma"
+    },
+    {
+      "Name": "all03_h23_so",
+      "Category": 0,
+      "UnknownSingle": 500.0,
+      "Radius": 6000.0,
+      "Stream": "sound/voice/e/all03_h23_so.wma"
+    },
+    {
+      "Name": "all03_h24_so",
+      "Category": 0,
+      "UnknownSingle": 500.0,
+      "Radius": 6000.0,
+      "Stream": "sound/voice/e/all03_h24_so.wma"
+    },
+    {
+      "Name": "all03_h25_so",
+      "Category": 0,
+      "UnknownSingle": 500.0,
+      "Radius": 6000.0,
+      "Stream": "sound/voice/e/all03_h25_so.wma"
+    },
+    {
+      "Name": "all03_h26_so",
+      "Category": 0,
+      "UnknownSingle": 500.0,
+      "Radius": 6000.0,
+      "Stream": "sound/voice/e/all03_h26_so.wma"
+    },
+    {
+      "Name": "all03_h27_so",
+      "Category": 0,
+      "UnknownSingle": 500.0,
+      "Radius": 6000.0,
+      "Stream": "sound/voice/e/all03_h27_so.wma"
+    },
+    {
+      "Name": "all03_h28_so",
+      "Category": 0,
+      "UnknownSingle": 500.0,
+      "Radius": 6000.0,
+      "Stream": "sound/voice/e/all03_h28_so.wma"
+    },
+    {
+      "Name": "all03_h29_so",
+      "Category": 0,
+      "UnknownSingle": 500.0,
+      "Radius": 6000.0,
+      "Stream": "sound/voice/e/all03_h29_so.wma"
+    },
+    {
+      "Name": "all03_h30_so",
+      "Category": 0,
+      "UnknownSingle": 500.0,
+      "Radius": 6000.0,
+      "Stream": "sound/voice/e/all03_h30_so.wma"
+    },
+    {
+      "Name": "all03_h31_so",
+      "Category": 0,
+      "UnknownSingle": 500.0,
+      "Radius": 6000.0,
+      "Stream": "sound/voice/e/all03_h31_so.wma"
+    },
+    {
+      "Name": "all03_h32_so",
+      "Category": 0,
+      "UnknownSingle": 500.0,
+      "Radius": 6000.0,
+      "Stream": "sound/voice/e/all03_h32_so.wma"
+    },
+    {
+      "Name": "all03_h33_so",
+      "Category": 0,
+      "UnknownSingle": 500.0,
+      "Radius": 6000.0,
+      "Stream": "sound/voice/e/all03_h33_so.wma"
+    },
+    {
+      "Name": "all03_h34_so",
+      "Category": 0,
+      "UnknownSingle": 500.0,
+      "Radius": 6000.0,
+      "Stream": "sound/voice/e/all03_h34_so.wma"
+    },
+    {
+      "Name": "all03_h35_so",
+      "Category": 0,
+      "UnknownSingle": 500.0,
+      "Radius": 6000.0,
+      "Stream": "sound/voice/e/all03_h35_so.wma"
+    },
+    {
+      "Name": "all03_h00ps_so",
+      "Category": 0,
+      "UnknownSingle": 500.0,
+      "Radius": 6000.0,
+      "Stream": "sound/voice/e/all03_h00ps_so.wma"
+    },
+    {
+      "Name": "all03_h01ps_so",
+      "Category": 0,
+      "UnknownSingle": 500.0,
+      "Radius": 6000.0,
+      "Stream": "sound/voice/e/all03_h01ps_so.wma"
+    },
+    {
+      "Name": "all03_h02ps_so",
+      "Category": 0,
+      "UnknownSingle": 500.0,
+      "Radius": 6000.0,
+      "Stream": "sound/voice/e/all03_h02ps_so.wma"
+    },
+    {
+      "Name": "all03_h03ps_so",
+      "Category": 0,
+      "UnknownSingle": 500.0,
+      "Radius": 6000.0,
+      "Stream": "sound/voice/e/all03_h03ps_so.wma"
+    },
+    {
+      "Name": "all03_h04ps_so",
+      "Category": 0,
+      "UnknownSingle": 500.0,
+      "Radius": 6000.0,
+      "Stream": "sound/voice/e/all03_h04ps_so.wma"
+    },
+    {
+      "Name": "all03_h05ps_so",
+      "Category": 0,
+      "UnknownSingle": 500.0,
+      "Radius": 6000.0,
+      "Stream": "sound/voice/e/all03_h05ps_so.wma"
+    },
+    {
+      "Name": "all03_h06ps_so",
+      "Category": 0,
+      "UnknownSingle": 500.0,
+      "Radius": 6000.0,
+      "Stream": "sound/voice/e/all03_h06ps_so.wma"
+    },
+    {
+      "Name": "all03_h07ps_so",
+      "Category": 0,
+      "UnknownSingle": 500.0,
+      "Radius": 6000.0,
+      "Stream": "sound/voice/e/all03_h07ps_so.wma"
+    },
+    {
+      "Name": "all03_h08ps_so",
+      "Category": 0,
+      "UnknownSingle": 500.0,
+      "Radius": 6000.0,
+      "Stream": "sound/voice/e/all03_h08ps_so.wma"
+    },
+    {
+      "Name": "all03_h09ps_so",
+      "Category": 0,
+      "UnknownSingle": 500.0,
+      "Radius": 6000.0,
+      "Stream": "sound/voice/e/all03_h09ps_so.wma"
+    },
+    {
+      "Name": "all03_h10ps_so",
+      "Category": 0,
+      "UnknownSingle": 500.0,
+      "Radius": 6000.0,
+      "Stream": "sound/voice/e/all03_h10ps_so.wma"
+    },
+    {
+      "Name": "all03_h11ps_so",
+      "Category": 0,
+      "UnknownSingle": 500.0,
+      "Radius": 6000.0,
+      "Stream": "sound/voice/e/all03_h11ps_so.wma"
+    },
+    {
+      "Name": "all03_h12ps_so",
+      "Category": 0,
+      "UnknownSingle": 500.0,
+      "Radius": 6000.0,
+      "Stream": "sound/voice/e/all03_h12ps_so.wma"
+    },
+    {
+      "Name": "all03_h13ps_so",
+      "Category": 0,
+      "UnknownSingle": 500.0,
+      "Radius": 6000.0,
+      "Stream": "sound/voice/e/all03_h13ps_so.wma"
+    },
+    {
+      "Name": "all03_h14ps_so",
+      "Category": 0,
+      "UnknownSingle": 500.0,
+      "Radius": 6000.0,
+      "Stream": "sound/voice/e/all03_h14ps_so.wma"
+    },
+    {
+      "Name": "all03_h15ps_so",
+      "Category": 0,
+      "UnknownSingle": 500.0,
+      "Radius": 6000.0,
+      "Stream": "sound/voice/e/all03_h15ps_so.wma"
+    },
+    {
+      "Name": "all03_h16ps_so",
+      "Category": 0,
+      "UnknownSingle": 500.0,
+      "Radius": 6000.0,
+      "Stream": "sound/voice/e/all03_h16ps_so.wma"
+    },
+    {
+      "Name": "all03_h17ps_so",
+      "Category": 0,
+      "UnknownSingle": 500.0,
+      "Radius": 6000.0,
+      "Stream": "sound/voice/e/all03_h17ps_so.wma"
+    },
+    {
+      "Name": "all03_h18ps_so",
+      "Category": 0,
+      "UnknownSingle": 500.0,
+      "Radius": 6000.0,
+      "Stream": "sound/voice/e/all03_h18ps_so.wma"
+    },
+    {
+      "Name": "all03_h19ps_so",
+      "Category": 0,
+      "UnknownSingle": 500.0,
+      "Radius": 6000.0,
+      "Stream": "sound/voice/e/all03_h19ps_so.wma"
+    },
+    {
+      "Name": "all03_h20ps_so",
+      "Category": 0,
+      "UnknownSingle": 500.0,
+      "Radius": 6000.0,
+      "Stream": "sound/voice/e/all03_h20ps_so.wma"
+    },
+    {
+      "Name": "all03_h21ps_so",
+      "Category": 0,
+      "UnknownSingle": 500.0,
+      "Radius": 6000.0,
+      "Stream": "sound/voice/e/all03_h21ps_so.wma"
+    },
+    {
+      "Name": "all03_h22ps_so",
+      "Category": 0,
+      "UnknownSingle": 500.0,
+      "Radius": 6000.0,
+      "Stream": "sound/voice/e/all03_h22ps_so.wma"
+    },
+    {
+      "Name": "all03_h23ps_so",
+      "Category": 0,
+      "UnknownSingle": 500.0,
+      "Radius": 6000.0,
+      "Stream": "sound/voice/e/all03_h23ps_so.wma"
+    },
+    {
+      "Name": "all03_h24ps_so",
+      "Category": 0,
+      "UnknownSingle": 500.0,
+      "Radius": 6000.0,
+      "Stream": "sound/voice/e/all03_h24ps_so.wma"
+    },
+    {
+      "Name": "all03_h25ps_so",
+      "Category": 0,
+      "UnknownSingle": 500.0,
+      "Radius": 6000.0,
+      "Stream": "sound/voice/e/all03_h25ps_so.wma"
+    },
+    {
+      "Name": "all03_h26ps_so",
+      "Category": 0,
+      "UnknownSingle": 500.0,
+      "Radius": 6000.0,
+      "Stream": "sound/voice/e/all03_h26ps_so.wma"
+    },
+    {
+      "Name": "all03_h27ps_so",
+      "Category": 0,
+      "UnknownSingle": 500.0,
+      "Radius": 6000.0,
+      "Stream": "sound/voice/e/all03_h27ps_so.wma"
+    },
+    {
+      "Name": "all03_h28ps_so",
+      "Category": 0,
+      "UnknownSingle": 500.0,
+      "Radius": 6000.0,
+      "Stream": "sound/voice/e/all03_h28ps_so.wma"
+    },
+    {
+      "Name": "all03_h29ps_so",
+      "Category": 0,
+      "UnknownSingle": 500.0,
+      "Radius": 6000.0,
+      "Stream": "sound/voice/e/all03_h29ps_so.wma"
+    },
+    {
+      "Name": "all03_h30ps_so",
+      "Category": 0,
+      "UnknownSingle": 500.0,
+      "Radius": 6000.0,
+      "Stream": "sound/voice/e/all03_h30ps_so.wma"
+    },
+    {
+      "Name": "all03_h31ps_so",
+      "Category": 0,
+      "UnknownSingle": 500.0,
+      "Radius": 6000.0,
+      "Stream": "sound/voice/e/all03_h31ps_so.wma"
+    },
+    {
+      "Name": "all03_h32ps_so",
+      "Category": 0,
+      "UnknownSingle": 500.0,
+      "Radius": 6000.0,
+      "Stream": "sound/voice/e/all03_h32ps_so.wma"
+    },
+    {
+      "Name": "all03_h33ps_so",
+      "Category": 0,
+      "UnknownSingle": 500.0,
+      "Radius": 6000.0,
+      "Stream": "sound/voice/e/all03_h33ps_so.wma"
+    },
+    {
+      "Name": "all03_h34ps_so",
+      "Category": 0,
+      "UnknownSingle": 500.0,
+      "Radius": 6000.0,
+      "Stream": "sound/voice/e/all03_h34ps_so.wma"
+    },
+    {
+      "Name": "all03_h35ps_so",
+      "Category": 0,
+      "UnknownSingle": 500.0,
+      "Radius": 6000.0,
+      "Stream": "sound/voice/e/all03_h35ps_so.wma"
+    },
+    {
+      "Name": "all03_h36_so",
+      "Category": 0,
+      "UnknownSingle": 500.0,
+      "Radius": 6000.0,
+      "Stream": "sound/voice/e/all03_h36_so.wma"
+    },
+    {
+      "Name": "all03_h37_so",
+      "Category": 0,
+      "UnknownSingle": 500.0,
+      "Radius": 6000.0,
+      "Stream": "sound/voice/e/all03_h37_so.wma"
+    },
+    {
+      "Name": "all03_h38_so",
+      "Category": 0,
+      "UnknownSingle": 500.0,
+      "Radius": 6000.0,
+      "Stream": "sound/voice/e/all03_h38_so.wma"
+    },
+    {
+      "Name": "all04_a00_sn",
+      "Category": 0,
+      "UnknownSingle": 500.0,
+      "Radius": 6000.0,
+      "Stream": "sound/voice/e/all04_a00_sn.wma"
+    },
+    {
+      "Name": "all04_a00_tl",
+      "Category": 0,
+      "UnknownSingle": 500.0,
+      "Radius": 6000.0,
+      "Stream": "sound/voice/e/all04_a00_tl.wma"
+    },
+    {
+      "Name": "all04_a00_kn",
+      "Category": 0,
+      "UnknownSingle": 500.0,
+      "Radius": 6000.0,
+      "Stream": "sound/voice/e/all04_a00_kn.wma"
+    },
+    {
+      "Name": "all04_a00_sd",
+      "Category": 0,
+      "UnknownSingle": 500.0,
+      "Radius": 6000.0,
+      "Stream": "sound/voice/e/all04_a00_sd.wma"
+    },
+    {
+      "Name": "all04_a00_rg",
+      "Category": 0,
+      "UnknownSingle": 500.0,
+      "Radius": 6000.0,
+      "Stream": "sound/voice/e/all04_a00_rg.wma"
+    },
+    {
+      "Name": "all04_a00_om",
+      "Category": 0,
+      "UnknownSingle": 500.0,
+      "Radius": 6000.0,
+      "Stream": "sound/voice/e/all04_a00_om.wma"
+    },
+    {
+      "Name": "all04_a00_am",
+      "Category": 0,
+      "UnknownSingle": 500.0,
+      "Radius": 6000.0,
+      "Stream": "sound/voice/e/all04_a00_am.wma"
+    },
+    {
+      "Name": "all04_a00_bz",
+      "Category": 0,
+      "UnknownSingle": 500.0,
+      "Radius": 6000.0,
+      "Stream": "sound/voice/e/all04_a00_bz.wma"
+    },
+    {
+      "Name": "all04_a00_sv",
+      "Category": 0,
+      "UnknownSingle": 500.0,
+      "Radius": 6000.0,
+      "Stream": "sound/voice/e/all04_a00_sv.wma"
+    },
+    {
+      "Name": "all04_a01_sn",
+      "Category": 0,
+      "UnknownSingle": 500.0,
+      "Radius": 6000.0,
+      "Stream": "sound/voice/e/all04_a01_sn.wma"
+    },
+    {
+      "Name": "all04_a01_sd",
+      "Category": 0,
+      "UnknownSingle": 500.0,
+      "Radius": 6000.0,
+      "Stream": "sound/voice/e/all04_a01_sd.wma"
+    },
+    {
+      "Name": "all04_a02_sn",
+      "Category": 0,
+      "UnknownSingle": 500.0,
+      "Radius": 6000.0,
+      "Stream": "sound/voice/e/all04_a02_sn.wma"
+    },
+    {
+      "Name": "all04_a02_tl",
+      "Category": 0,
+      "UnknownSingle": 500.0,
+      "Radius": 6000.0,
+      "Stream": "sound/voice/e/all04_a02_tl.wma"
+    },
+    {
+      "Name": "all04_a02_kn",
+      "Category": 0,
+      "UnknownSingle": 500.0,
+      "Radius": 6000.0,
+      "Stream": "sound/voice/e/all04_a02_kn.wma"
+    },
+    {
+      "Name": "all04_a02_sd",
+      "Category": 0,
+      "UnknownSingle": 500.0,
+      "Radius": 6000.0,
+      "Stream": "sound/voice/e/all04_a02_sd.wma"
+    },
+    {
+      "Name": "all04_a02_rg",
+      "Category": 0,
+      "UnknownSingle": 500.0,
+      "Radius": 6000.0,
+      "Stream": "sound/voice/e/all04_a02_rg.wma"
+    },
+    {
+      "Name": "all04_a02_om",
+      "Category": 0,
+      "UnknownSingle": 500.0,
+      "Radius": 6000.0,
+      "Stream": "sound/voice/e/all04_a02_om.wma"
+    },
+    {
+      "Name": "all04_a02_am",
+      "Category": 0,
+      "UnknownSingle": 500.0,
+      "Radius": 6000.0,
+      "Stream": "sound/voice/e/all04_a02_am.wma"
+    },
+    {
+      "Name": "all04_a02_bz",
+      "Category": 0,
+      "UnknownSingle": 500.0,
+      "Radius": 6000.0,
+      "Stream": "sound/voice/e/all04_a02_bz.wma"
+    },
+    {
+      "Name": "all04_a02_sv",
+      "Category": 0,
+      "UnknownSingle": 500.0,
+      "Radius": 6000.0,
+      "Stream": "sound/voice/e/all04_a02_sv.wma"
+    },
+    {
+      "Name": "all04_a03_sn",
+      "Category": 0,
+      "UnknownSingle": 500.0,
+      "Radius": 6000.0,
+      "Stream": "sound/voice/e/all04_a03_sn.wma"
+    },
+    {
+      "Name": "all04_a03_tl",
+      "Category": 0,
+      "UnknownSingle": 500.0,
+      "Radius": 6000.0,
+      "Stream": "sound/voice/e/all04_a03_tl.wma"
+    },
+    {
+      "Name": "all04_a03_kn",
+      "Category": 0,
+      "UnknownSingle": 500.0,
+      "Radius": 6000.0,
+      "Stream": "sound/voice/e/all04_a03_kn.wma"
+    },
+    {
+      "Name": "all04_a03_sd",
+      "Category": 0,
+      "UnknownSingle": 500.0,
+      "Radius": 6000.0,
+      "Stream": "sound/voice/e/all04_a03_sd.wma"
+    },
+    {
+      "Name": "all04_a03_rg",
+      "Category": 0,
+      "UnknownSingle": 500.0,
+      "Radius": 6000.0,
+      "Stream": "sound/voice/e/all04_a03_rg.wma"
+    },
+    {
+      "Name": "all04_a03_om",
+      "Category": 0,
+      "UnknownSingle": 500.0,
+      "Radius": 6000.0,
+      "Stream": "sound/voice/e/all04_a03_om.wma"
+    },
+    {
+      "Name": "all04_a03_am",
+      "Category": 0,
+      "UnknownSingle": 500.0,
+      "Radius": 6000.0,
+      "Stream": "sound/voice/e/all04_a03_am.wma"
+    },
+    {
+      "Name": "all04_a03_bz",
+      "Category": 0,
+      "UnknownSingle": 500.0,
+      "Radius": 6000.0,
+      "Stream": "sound/voice/e/all04_a03_bz.wma"
+    },
+    {
+      "Name": "all04_a03_sv",
+      "Category": 0,
+      "UnknownSingle": 500.0,
+      "Radius": 6000.0,
+      "Stream": "sound/voice/e/all04_a03_sv.wma"
+    },
+    {
+      "Name": "all04_a04_sn",
+      "Category": 0,
+      "UnknownSingle": 500.0,
+      "Radius": 6000.0,
+      "Stream": "sound/voice/e/all04_a04_sn.wma"
+    },
+    {
+      "Name": "all04_a04_tl",
+      "Category": 0,
+      "UnknownSingle": 500.0,
+      "Radius": 6000.0,
+      "Stream": "sound/voice/e/all04_a04_tl.wma"
+    },
+    {
+      "Name": "all04_a04_kn",
+      "Category": 0,
+      "UnknownSingle": 500.0,
+      "Radius": 6000.0,
+      "Stream": "sound/voice/e/all04_a04_kn.wma"
+    },
+    {
+      "Name": "all04_a04_sd",
+      "Category": 0,
+      "UnknownSingle": 500.0,
+      "Radius": 6000.0,
+      "Stream": "sound/voice/e/all04_a04_sd.wma"
+    },
+    {
+      "Name": "all04_a04_rg",
+      "Category": 0,
+      "UnknownSingle": 500.0,
+      "Radius": 6000.0,
+      "Stream": "sound/voice/e/all04_a04_rg.wma"
+    },
+    {
+      "Name": "all04_a04_om",
+      "Category": 0,
+      "UnknownSingle": 500.0,
+      "Radius": 6000.0,
+      "Stream": "sound/voice/e/all04_a04_om.wma"
+    },
+    {
+      "Name": "all04_a04_am",
+      "Category": 0,
+      "UnknownSingle": 500.0,
+      "Radius": 6000.0,
+      "Stream": "sound/voice/e/all04_a04_am.wma"
+    },
+    {
+      "Name": "all04_a04_bz",
+      "Category": 0,
+      "UnknownSingle": 500.0,
+      "Radius": 6000.0,
+      "Stream": "sound/voice/e/all04_a04_bz.wma"
+    },
+    {
+      "Name": "all04_a04_sv",
+      "Category": 0,
+      "UnknownSingle": 500.0,
+      "Radius": 6000.0,
+      "Stream": "sound/voice/e/all04_a04_sv.wma"
+    },
+    {
+      "Name": "all04_a05_sn",
+      "Category": 0,
+      "UnknownSingle": 500.0,
+      "Radius": 6000.0,
+      "Stream": "sound/voice/e/all04_a05_sn.wma"
+    },
+    {
+      "Name": "all04_a05_sd",
+      "Category": 0,
+      "UnknownSingle": 500.0,
+      "Radius": 6000.0,
+      "Stream": "sound/voice/e/all04_a05_sd.wma"
+    },
+    {
+      "Name": "all04_a05_sv",
+      "Category": 0,
+      "UnknownSingle": 500.0,
+      "Radius": 6000.0,
+      "Stream": "sound/voice/e/all04_a05_sv.wma"
+    },
+    {
+      "Name": "all04_a06_sn",
+      "Category": 0,
+      "UnknownSingle": 500.0,
+      "Radius": 6000.0,
+      "Stream": "sound/voice/e/all04_a06_sn.wma"
+    },
+    {
+      "Name": "all04_a06_sd",
+      "Category": 0,
+      "UnknownSingle": 500.0,
+      "Radius": 6000.0,
+      "Stream": "sound/voice/e/all04_a06_sd.wma"
+    },
+    {
+      "Name": "all04_a06_sv",
+      "Category": 0,
+      "UnknownSingle": 500.0,
+      "Radius": 6000.0,
+      "Stream": "sound/voice/e/all04_a06_sv.wma"
+    },
+    {
+      "Name": "all04_a07_sn",
+      "Category": 0,
+      "UnknownSingle": 500.0,
+      "Radius": 6000.0,
+      "Stream": "sound/voice/e/all04_a07_sn.wma"
+    },
+    {
+      "Name": "all04_a07_tl",
+      "Category": 0,
+      "UnknownSingle": 500.0,
+      "Radius": 6000.0,
+      "Stream": "sound/voice/e/all04_a07_tl.wma"
+    },
+    {
+      "Name": "all04_a07_kn",
+      "Category": 0,
+      "UnknownSingle": 500.0,
+      "Radius": 6000.0,
+      "Stream": "sound/voice/e/all04_a07_kn.wma"
+    },
+    {
+      "Name": "all04_a07_sd",
+      "Category": 0,
+      "UnknownSingle": 500.0,
+      "Radius": 6000.0,
+      "Stream": "sound/voice/e/all04_a07_sd.wma"
+    },
+    {
+      "Name": "all04_a07_rg",
+      "Category": 0,
+      "UnknownSingle": 500.0,
+      "Radius": 6000.0,
+      "Stream": "sound/voice/e/all04_a07_rg.wma"
+    },
+    {
+      "Name": "all04_a07_om",
+      "Category": 0,
+      "UnknownSingle": 500.0,
+      "Radius": 6000.0,
+      "Stream": "sound/voice/e/all04_a07_om.wma"
+    },
+    {
+      "Name": "all04_a07_am",
+      "Category": 0,
+      "UnknownSingle": 500.0,
+      "Radius": 6000.0,
+      "Stream": "sound/voice/e/all04_a07_am.wma"
+    },
+    {
+      "Name": "all04_a07_bz",
+      "Category": 0,
+      "UnknownSingle": 500.0,
+      "Radius": 6000.0,
+      "Stream": "sound/voice/e/all04_a07_bz.wma"
+    },
+    {
+      "Name": "all04_a07_sv",
+      "Category": 0,
+      "UnknownSingle": 500.0,
+      "Radius": 6000.0,
+      "Stream": "sound/voice/e/all04_a07_sv.wma"
+    },
+    {
+      "Name": "all04_a08_sn",
+      "Category": 0,
+      "UnknownSingle": 500.0,
+      "Radius": 6000.0,
+      "Stream": "sound/voice/e/all04_a08_sn.wma"
+    },
+    {
+      "Name": "all04_a08_tl",
+      "Category": 0,
+      "UnknownSingle": 500.0,
+      "Radius": 6000.0,
+      "Stream": "sound/voice/e/all04_a08_tl.wma"
+    },
+    {
+      "Name": "all04_a08_kn",
+      "Category": 0,
+      "UnknownSingle": 500.0,
+      "Radius": 6000.0,
+      "Stream": "sound/voice/e/all04_a08_kn.wma"
+    },
+    {
+      "Name": "all04_a08_sd",
+      "Category": 0,
+      "UnknownSingle": 500.0,
+      "Radius": 6000.0,
+      "Stream": "sound/voice/e/all04_a08_sd.wma"
+    },
+    {
+      "Name": "all04_a08_rg",
+      "Category": 0,
+      "UnknownSingle": 500.0,
+      "Radius": 6000.0,
+      "Stream": "sound/voice/e/all04_a08_rg.wma"
+    },
+    {
+      "Name": "all04_a08_om",
+      "Category": 0,
+      "UnknownSingle": 500.0,
+      "Radius": 6000.0,
+      "Stream": "sound/voice/e/all04_a08_om.wma"
+    },
+    {
+      "Name": "all04_a08_am",
+      "Category": 0,
+      "UnknownSingle": 500.0,
+      "Radius": 6000.0,
+      "Stream": "sound/voice/e/all04_a08_am.wma"
+    },
+    {
+      "Name": "all04_a08_bz",
+      "Category": 0,
+      "UnknownSingle": 500.0,
+      "Radius": 6000.0,
+      "Stream": "sound/voice/e/all04_a08_bz.wma"
+    },
+    {
+      "Name": "all04_a08_sv",
+      "Category": 0,
+      "UnknownSingle": 500.0,
+      "Radius": 6000.0,
+      "Stream": "sound/voice/e/all04_a08_sv.wma"
+    },
+    {
+      "Name": "all04_a08_pr",
+      "Category": 0,
+      "UnknownSingle": 500.0,
+      "Radius": 6000.0,
+      "Stream": "sound/voice/e/all04_a08_pr.wma"
+    },
+    {
+      "Name": "all04_a09_sn",
+      "Category": 0,
+      "UnknownSingle": 500.0,
+      "Radius": 6000.0,
+      "Stream": "sound/voice/e/all04_a09_sn.wma"
+    },
+    {
+      "Name": "all04_a09_tl",
+      "Category": 0,
+      "UnknownSingle": 500.0,
+      "Radius": 6000.0,
+      "Stream": "sound/voice/e/all04_a09_tl.wma"
+    },
+    {
+      "Name": "all04_a09_kn",
+      "Category": 0,
+      "UnknownSingle": 500.0,
+      "Radius": 6000.0,
+      "Stream": "sound/voice/e/all04_a09_kn.wma"
+    },
+    {
+      "Name": "all04_a09_sd",
+      "Category": 0,
+      "UnknownSingle": 500.0,
+      "Radius": 6000.0,
+      "Stream": "sound/voice/e/all04_a09_sd.wma"
+    },
+    {
+      "Name": "all04_a09_rg",
+      "Category": 0,
+      "UnknownSingle": 500.0,
+      "Radius": 6000.0,
+      "Stream": "sound/voice/e/all04_a09_rg.wma"
+    },
+    {
+      "Name": "all04_a09_om",
+      "Category": 0,
+      "UnknownSingle": 500.0,
+      "Radius": 6000.0,
+      "Stream": "sound/voice/e/all04_a09_om.wma"
+    },
+    {
+      "Name": "all04_a09_am",
+      "Category": 0,
+      "UnknownSingle": 500.0,
+      "Radius": 6000.0,
+      "Stream": "sound/voice/e/all04_a09_am.wma"
+    },
+    {
+      "Name": "all04_a09_bz",
+      "Category": 0,
+      "UnknownSingle": 500.0,
+      "Radius": 6000.0,
+      "Stream": "sound/voice/e/all04_a09_bz.wma"
+    },
+    {
+      "Name": "all04_a09_sv",
+      "Category": 0,
+      "UnknownSingle": 500.0,
+      "Radius": 6000.0,
+      "Stream": "sound/voice/e/all04_a09_sv.wma"
+    },
+    {
+      "Name": "all04_a09_pr",
+      "Category": 0,
+      "UnknownSingle": 500.0,
+      "Radius": 6000.0,
+      "Stream": "sound/voice/e/all04_a09_pr.wma"
+    },
+    {
+      "Name": "all04_a10_sn",
+      "Category": 0,
+      "UnknownSingle": 500.0,
+      "Radius": 6000.0,
+      "Stream": "sound/voice/e/all04_a10_sn.wma"
+    },
+    {
+      "Name": "all04_a10_tl",
+      "Category": 0,
+      "UnknownSingle": 500.0,
+      "Radius": 6000.0,
+      "Stream": "sound/voice/e/all04_a10_tl.wma"
+    },
+    {
+      "Name": "all04_a10_kn",
+      "Category": 0,
+      "UnknownSingle": 500.0,
+      "Radius": 6000.0,
+      "Stream": "sound/voice/e/all04_a10_kn.wma"
+    },
+    {
+      "Name": "all04_a10_sd",
+      "Category": 0,
+      "UnknownSingle": 500.0,
+      "Radius": 6000.0,
+      "Stream": "sound/voice/e/all04_a10_sd.wma"
+    },
+    {
+      "Name": "all04_a10_rg",
+      "Category": 0,
+      "UnknownSingle": 500.0,
+      "Radius": 6000.0,
+      "Stream": "sound/voice/e/all04_a10_rg.wma"
+    },
+    {
+      "Name": "all04_a10_om",
+      "Category": 0,
+      "UnknownSingle": 500.0,
+      "Radius": 6000.0,
+      "Stream": "sound/voice/e/all04_a10_om.wma"
+    },
+    {
+      "Name": "all04_a10_am",
+      "Category": 0,
+      "UnknownSingle": 500.0,
+      "Radius": 6000.0,
+      "Stream": "sound/voice/e/all04_a10_am.wma"
+    },
+    {
+      "Name": "all04_a10_bz",
+      "Category": 0,
+      "UnknownSingle": 500.0,
+      "Radius": 6000.0,
+      "Stream": "sound/voice/e/all04_a10_bz.wma"
+    },
+    {
+      "Name": "all04_a10_sv",
+      "Category": 0,
+      "UnknownSingle": 500.0,
+      "Radius": 6000.0,
+      "Stream": "sound/voice/e/all04_a10_sv.wma"
+    },
+    {
+      "Name": "all04_a11_sn",
+      "Category": 0,
+      "UnknownSingle": 500.0,
+      "Radius": 6000.0,
+      "Stream": "sound/voice/e/all04_a11_sn.wma"
+    },
+    {
+      "Name": "all04_a11_tl",
+      "Category": 0,
+      "UnknownSingle": 500.0,
+      "Radius": 6000.0,
+      "Stream": "sound/voice/e/all04_a11_tl.wma"
+    },
+    {
+      "Name": "all04_a11_kn",
+      "Category": 0,
+      "UnknownSingle": 500.0,
+      "Radius": 6000.0,
+      "Stream": "sound/voice/e/all04_a11_kn.wma"
+    },
+    {
+      "Name": "all04_a11_sd",
+      "Category": 0,
+      "UnknownSingle": 500.0,
+      "Radius": 6000.0,
+      "Stream": "sound/voice/e/all04_a11_sd.wma"
+    },
+    {
+      "Name": "all04_a11_rg",
+      "Category": 0,
+      "UnknownSingle": 500.0,
+      "Radius": 6000.0,
+      "Stream": "sound/voice/e/all04_a11_rg.wma"
+    },
+    {
+      "Name": "all04_a11_om",
+      "Category": 0,
+      "UnknownSingle": 500.0,
+      "Radius": 6000.0,
+      "Stream": "sound/voice/e/all04_a11_om.wma"
+    },
+    {
+      "Name": "all04_a11_am",
+      "Category": 0,
+      "UnknownSingle": 500.0,
+      "Radius": 6000.0,
+      "Stream": "sound/voice/e/all04_a11_am.wma"
+    },
+    {
+      "Name": "all04_a11_bz",
+      "Category": 0,
+      "UnknownSingle": 500.0,
+      "Radius": 6000.0,
+      "Stream": "sound/voice/e/all04_a11_bz.wma"
+    },
+    {
+      "Name": "all04_a11_sv",
+      "Category": 0,
+      "UnknownSingle": 500.0,
+      "Radius": 6000.0,
+      "Stream": "sound/voice/e/all04_a11_sv.wma"
+    },
+    {
+      "Name": "all04_a11_pr",
+      "Category": 0,
+      "UnknownSingle": 500.0,
+      "Radius": 6000.0,
+      "Stream": "sound/voice/e/all04_a11_pr.wma"
+    },
+    {
+      "Name": "all04_a12_sn",
+      "Category": 0,
+      "UnknownSingle": 500.0,
+      "Radius": 6000.0,
+      "Stream": "sound/voice/e/all04_a12_sn.wma"
+    },
+    {
+      "Name": "all04_a12_tl",
+      "Category": 0,
+      "UnknownSingle": 500.0,
+      "Radius": 6000.0,
+      "Stream": "sound/voice/e/all04_a12_tl.wma"
+    },
+    {
+      "Name": "all04_a12_kn",
+      "Category": 0,
+      "UnknownSingle": 500.0,
+      "Radius": 6000.0,
+      "Stream": "sound/voice/e/all04_a12_kn.wma"
+    },
+    {
+      "Name": "all04_a12_sd",
+      "Category": 0,
+      "UnknownSingle": 500.0,
+      "Radius": 6000.0,
+      "Stream": "sound/voice/e/all04_a12_sd.wma"
+    },
+    {
+      "Name": "all04_a12_rg",
+      "Category": 0,
+      "UnknownSingle": 500.0,
+      "Radius": 6000.0,
+      "Stream": "sound/voice/e/all04_a12_rg.wma"
+    },
+    {
+      "Name": "all04_a12_om",
+      "Category": 0,
+      "UnknownSingle": 500.0,
+      "Radius": 6000.0,
+      "Stream": "sound/voice/e/all04_a12_om.wma"
+    },
+    {
+      "Name": "all04_a12_am",
+      "Category": 0,
+      "UnknownSingle": 500.0,
+      "Radius": 6000.0,
+      "Stream": "sound/voice/e/all04_a12_am.wma"
+    },
+    {
+      "Name": "all04_a12_bz",
+      "Category": 0,
+      "UnknownSingle": 500.0,
+      "Radius": 6000.0,
+      "Stream": "sound/voice/e/all04_a12_bz.wma"
+    },
+    {
+      "Name": "all04_a12_sv",
+      "Category": 0,
+      "UnknownSingle": 500.0,
+      "Radius": 6000.0,
+      "Stream": "sound/voice/e/all04_a12_sv.wma"
+    },
+    {
+      "Name": "all04_a12_pr",
+      "Category": 0,
+      "UnknownSingle": 500.0,
+      "Radius": 6000.0,
+      "Stream": "sound/voice/e/all04_a12_pr.wma"
+    },
+    {
+      "Name": "all04_h00_so",
+      "Category": 0,
+      "UnknownSingle": 500.0,
+      "Radius": 6000.0,
+      "Stream": "sound/voice/e/all04_h00_so.wma"
+    },
+    {
+      "Name": "all04_h01_so",
+      "Category": 0,
+      "UnknownSingle": 500.0,
+      "Radius": 6000.0,
+      "Stream": "sound/voice/e/all04_h01_so.wma"
+    },
+    {
+      "Name": "all05_e00_sn",
+      "Category": 0,
+      "UnknownSingle": 500.0,
+      "Radius": 6000.0,
+      "Stream": "sound/voice/e/all05_e00_sn.wma"
+    },
+    {
+      "Name": "all05_e00_tl",
+      "Category": 0,
+      "UnknownSingle": 500.0,
+      "Radius": 6000.0,
+      "Stream": "sound/voice/e/all05_e00_tl.wma"
+    },
+    {
+      "Name": "all05_e00_kn",
+      "Category": 0,
+      "UnknownSingle": 500.0,
+      "Radius": 6000.0,
+      "Stream": "sound/voice/e/all05_e00_kn.wma"
+    },
+    {
+      "Name": "all05_e00_sd",
+      "Category": 0,
+      "UnknownSingle": 500.0,
+      "Radius": 6000.0,
+      "Stream": "sound/voice/e/all05_e00_sd.wma"
+    },
+    {
+      "Name": "all05_e00_rg",
+      "Category": 0,
+      "UnknownSingle": 500.0,
+      "Radius": 6000.0,
+      "Stream": "sound/voice/e/all05_e00_rg.wma"
+    },
+    {
+      "Name": "all05_e00_om",
+      "Category": 0,
+      "UnknownSingle": 500.0,
+      "Radius": 6000.0,
+      "Stream": "sound/voice/e/all05_e00_om.wma"
+    },
+    {
+      "Name": "all05_e00_am",
+      "Category": 0,
+      "UnknownSingle": 500.0,
+      "Radius": 6000.0,
+      "Stream": "sound/voice/e/all05_e00_am.wma"
+    },
+    {
+      "Name": "all05_e00_bz",
+      "Category": 0,
+      "UnknownSingle": 500.0,
+      "Radius": 6000.0,
+      "Stream": "sound/voice/e/all05_e00_bz.wma"
+    },
+    {
+      "Name": "all05_e00_sv",
+      "Category": 0,
+      "UnknownSingle": 500.0,
+      "Radius": 6000.0,
+      "Stream": "sound/voice/e/all05_e00_sv.wma"
+    },
+    {
+      "Name": "all05_e01_sn",
+      "Category": 0,
+      "UnknownSingle": 500.0,
+      "Radius": 6000.0,
+      "Stream": "sound/voice/e/all05_e01_sn.wma"
+    },
+    {
+      "Name": "all05_e01_tl",
+      "Category": 0,
+      "UnknownSingle": 500.0,
+      "Radius": 6000.0,
+      "Stream": "sound/voice/e/all05_e01_tl.wma"
+    },
+    {
+      "Name": "all05_e01_kn",
+      "Category": 0,
+      "UnknownSingle": 500.0,
+      "Radius": 6000.0,
+      "Stream": "sound/voice/e/all05_e01_kn.wma"
+    },
+    {
+      "Name": "all05_e01_sd",
+      "Category": 0,
+      "UnknownSingle": 500.0,
+      "Radius": 6000.0,
+      "Stream": "sound/voice/e/all05_e01_sd.wma"
+    },
+    {
+      "Name": "all05_e01_rg",
+      "Category": 0,
+      "UnknownSingle": 500.0,
+      "Radius": 6000.0,
+      "Stream": "sound/voice/e/all05_e01_rg.wma"
+    },
+    {
+      "Name": "all05_e01_om",
+      "Category": 0,
+      "UnknownSingle": 500.0,
+      "Radius": 6000.0,
+      "Stream": "sound/voice/e/all05_e01_om.wma"
+    },
+    {
+      "Name": "all05_e01_am",
+      "Category": 0,
+      "UnknownSingle": 500.0,
+      "Radius": 6000.0,
+      "Stream": "sound/voice/e/all05_e01_am.wma"
+    },
+    {
+      "Name": "all05_e01_bz",
+      "Category": 0,
+      "UnknownSingle": 500.0,
+      "Radius": 6000.0,
+      "Stream": "sound/voice/e/all05_e01_bz.wma"
+    },
+    {
+      "Name": "all05_e01_sv",
+      "Category": 0,
+      "UnknownSingle": 500.0,
+      "Radius": 6000.0,
+      "Stream": "sound/voice/e/all05_e01_sv.wma"
+    },
+    {
+      "Name": "all05_e02_sn",
+      "Category": 0,
+      "UnknownSingle": 500.0,
+      "Radius": 6000.0,
+      "Stream": "sound/voice/e/all05_e02_sn.wma"
+    },
+    {
+      "Name": "all05_e02_tl",
+      "Category": 0,
+      "UnknownSingle": 500.0,
+      "Radius": 6000.0,
+      "Stream": "sound/voice/e/all05_e02_tl.wma"
+    },
+    {
+      "Name": "all05_e02_kn",
+      "Category": 0,
+      "UnknownSingle": 500.0,
+      "Radius": 6000.0,
+      "Stream": "sound/voice/e/all05_e02_kn.wma"
+    },
+    {
+      "Name": "all05_e02_sd",
+      "Category": 0,
+      "UnknownSingle": 500.0,
+      "Radius": 6000.0,
+      "Stream": "sound/voice/e/all05_e02_sd.wma"
+    },
+    {
+      "Name": "all05_e02_rg",
+      "Category": 0,
+      "UnknownSingle": 500.0,
+      "Radius": 6000.0,
+      "Stream": "sound/voice/e/all05_e02_rg.wma"
+    },
+    {
+      "Name": "all05_e02_om",
+      "Category": 0,
+      "UnknownSingle": 500.0,
+      "Radius": 6000.0,
+      "Stream": "sound/voice/e/all05_e02_om.wma"
+    },
+    {
+      "Name": "all05_e02_am",
+      "Category": 0,
+      "UnknownSingle": 500.0,
+      "Radius": 6000.0,
+      "Stream": "sound/voice/e/all05_e02_am.wma"
+    },
+    {
+      "Name": "all05_e02_bz",
+      "Category": 0,
+      "UnknownSingle": 500.0,
+      "Radius": 6000.0,
+      "Stream": "sound/voice/e/all05_e02_bz.wma"
+    },
+    {
+      "Name": "all05_e02_sv",
+      "Category": 0,
+      "UnknownSingle": 500.0,
+      "Radius": 6000.0,
+      "Stream": "sound/voice/e/all05_e02_sv.wma"
+    },
+    {
+      "Name": "all05_e03_sn",
+      "Category": 0,
+      "UnknownSingle": 500.0,
+      "Radius": 6000.0,
+      "Stream": "sound/voice/e/all05_e03_sn.wma"
+    },
+    {
+      "Name": "all05_e03_tl",
+      "Category": 0,
+      "UnknownSingle": 500.0,
+      "Radius": 6000.0,
+      "Stream": "sound/voice/e/all05_e03_tl.wma"
+    },
+    {
+      "Name": "all05_e03_kn",
+      "Category": 0,
+      "UnknownSingle": 500.0,
+      "Radius": 6000.0,
+      "Stream": "sound/voice/e/all05_e03_kn.wma"
+    },
+    {
+      "Name": "all05_e03_sd",
+      "Category": 0,
+      "UnknownSingle": 500.0,
+      "Radius": 6000.0,
+      "Stream": "sound/voice/e/all05_e03_sd.wma"
+    },
+    {
+      "Name": "all05_e03_rg",
+      "Category": 0,
+      "UnknownSingle": 500.0,
+      "Radius": 6000.0,
+      "Stream": "sound/voice/e/all05_e03_rg.wma"
+    },
+    {
+      "Name": "all05_e03_om",
+      "Category": 0,
+      "UnknownSingle": 500.0,
+      "Radius": 6000.0,
+      "Stream": "sound/voice/e/all05_e03_om.wma"
+    },
+    {
+      "Name": "all05_e03_am",
+      "Category": 0,
+      "UnknownSingle": 500.0,
+      "Radius": 6000.0,
+      "Stream": "sound/voice/e/all05_e03_am.wma"
+    },
+    {
+      "Name": "all05_e03_bz",
+      "Category": 0,
+      "UnknownSingle": 500.0,
+      "Radius": 6000.0,
+      "Stream": "sound/voice/e/all05_e03_bz.wma"
+    },
+    {
+      "Name": "all05_e03_sv",
+      "Category": 0,
+      "UnknownSingle": 500.0,
+      "Radius": 6000.0,
+      "Stream": "sound/voice/e/all05_e03_sv.wma"
+    },
+    {
+      "Name": "all05_a00_sn",
+      "Category": 0,
+      "UnknownSingle": 500.0,
+      "Radius": 6000.0,
+      "Stream": "sound/voice/e/all05_a00_sn.wma"
+    },
+    {
+      "Name": "all05_a00_sd",
+      "Category": 0,
+      "UnknownSingle": 500.0,
+      "Radius": 6000.0,
+      "Stream": "sound/voice/e/all05_a00_sd.wma"
+    },
+    {
+      "Name": "all05_a00_sv",
+      "Category": 0,
+      "UnknownSingle": 500.0,
+      "Radius": 6000.0,
+      "Stream": "sound/voice/e/all05_a00_sv.wma"
+    },
+    {
+      "Name": "all05_a01_sn",
+      "Category": 0,
+      "UnknownSingle": 500.0,
+      "Radius": 6000.0,
+      "Stream": "sound/voice/e/all05_a01_sn.wma"
+    },
+    {
+      "Name": "all05_a01_sd",
+      "Category": 0,
+      "UnknownSingle": 500.0,
+      "Radius": 6000.0,
+      "Stream": "sound/voice/e/all05_a01_sd.wma"
+    },
+    {
+      "Name": "all05_a01_sv",
+      "Category": 0,
+      "UnknownSingle": 500.0,
+      "Radius": 6000.0,
+      "Stream": "sound/voice/e/all05_a01_sv.wma"
+    },
+    {
+      "Name": "all05_a02_sd",
+      "Category": 0,
+      "UnknownSingle": 500.0,
+      "Radius": 6000.0,
+      "Stream": "sound/voice/e/all05_a02_sd.wma"
+    },
+    {
+      "Name": "all05_a02_sv",
+      "Category": 0,
+      "UnknownSingle": 500.0,
+      "Radius": 6000.0,
+      "Stream": "sound/voice/e/all05_a02_sv.wma"
+    },
+    {
+      "Name": "all05_a03_sd",
+      "Category": 0,
+      "UnknownSingle": 500.0,
+      "Radius": 6000.0,
+      "Stream": "sound/voice/e/all05_a03_sd.wma"
+    },
+    {
+      "Name": "all05_a04_sn",
+      "Category": 0,
+      "UnknownSingle": 500.0,
+      "Radius": 6000.0,
+      "Stream": "sound/voice/e/all05_a04_sn.wma"
+    },
+    {
+      "Name": "all05_a04_tl",
+      "Category": 0,
+      "UnknownSingle": 500.0,
+      "Radius": 6000.0,
+      "Stream": "sound/voice/e/all05_a04_tl.wma"
+    },
+    {
+      "Name": "all05_a04_kn",
+      "Category": 0,
+      "UnknownSingle": 500.0,
+      "Radius": 6000.0,
+      "Stream": "sound/voice/e/all05_a04_kn.wma"
+    },
+    {
+      "Name": "all05_a04_sd",
+      "Category": 0,
+      "UnknownSingle": 500.0,
+      "Radius": 6000.0,
+      "Stream": "sound/voice/e/all05_a04_sd.wma"
+    },
+    {
+      "Name": "all05_a04_rg",
+      "Category": 0,
+      "UnknownSingle": 500.0,
+      "Radius": 6000.0,
+      "Stream": "sound/voice/e/all05_a04_rg.wma"
+    },
+    {
+      "Name": "all05_a04_om",
+      "Category": 0,
+      "UnknownSingle": 500.0,
+      "Radius": 6000.0,
+      "Stream": "sound/voice/e/all05_a04_om.wma"
+    },
+    {
+      "Name": "all05_a05_am",
+      "Category": 0,
+      "UnknownSingle": 500.0,
+      "Radius": 6000.0,
+      "Stream": "sound/voice/e/all05_a05_am.wma"
+    },
+    {
+      "Name": "all05_a05_bz",
+      "Category": 0,
+      "UnknownSingle": 500.0,
+      "Radius": 6000.0,
+      "Stream": "sound/voice/e/all05_a05_bz.wma"
+    },
+    {
+      "Name": "all05_a05_sv",
+      "Category": 0,
+      "UnknownSingle": 500.0,
+      "Radius": 6000.0,
+      "Stream": "sound/voice/e/all05_a05_sv.wma"
+    },
+    {
+      "Name": "all05_a06_sn",
+      "Category": 0,
+      "UnknownSingle": 500.0,
+      "Radius": 6000.0,
+      "Stream": "sound/voice/e/all05_a06_sn.wma"
+    },
+    {
+      "Name": "all05_a06_tl",
+      "Category": 0,
+      "UnknownSingle": 500.0,
+      "Radius": 6000.0,
+      "Stream": "sound/voice/e/all05_a06_tl.wma"
+    },
+    {
+      "Name": "all05_a06_kn",
+      "Category": 0,
+      "UnknownSingle": 500.0,
+      "Radius": 6000.0,
+      "Stream": "sound/voice/e/all05_a06_kn.wma"
+    },
+    {
+      "Name": "all05_a06_sd",
+      "Category": 0,
+      "UnknownSingle": 500.0,
+      "Radius": 6000.0,
+      "Stream": "sound/voice/e/all05_a06_sd.wma"
+    },
+    {
+      "Name": "all05_a06_rg",
+      "Category": 0,
+      "UnknownSingle": 500.0,
+      "Radius": 6000.0,
+      "Stream": "sound/voice/e/all05_a06_rg.wma"
+    },
+    {
+      "Name": "all05_a06_om",
+      "Category": 0,
+      "UnknownSingle": 500.0,
+      "Radius": 6000.0,
+      "Stream": "sound/voice/e/all05_a06_om.wma"
+    },
+    {
+      "Name": "all05_a07_am",
+      "Category": 0,
+      "UnknownSingle": 500.0,
+      "Radius": 6000.0,
+      "Stream": "sound/voice/e/all05_a07_am.wma"
+    },
+    {
+      "Name": "all05_a07_bz",
+      "Category": 0,
+      "UnknownSingle": 500.0,
+      "Radius": 6000.0,
+      "Stream": "sound/voice/e/all05_a07_bz.wma"
+    },
+    {
+      "Name": "all05_a07_sv",
+      "Category": 0,
+      "UnknownSingle": 500.0,
+      "Radius": 6000.0,
+      "Stream": "sound/voice/e/all05_a07_sv.wma"
+    },
+    {
+      "Name": "all05_a08_sn",
+      "Category": 0,
+      "UnknownSingle": 500.0,
+      "Radius": 6000.0,
+      "Stream": "sound/voice/e/all05_a08_sn.wma"
+    },
+    {
+      "Name": "all05_a08_tl",
+      "Category": 0,
+      "UnknownSingle": 500.0,
+      "Radius": 6000.0,
+      "Stream": "sound/voice/e/all05_a08_tl.wma"
+    },
+    {
+      "Name": "all05_a08_kn",
+      "Category": 0,
+      "UnknownSingle": 500.0,
+      "Radius": 6000.0,
+      "Stream": "sound/voice/e/all05_a08_kn.wma"
+    },
+    {
+      "Name": "all05_a08_sd",
+      "Category": 0,
+      "UnknownSingle": 500.0,
+      "Radius": 6000.0,
+      "Stream": "sound/voice/e/all05_a08_sd.wma"
+    },
+    {
+      "Name": "all05_a08_rg",
+      "Category": 0,
+      "UnknownSingle": 500.0,
+      "Radius": 6000.0,
+      "Stream": "sound/voice/e/all05_a08_rg.wma"
+    },
+    {
+      "Name": "all05_a08_om",
+      "Category": 0,
+      "UnknownSingle": 500.0,
+      "Radius": 6000.0,
+      "Stream": "sound/voice/e/all05_a08_om.wma"
+    },
+    {
+      "Name": "all05_a09_am",
+      "Category": 0,
+      "UnknownSingle": 500.0,
+      "Radius": 6000.0,
+      "Stream": "sound/voice/e/all05_a09_am.wma"
+    },
+    {
+      "Name": "all05_a09_bz",
+      "Category": 0,
+      "UnknownSingle": 500.0,
+      "Radius": 6000.0,
+      "Stream": "sound/voice/e/all05_a09_bz.wma"
+    },
+    {
+      "Name": "all05_a09_sv",
+      "Category": 0,
+      "UnknownSingle": 500.0,
+      "Radius": 6000.0,
+      "Stream": "sound/voice/e/all05_a09_sv.wma"
+    },
+    {
+      "Name": "all05_a10_sn",
+      "Category": 0,
+      "UnknownSingle": 500.0,
+      "Radius": 6000.0,
+      "Stream": "sound/voice/e/all05_a10_sn.wma"
+    },
+    {
+      "Name": "all05_a10_tl",
+      "Category": 0,
+      "UnknownSingle": 500.0,
+      "Radius": 6000.0,
+      "Stream": "sound/voice/e/all05_a10_tl.wma"
+    },
+    {
+      "Name": "all05_a10_kn",
+      "Category": 0,
+      "UnknownSingle": 500.0,
+      "Radius": 6000.0,
+      "Stream": "sound/voice/e/all05_a10_kn.wma"
+    },
+    {
+      "Name": "all05_a10_sd",
+      "Category": 0,
+      "UnknownSingle": 500.0,
+      "Radius": 6000.0,
+      "Stream": "sound/voice/e/all05_a10_sd.wma"
+    },
+    {
+      "Name": "all05_a10_rg",
+      "Category": 0,
+      "UnknownSingle": 500.0,
+      "Radius": 6000.0,
+      "Stream": "sound/voice/e/all05_a10_rg.wma"
+    },
+    {
+      "Name": "all05_a10_om",
+      "Category": 0,
+      "UnknownSingle": 500.0,
+      "Radius": 6000.0,
+      "Stream": "sound/voice/e/all05_a10_om.wma"
+    },
+    {
+      "Name": "all05_a10_am",
+      "Category": 0,
+      "UnknownSingle": 500.0,
+      "Radius": 6000.0,
+      "Stream": "sound/voice/e/all05_a10_am.wma"
+    },
+    {
+      "Name": "all05_a10_bz",
+      "Category": 0,
+      "UnknownSingle": 500.0,
+      "Radius": 6000.0,
+      "Stream": "sound/voice/e/all05_a10_bz.wma"
+    },
+    {
+      "Name": "all05_a10_sv",
+      "Category": 0,
+      "UnknownSingle": 500.0,
+      "Radius": 6000.0,
+      "Stream": "sound/voice/e/all05_a10_sv.wma"
+    },
+    {
+      "Name": "all05_a11_sn",
+      "Category": 0,
+      "UnknownSingle": 500.0,
+      "Radius": 6000.0,
+      "Stream": "sound/voice/e/all05_a11_sn.wma"
+    },
+    {
+      "Name": "all05_a11_tl",
+      "Category": 0,
+      "UnknownSingle": 500.0,
+      "Radius": 6000.0,
+      "Stream": "sound/voice/e/all05_a11_tl.wma"
+    },
+    {
+      "Name": "all05_a11_kn",
+      "Category": 0,
+      "UnknownSingle": 500.0,
+      "Radius": 6000.0,
+      "Stream": "sound/voice/e/all05_a11_kn.wma"
+    },
+    {
+      "Name": "all05_a11_sd",
+      "Category": 0,
+      "UnknownSingle": 500.0,
+      "Radius": 6000.0,
+      "Stream": "sound/voice/e/all05_a11_sd.wma"
+    },
+    {
+      "Name": "all05_a11_rg",
+      "Category": 0,
+      "UnknownSingle": 500.0,
+      "Radius": 6000.0,
+      "Stream": "sound/voice/e/all05_a11_rg.wma"
+    },
+    {
+      "Name": "all05_a11_om",
+      "Category": 0,
+      "UnknownSingle": 500.0,
+      "Radius": 6000.0,
+      "Stream": "sound/voice/e/all05_a11_om.wma"
+    },
+    {
+      "Name": "all05_a11_am",
+      "Category": 0,
+      "UnknownSingle": 500.0,
+      "Radius": 6000.0,
+      "Stream": "sound/voice/e/all05_a11_am.wma"
+    },
+    {
+      "Name": "all05_a11_bz",
+      "Category": 0,
+      "UnknownSingle": 500.0,
+      "Radius": 6000.0,
+      "Stream": "sound/voice/e/all05_a11_bz.wma"
+    },
+    {
+      "Name": "all05_a11_sv",
+      "Category": 0,
+      "UnknownSingle": 500.0,
+      "Radius": 6000.0,
+      "Stream": "sound/voice/e/all05_a11_sv.wma"
+    },
+    {
+      "Name": "all05_a12_sn",
+      "Category": 0,
+      "UnknownSingle": 500.0,
+      "Radius": 6000.0,
+      "Stream": "sound/voice/e/all05_a12_sn.wma"
+    },
+    {
+      "Name": "all05_a12_tl",
+      "Category": 0,
+      "UnknownSingle": 500.0,
+      "Radius": 6000.0,
+      "Stream": "sound/voice/e/all05_a12_tl.wma"
+    },
+    {
+      "Name": "all05_a12_kn",
+      "Category": 0,
+      "UnknownSingle": 500.0,
+      "Radius": 6000.0,
+      "Stream": "sound/voice/e/all05_a12_kn.wma"
+    },
+    {
+      "Name": "all05_a12_sd",
+      "Category": 0,
+      "UnknownSingle": 500.0,
+      "Radius": 6000.0,
+      "Stream": "sound/voice/e/all05_a12_sd.wma"
+    },
+    {
+      "Name": "all05_a12_rg",
+      "Category": 0,
+      "UnknownSingle": 500.0,
+      "Radius": 6000.0,
+      "Stream": "sound/voice/e/all05_a12_rg.wma"
+    },
+    {
+      "Name": "all05_a12_om",
+      "Category": 0,
+      "UnknownSingle": 500.0,
+      "Radius": 6000.0,
+      "Stream": "sound/voice/e/all05_a12_om.wma"
+    },
+    {
+      "Name": "all05_a12_am",
+      "Category": 0,
+      "UnknownSingle": 500.0,
+      "Radius": 6000.0,
+      "Stream": "sound/voice/e/all05_a12_am.wma"
+    },
+    {
+      "Name": "all05_a12_bz",
+      "Category": 0,
+      "UnknownSingle": 500.0,
+      "Radius": 6000.0,
+      "Stream": "sound/voice/e/all05_a12_bz.wma"
+    },
+    {
+      "Name": "all05_a12_sv",
+      "Category": 0,
+      "UnknownSingle": 500.0,
+      "Radius": 6000.0,
+      "Stream": "sound/voice/e/all05_a12_sv.wma"
+    },
+    {
+      "Name": "all05_a13_sn",
+      "Category": 0,
+      "UnknownSingle": 500.0,
+      "Radius": 6000.0,
+      "Stream": "sound/voice/e/all05_a13_sn.wma"
+    },
+    {
+      "Name": "all05_a13_tl",
+      "Category": 0,
+      "UnknownSingle": 500.0,
+      "Radius": 6000.0,
+      "Stream": "sound/voice/e/all05_a13_tl.wma"
+    },
+    {
+      "Name": "all05_a13_kn",
+      "Category": 0,
+      "UnknownSingle": 500.0,
+      "Radius": 6000.0,
+      "Stream": "sound/voice/e/all05_a13_kn.wma"
+    },
+    {
+      "Name": "all05_a13_sd",
+      "Category": 0,
+      "UnknownSingle": 500.0,
+      "Radius": 6000.0,
+      "Stream": "sound/voice/e/all05_a13_sd.wma"
+    },
+    {
+      "Name": "all05_a13_rg",
+      "Category": 0,
+      "UnknownSingle": 500.0,
+      "Radius": 6000.0,
+      "Stream": "sound/voice/e/all05_a13_rg.wma"
+    },
+    {
+      "Name": "all05_a13_om",
+      "Category": 0,
+      "UnknownSingle": 500.0,
+      "Radius": 6000.0,
+      "Stream": "sound/voice/e/all05_a13_om.wma"
+    },
+    {
+      "Name": "all05_a13_am",
+      "Category": 0,
+      "UnknownSingle": 500.0,
+      "Radius": 6000.0,
+      "Stream": "sound/voice/e/all05_a13_am.wma"
+    },
+    {
+      "Name": "all05_a13_bz",
+      "Category": 0,
+      "UnknownSingle": 500.0,
+      "Radius": 6000.0,
+      "Stream": "sound/voice/e/all05_a13_bz.wma"
+    },
+    {
+      "Name": "all05_a13_sv",
+      "Category": 0,
+      "UnknownSingle": 500.0,
+      "Radius": 6000.0,
+      "Stream": "sound/voice/e/all05_a13_sv.wma"
+    },
+    {
+      "Name": "all05_a14_sn",
+      "Category": 0,
+      "UnknownSingle": 500.0,
+      "Radius": 6000.0,
+      "Stream": "sound/voice/e/all05_a14_sn.wma"
+    },
+    {
+      "Name": "all05_a14_tl",
+      "Category": 0,
+      "UnknownSingle": 500.0,
+      "Radius": 6000.0,
+      "Stream": "sound/voice/e/all05_a14_tl.wma"
+    },
+    {
+      "Name": "all05_a14_kn",
+      "Category": 0,
+      "UnknownSingle": 500.0,
+      "Radius": 6000.0,
+      "Stream": "sound/voice/e/all05_a14_kn.wma"
+    },
+    {
+      "Name": "all05_a14_sd",
+      "Category": 0,
+      "UnknownSingle": 500.0,
+      "Radius": 6000.0,
+      "Stream": "sound/voice/e/all05_a14_sd.wma"
+    },
+    {
+      "Name": "all05_a14_rg",
+      "Category": 0,
+      "UnknownSingle": 500.0,
+      "Radius": 6000.0,
+      "Stream": "sound/voice/e/all05_a14_rg.wma"
+    },
+    {
+      "Name": "all05_a14_om",
+      "Category": 0,
+      "UnknownSingle": 500.0,
+      "Radius": 6000.0,
+      "Stream": "sound/voice/e/all05_a14_om.wma"
+    },
+    {
+      "Name": "all05_a14_am",
+      "Category": 0,
+      "UnknownSingle": 500.0,
+      "Radius": 6000.0,
+      "Stream": "sound/voice/e/all05_a14_am.wma"
+    },
+    {
+      "Name": "all05_a14_bz",
+      "Category": 0,
+      "UnknownSingle": 500.0,
+      "Radius": 6000.0,
+      "Stream": "sound/voice/e/all05_a14_bz.wma"
+    },
+    {
+      "Name": "all05_a14_sv",
+      "Category": 0,
+      "UnknownSingle": 500.0,
+      "Radius": 6000.0,
+      "Stream": "sound/voice/e/all05_a14_sv.wma"
+    },
+    {
+      "Name": "all05_a15_sn",
+      "Category": 0,
+      "UnknownSingle": 500.0,
+      "Radius": 6000.0,
+      "Stream": "sound/voice/e/all05_a15_sn.wma"
+    },
+    {
+      "Name": "all05_a15_kn",
+      "Category": 0,
+      "UnknownSingle": 500.0,
+      "Radius": 6000.0,
+      "Stream": "sound/voice/e/all05_a15_kn.wma"
+    },
+    {
+      "Name": "all05_a15_sd",
+      "Category": 0,
+      "UnknownSingle": 500.0,
+      "Radius": 6000.0,
+      "Stream": "sound/voice/e/all05_a15_sd.wma"
+    },
+    {
+      "Name": "all05_a15_om",
+      "Category": 0,
+      "UnknownSingle": 500.0,
+      "Radius": 6000.0,
+      "Stream": "sound/voice/e/all05_a15_om.wma"
+    },
+    {
+      "Name": "all05_a15_bz",
+      "Category": 0,
+      "UnknownSingle": 500.0,
+      "Radius": 6000.0,
+      "Stream": "sound/voice/e/all05_a15_bz.wma"
+    },
+    {
+      "Name": "all05_a15_sv",
+      "Category": 0,
+      "UnknownSingle": 500.0,
+      "Radius": 6000.0,
+      "Stream": "sound/voice/e/all05_a15_sv.wma"
+    },
+    {
+      "Name": "all05_a16_tl",
+      "Category": 0,
+      "UnknownSingle": 500.0,
+      "Radius": 6000.0,
+      "Stream": "sound/voice/e/all05_a16_tl.wma"
+    },
+    {
+      "Name": "all05_a16_rg",
+      "Category": 0,
+      "UnknownSingle": 500.0,
+      "Radius": 6000.0,
+      "Stream": "sound/voice/e/all05_a16_rg.wma"
+    },
+    {
+      "Name": "all05_a16_am",
+      "Category": 0,
+      "UnknownSingle": 500.0,
+      "Radius": 6000.0,
+      "Stream": "sound/voice/e/all05_a16_am.wma"
+    },
+    {
+      "Name": "all05_a17_sn",
+      "Category": 0,
+      "UnknownSingle": 500.0,
+      "Radius": 6000.0,
+      "Stream": "sound/voice/e/all05_a17_sn.wma"
+    },
+    {
+      "Name": "all05_a17_tl",
+      "Category": 0,
+      "UnknownSingle": 500.0,
+      "Radius": 6000.0,
+      "Stream": "sound/voice/e/all05_a17_tl.wma"
+    },
+    {
+      "Name": "all05_a17_kn",
+      "Category": 0,
+      "UnknownSingle": 500.0,
+      "Radius": 6000.0,
+      "Stream": "sound/voice/e/all05_a17_kn.wma"
+    },
+    {
+      "Name": "all05_a17_sd",
+      "Category": 0,
+      "UnknownSingle": 500.0,
+      "Radius": 6000.0,
+      "Stream": "sound/voice/e/all05_a17_sd.wma"
+    },
+    {
+      "Name": "all05_a17_rg",
+      "Category": 0,
+      "UnknownSingle": 500.0,
+      "Radius": 6000.0,
+      "Stream": "sound/voice/e/all05_a17_rg.wma"
+    },
+    {
+      "Name": "all05_a17_om",
+      "Category": 0,
+      "UnknownSingle": 500.0,
+      "Radius": 6000.0,
+      "Stream": "sound/voice/e/all05_a17_om.wma"
+    },
+    {
+      "Name": "all05_a17_am",
+      "Category": 0,
+      "UnknownSingle": 500.0,
+      "Radius": 6000.0,
+      "Stream": "sound/voice/e/all05_a17_am.wma"
+    },
+    {
+      "Name": "all05_a17_bz",
+      "Category": 0,
+      "UnknownSingle": 500.0,
+      "Radius": 6000.0,
+      "Stream": "sound/voice/e/all05_a17_bz.wma"
+    },
+    {
+      "Name": "all05_a17_sv",
+      "Category": 0,
+      "UnknownSingle": 500.0,
+      "Radius": 6000.0,
+      "Stream": "sound/voice/e/all05_a17_sv.wma"
+    },
+    {
+      "Name": "all05_a18_sn",
+      "Category": 0,
+      "UnknownSingle": 500.0,
+      "Radius": 6000.0,
+      "Stream": "sound/voice/e/all05_a18_sn.wma"
+    },
+    {
+      "Name": "all05_a18_tl",
+      "Category": 0,
+      "UnknownSingle": 500.0,
+      "Radius": 6000.0,
+      "Stream": "sound/voice/e/all05_a18_tl.wma"
+    },
+    {
+      "Name": "all05_a18_kn",
+      "Category": 0,
+      "UnknownSingle": 500.0,
+      "Radius": 6000.0,
+      "Stream": "sound/voice/e/all05_a18_kn.wma"
+    },
+    {
+      "Name": "all05_a18_sd",
+      "Category": 0,
+      "UnknownSingle": 500.0,
+      "Radius": 6000.0,
+      "Stream": "sound/voice/e/all05_a18_sd.wma"
+    },
+    {
+      "Name": "all05_a18_rg",
+      "Category": 0,
+      "UnknownSingle": 500.0,
+      "Radius": 6000.0,
+      "Stream": "sound/voice/e/all05_a18_rg.wma"
+    },
+    {
+      "Name": "all05_a18_om",
+      "Category": 0,
+      "UnknownSingle": 500.0,
+      "Radius": 6000.0,
+      "Stream": "sound/voice/e/all05_a18_om.wma"
+    },
+    {
+      "Name": "all05_a19_am",
+      "Category": 0,
+      "UnknownSingle": 500.0,
+      "Radius": 6000.0,
+      "Stream": "sound/voice/e/all05_a19_am.wma"
+    },
+    {
+      "Name": "all05_a19_bz",
+      "Category": 0,
+      "UnknownSingle": 500.0,
+      "Radius": 6000.0,
+      "Stream": "sound/voice/e/all05_a19_bz.wma"
+    },
+    {
+      "Name": "all05_a19_sv",
+      "Category": 0,
+      "UnknownSingle": 500.0,
+      "Radius": 6000.0,
+      "Stream": "sound/voice/e/all05_a19_sv.wma"
+    },
+    {
+      "Name": "all05_a20_sn",
+      "Category": 0,
+      "UnknownSingle": 500.0,
+      "Radius": 6000.0,
+      "Stream": "sound/voice/e/all05_a20_sn.wma"
+    },
+    {
+      "Name": "all05_a20_tl",
+      "Category": 0,
+      "UnknownSingle": 500.0,
+      "Radius": 6000.0,
+      "Stream": "sound/voice/e/all05_a20_tl.wma"
+    },
+    {
+      "Name": "all05_a20_kn",
+      "Category": 0,
+      "UnknownSingle": 500.0,
+      "Radius": 6000.0,
+      "Stream": "sound/voice/e/all05_a20_kn.wma"
+    },
+    {
+      "Name": "all05_a20_sd",
+      "Category": 0,
+      "UnknownSingle": 500.0,
+      "Radius": 6000.0,
+      "Stream": "sound/voice/e/all05_a20_sd.wma"
+    },
+    {
+      "Name": "all05_a20_rg",
+      "Category": 0,
+      "UnknownSingle": 500.0,
+      "Radius": 6000.0,
+      "Stream": "sound/voice/e/all05_a20_rg.wma"
+    },
+    {
+      "Name": "all05_a20_om",
+      "Category": 0,
+      "UnknownSingle": 500.0,
+      "Radius": 6000.0,
+      "Stream": "sound/voice/e/all05_a20_om.wma"
+    },
+    {
+      "Name": "all05_a20_am",
+      "Category": 0,
+      "UnknownSingle": 500.0,
+      "Radius": 6000.0,
+      "Stream": "sound/voice/e/all05_a20_am.wma"
+    },
+    {
+      "Name": "all05_a20_bz",
+      "Category": 0,
+      "UnknownSingle": 500.0,
+      "Radius": 6000.0,
+      "Stream": "sound/voice/e/all05_a20_bz.wma"
+    },
+    {
+      "Name": "all05_a20_sv",
+      "Category": 0,
+      "UnknownSingle": 500.0,
+      "Radius": 6000.0,
+      "Stream": "sound/voice/e/all05_a20_sv.wma"
+    },
+    {
+      "Name": "all05_a21_sn",
+      "Category": 0,
+      "UnknownSingle": 500.0,
+      "Radius": 6000.0,
+      "Stream": "sound/voice/e/all05_a21_sn.wma"
+    },
+    {
+      "Name": "all05_a21_tl",
+      "Category": 0,
+      "UnknownSingle": 500.0,
+      "Radius": 6000.0,
+      "Stream": "sound/voice/e/all05_a21_tl.wma"
+    },
+    {
+      "Name": "all05_a21_kn",
+      "Category": 0,
+      "UnknownSingle": 500.0,
+      "Radius": 6000.0,
+      "Stream": "sound/voice/e/all05_a21_kn.wma"
+    },
+    {
+      "Name": "all05_a21_sd",
+      "Category": 0,
+      "UnknownSingle": 500.0,
+      "Radius": 6000.0,
+      "Stream": "sound/voice/e/all05_a21_sd.wma"
+    },
+    {
+      "Name": "all05_a21_rg",
+      "Category": 0,
+      "UnknownSingle": 500.0,
+      "Radius": 6000.0,
+      "Stream": "sound/voice/e/all05_a21_rg.wma"
+    },
+    {
+      "Name": "all05_a21_om",
+      "Category": 0,
+      "UnknownSingle": 500.0,
+      "Radius": 6000.0,
+      "Stream": "sound/voice/e/all05_a21_om.wma"
+    },
+    {
+      "Name": "all05_a22_am",
+      "Category": 0,
+      "UnknownSingle": 500.0,
+      "Radius": 6000.0,
+      "Stream": "sound/voice/e/all05_a22_am.wma"
+    },
+    {
+      "Name": "all05_a22_bz",
+      "Category": 0,
+      "UnknownSingle": 500.0,
+      "Radius": 6000.0,
+      "Stream": "sound/voice/e/all05_a22_bz.wma"
+    },
+    {
+      "Name": "all05_a22_sv",
+      "Category": 0,
+      "UnknownSingle": 500.0,
+      "Radius": 6000.0,
+      "Stream": "sound/voice/e/all05_a22_sv.wma"
+    },
+    {
+      "Name": "all05_a23_sn",
+      "Category": 0,
+      "UnknownSingle": 500.0,
+      "Radius": 6000.0,
+      "Stream": "sound/voice/e/all05_a23_sn.wma"
+    },
+    {
+      "Name": "all05_a23_tl",
+      "Category": 0,
+      "UnknownSingle": 500.0,
+      "Radius": 6000.0,
+      "Stream": "sound/voice/e/all05_a23_tl.wma"
+    },
+    {
+      "Name": "all05_a23_kn",
+      "Category": 0,
+      "UnknownSingle": 500.0,
+      "Radius": 6000.0,
+      "Stream": "sound/voice/e/all05_a23_kn.wma"
+    },
+    {
+      "Name": "all05_a23_sd",
+      "Category": 0,
+      "UnknownSingle": 500.0,
+      "Radius": 6000.0,
+      "Stream": "sound/voice/e/all05_a23_sd.wma"
+    },
+    {
+      "Name": "all05_a23_rg",
+      "Category": 0,
+      "UnknownSingle": 500.0,
+      "Radius": 6000.0,
+      "Stream": "sound/voice/e/all05_a23_rg.wma"
+    },
+    {
+      "Name": "all05_a23_om",
+      "Category": 0,
+      "UnknownSingle": 500.0,
+      "Radius": 6000.0,
+      "Stream": "sound/voice/e/all05_a23_om.wma"
+    },
+    {
+      "Name": "all05_a24_am",
+      "Category": 0,
+      "UnknownSingle": 500.0,
+      "Radius": 6000.0,
+      "Stream": "sound/voice/e/all05_a24_am.wma"
+    },
+    {
+      "Name": "all05_a24_bz",
+      "Category": 0,
+      "UnknownSingle": 500.0,
+      "Radius": 6000.0,
+      "Stream": "sound/voice/e/all05_a24_bz.wma"
+    },
+    {
+      "Name": "all05_a24_sv",
+      "Category": 0,
+      "UnknownSingle": 500.0,
+      "Radius": 6000.0,
+      "Stream": "sound/voice/e/all05_a24_sv.wma"
+    },
+    {
+      "Name": "all05_a25_sn",
+      "Category": 0,
+      "UnknownSingle": 500.0,
+      "Radius": 6000.0,
+      "Stream": "sound/voice/e/all05_a25_sn.wma"
+    },
+    {
+      "Name": "all05_a25_tl",
+      "Category": 0,
+      "UnknownSingle": 500.0,
+      "Radius": 6000.0,
+      "Stream": "sound/voice/e/all05_a25_tl.wma"
+    },
+    {
+      "Name": "all05_a25_kn",
+      "Category": 0,
+      "UnknownSingle": 500.0,
+      "Radius": 6000.0,
+      "Stream": "sound/voice/e/all05_a25_kn.wma"
+    },
+    {
+      "Name": "all05_a25_sd",
+      "Category": 0,
+      "UnknownSingle": 500.0,
+      "Radius": 6000.0,
+      "Stream": "sound/voice/e/all05_a25_sd.wma"
+    },
+    {
+      "Name": "all05_a25_rg",
+      "Category": 0,
+      "UnknownSingle": 500.0,
+      "Radius": 6000.0,
+      "Stream": "sound/voice/e/all05_a25_rg.wma"
+    },
+    {
+      "Name": "all05_a25_om",
+      "Category": 0,
+      "UnknownSingle": 500.0,
+      "Radius": 6000.0,
+      "Stream": "sound/voice/e/all05_a25_om.wma"
+    },
+    {
+      "Name": "all05_a26_am",
+      "Category": 0,
+      "UnknownSingle": 500.0,
+      "Radius": 6000.0,
+      "Stream": "sound/voice/e/all05_a26_am.wma"
+    },
+    {
+      "Name": "all05_a26_bz",
+      "Category": 0,
+      "UnknownSingle": 500.0,
+      "Radius": 6000.0,
+      "Stream": "sound/voice/e/all05_a26_bz.wma"
+    },
+    {
+      "Name": "all05_a26_sv",
+      "Category": 0,
+      "UnknownSingle": 500.0,
+      "Radius": 6000.0,
+      "Stream": "sound/voice/e/all05_a26_sv.wma"
+    },
+    {
+      "Name": "all05_a27_sn",
+      "Category": 0,
+      "UnknownSingle": 500.0,
+      "Radius": 6000.0,
+      "Stream": "sound/voice/e/all05_a27_sn.wma"
+    },
+    {
+      "Name": "all05_a27_tl",
+      "Category": 0,
+      "UnknownSingle": 500.0,
+      "Radius": 6000.0,
+      "Stream": "sound/voice/e/all05_a27_tl.wma"
+    },
+    {
+      "Name": "all05_a27_kn",
+      "Category": 0,
+      "UnknownSingle": 500.0,
+      "Radius": 6000.0,
+      "Stream": "sound/voice/e/all05_a27_kn.wma"
+    },
+    {
+      "Name": "all05_a27_sd",
+      "Category": 0,
+      "UnknownSingle": 500.0,
+      "Radius": 6000.0,
+      "Stream": "sound/voice/e/all05_a27_sd.wma"
+    },
+    {
+      "Name": "all05_a27_rg",
+      "Category": 0,
+      "UnknownSingle": 500.0,
+      "Radius": 6000.0,
+      "Stream": "sound/voice/e/all05_a27_rg.wma"
+    },
+    {
+      "Name": "all05_a27_om",
+      "Category": 0,
+      "UnknownSingle": 500.0,
+      "Radius": 6000.0,
+      "Stream": "sound/voice/e/all05_a27_om.wma"
+    },
+    {
+      "Name": "all05_a27_am",
+      "Category": 0,
+      "UnknownSingle": 500.0,
+      "Radius": 6000.0,
+      "Stream": "sound/voice/e/all05_a27_am.wma"
+    },
+    {
+      "Name": "all05_a27_bz",
+      "Category": 0,
+      "UnknownSingle": 500.0,
+      "Radius": 6000.0,
+      "Stream": "sound/voice/e/all05_a27_bz.wma"
+    },
+    {
+      "Name": "all05_a27_sv",
+      "Category": 0,
+      "UnknownSingle": 500.0,
+      "Radius": 6000.0,
+      "Stream": "sound/voice/e/all05_a27_sv.wma"
+    },
+    {
+      "Name": "all05_a28_sn",
+      "Category": 0,
+      "UnknownSingle": 500.0,
+      "Radius": 6000.0,
+      "Stream": "sound/voice/e/all05_a28_sn.wma"
+    },
+    {
+      "Name": "all05_a28_tl",
+      "Category": 0,
+      "UnknownSingle": 500.0,
+      "Radius": 6000.0,
+      "Stream": "sound/voice/e/all05_a28_tl.wma"
+    },
+    {
+      "Name": "all05_a28_kn",
+      "Category": 0,
+      "UnknownSingle": 500.0,
+      "Radius": 6000.0,
+      "Stream": "sound/voice/e/all05_a28_kn.wma"
+    },
+    {
+      "Name": "all05_a28_sd",
+      "Category": 0,
+      "UnknownSingle": 500.0,
+      "Radius": 6000.0,
+      "Stream": "sound/voice/e/all05_a28_sd.wma"
+    },
+    {
+      "Name": "all05_a28_rg",
+      "Category": 0,
+      "UnknownSingle": 500.0,
+      "Radius": 6000.0,
+      "Stream": "sound/voice/e/all05_a28_rg.wma"
+    },
+    {
+      "Name": "all05_a28_om",
+      "Category": 0,
+      "UnknownSingle": 500.0,
+      "Radius": 6000.0,
+      "Stream": "sound/voice/e/all05_a28_om.wma"
+    },
+    {
+      "Name": "all05_a29_am",
+      "Category": 0,
+      "UnknownSingle": 500.0,
+      "Radius": 6000.0,
+      "Stream": "sound/voice/e/all05_a29_am.wma"
+    },
+    {
+      "Name": "all05_a29_bz",
+      "Category": 0,
+      "UnknownSingle": 500.0,
+      "Radius": 6000.0,
+      "Stream": "sound/voice/e/all05_a29_bz.wma"
+    },
+    {
+      "Name": "all05_a29_sv",
+      "Category": 0,
+      "UnknownSingle": 500.0,
+      "Radius": 6000.0,
+      "Stream": "sound/voice/e/all05_a29_sv.wma"
+    },
+    {
+      "Name": "all05_a30_sn",
+      "Category": 0,
+      "UnknownSingle": 500.0,
+      "Radius": 6000.0,
+      "Stream": "sound/voice/e/all05_a30_sn.wma"
+    },
+    {
+      "Name": "all05_a30_tl",
+      "Category": 0,
+      "UnknownSingle": 500.0,
+      "Radius": 6000.0,
+      "Stream": "sound/voice/e/all05_a30_tl.wma"
+    },
+    {
+      "Name": "all05_a30_kn",
+      "Category": 0,
+      "UnknownSingle": 500.0,
+      "Radius": 6000.0,
+      "Stream": "sound/voice/e/all05_a30_kn.wma"
+    },
+    {
+      "Name": "all05_a30_sd",
+      "Category": 0,
+      "UnknownSingle": 500.0,
+      "Radius": 6000.0,
+      "Stream": "sound/voice/e/all05_a30_sd.wma"
+    },
+    {
+      "Name": "all05_a30_rg",
+      "Category": 0,
+      "UnknownSingle": 500.0,
+      "Radius": 6000.0,
+      "Stream": "sound/voice/e/all05_a30_rg.wma"
+    },
+    {
+      "Name": "all05_a30_om",
+      "Category": 0,
+      "UnknownSingle": 500.0,
+      "Radius": 6000.0,
+      "Stream": "sound/voice/e/all05_a30_om.wma"
+    },
+    {
+      "Name": "all05_a30_am",
+      "Category": 0,
+      "UnknownSingle": 500.0,
+      "Radius": 6000.0,
+      "Stream": "sound/voice/e/all05_a30_am.wma"
+    },
+    {
+      "Name": "all05_a30_bz",
+      "Category": 0,
+      "UnknownSingle": 500.0,
+      "Radius": 6000.0,
+      "Stream": "sound/voice/e/all05_a30_bz.wma"
+    },
+    {
+      "Name": "all05_a30_sv",
+      "Category": 0,
+      "UnknownSingle": 500.0,
+      "Radius": 6000.0,
+      "Stream": "sound/voice/e/all05_a30_sv.wma"
+    },
+    {
+      "Name": "all05_a31_sn",
+      "Category": 0,
+      "UnknownSingle": 500.0,
+      "Radius": 6000.0,
+      "Stream": "sound/voice/e/all05_a31_sn.wma"
+    },
+    {
+      "Name": "all05_a31_tl",
+      "Category": 0,
+      "UnknownSingle": 500.0,
+      "Radius": 6000.0,
+      "Stream": "sound/voice/e/all05_a31_tl.wma"
+    },
+    {
+      "Name": "all05_a31_kn",
+      "Category": 0,
+      "UnknownSingle": 500.0,
+      "Radius": 6000.0,
+      "Stream": "sound/voice/e/all05_a31_kn.wma"
+    },
+    {
+      "Name": "all05_a31_sd",
+      "Category": 0,
+      "UnknownSingle": 500.0,
+      "Radius": 6000.0,
+      "Stream": "sound/voice/e/all05_a31_sd.wma"
+    },
+    {
+      "Name": "all05_a31_rg",
+      "Category": 0,
+      "UnknownSingle": 500.0,
+      "Radius": 6000.0,
+      "Stream": "sound/voice/e/all05_a31_rg.wma"
+    },
+    {
+      "Name": "all05_a31_om",
+      "Category": 0,
+      "UnknownSingle": 500.0,
+      "Radius": 6000.0,
+      "Stream": "sound/voice/e/all05_a31_om.wma"
+    },
+    {
+      "Name": "all05_a31_am",
+      "Category": 0,
+      "UnknownSingle": 500.0,
+      "Radius": 6000.0,
+      "Stream": "sound/voice/e/all05_a31_am.wma"
+    },
+    {
+      "Name": "all05_a31_bz",
+      "Category": 0,
+      "UnknownSingle": 500.0,
+      "Radius": 6000.0,
+      "Stream": "sound/voice/e/all05_a31_bz.wma"
+    },
+    {
+      "Name": "all05_a31_sv",
+      "Category": 0,
+      "UnknownSingle": 500.0,
+      "Radius": 6000.0,
+      "Stream": "sound/voice/e/all05_a31_sv.wma"
+    },
+    {
+      "Name": "all05_a32_sn",
+      "Category": 0,
+      "UnknownSingle": 500.0,
+      "Radius": 6000.0,
+      "Stream": "sound/voice/e/all05_a32_sn.wma"
+    },
+    {
+      "Name": "all05_a32_tl",
+      "Category": 0,
+      "UnknownSingle": 500.0,
+      "Radius": 6000.0,
+      "Stream": "sound/voice/e/all05_a32_tl.wma"
+    },
+    {
+      "Name": "all05_a32_kn",
+      "Category": 0,
+      "UnknownSingle": 500.0,
+      "Radius": 6000.0,
+      "Stream": "sound/voice/e/all05_a32_kn.wma"
+    },
+    {
+      "Name": "all05_a32_sd",
+      "Category": 0,
+      "UnknownSingle": 500.0,
+      "Radius": 6000.0,
+      "Stream": "sound/voice/e/all05_a32_sd.wma"
+    },
+    {
+      "Name": "all05_a32_rg",
+      "Category": 0,
+      "UnknownSingle": 500.0,
+      "Radius": 6000.0,
+      "Stream": "sound/voice/e/all05_a32_rg.wma"
+    },
+    {
+      "Name": "all05_a32_om",
+      "Category": 0,
+      "UnknownSingle": 500.0,
+      "Radius": 6000.0,
+      "Stream": "sound/voice/e/all05_a32_om.wma"
+    },
+    {
+      "Name": "all05_a32_am",
+      "Category": 0,
+      "UnknownSingle": 500.0,
+      "Radius": 6000.0,
+      "Stream": "sound/voice/e/all05_a32_am.wma"
+    },
+    {
+      "Name": "all05_a32_bz",
+      "Category": 0,
+      "UnknownSingle": 500.0,
+      "Radius": 6000.0,
+      "Stream": "sound/voice/e/all05_a32_bz.wma"
+    },
+    {
+      "Name": "all05_a32_sv",
+      "Category": 0,
+      "UnknownSingle": 500.0,
+      "Radius": 6000.0,
+      "Stream": "sound/voice/e/all05_a32_sv.wma"
+    },
+    {
+      "Name": "all05_a33_sn",
+      "Category": 0,
+      "UnknownSingle": 500.0,
+      "Radius": 6000.0,
+      "Stream": "sound/voice/e/all05_a33_sn.wma"
+    },
+    {
+      "Name": "all05_a33_tl",
+      "Category": 0,
+      "UnknownSingle": 500.0,
+      "Radius": 6000.0,
+      "Stream": "sound/voice/e/all05_a33_tl.wma"
+    },
+    {
+      "Name": "all05_a33_kn",
+      "Category": 0,
+      "UnknownSingle": 500.0,
+      "Radius": 6000.0,
+      "Stream": "sound/voice/e/all05_a33_kn.wma"
+    },
+    {
+      "Name": "all05_a33_sd",
+      "Category": 0,
+      "UnknownSingle": 500.0,
+      "Radius": 6000.0,
+      "Stream": "sound/voice/e/all05_a33_sd.wma"
+    },
+    {
+      "Name": "all05_a33_rg",
+      "Category": 0,
+      "UnknownSingle": 500.0,
+      "Radius": 6000.0,
+      "Stream": "sound/voice/e/all05_a33_rg.wma"
+    },
+    {
+      "Name": "all05_a33_om",
+      "Category": 0,
+      "UnknownSingle": 500.0,
+      "Radius": 6000.0,
+      "Stream": "sound/voice/e/all05_a33_om.wma"
+    },
+    {
+      "Name": "all05_a33_am",
+      "Category": 0,
+      "UnknownSingle": 500.0,
+      "Radius": 6000.0,
+      "Stream": "sound/voice/e/all05_a33_am.wma"
+    },
+    {
+      "Name": "all05_a33_bz",
+      "Category": 0,
+      "UnknownSingle": 500.0,
+      "Radius": 6000.0,
+      "Stream": "sound/voice/e/all05_a33_bz.wma"
+    },
+    {
+      "Name": "all05_a33_sv",
+      "Category": 0,
+      "UnknownSingle": 500.0,
+      "Radius": 6000.0,
+      "Stream": "sound/voice/e/all05_a33_sv.wma"
+    },
+    {
+      "Name": "all05_a33_pr",
+      "Category": 0,
+      "UnknownSingle": 500.0,
+      "Radius": 6000.0,
+      "Stream": "sound/voice/e/all05_a33_pr.wma"
+    },
+    {
+      "Name": "all01_w00_sn",
+      "Category": 0,
+      "UnknownSingle": 500.0,
+      "Radius": 6000.0,
+      "Stream": "sound/voice/e/all01_w00_sn.wma"
+    },
+    {
+      "Name": "all01_w00_tl",
+      "Category": 0,
+      "UnknownSingle": 500.0,
+      "Radius": 6000.0,
+      "Stream": "sound/voice/e/all01_w00_tl.wma"
+    },
+    {
+      "Name": "all01_w00_kn",
+      "Category": 0,
+      "UnknownSingle": 500.0,
+      "Radius": 6000.0,
+      "Stream": "sound/voice/e/all01_w00_kn.wma"
+    },
+    {
+      "Name": "all01_w00_sd",
+      "Category": 0,
+      "UnknownSingle": 500.0,
+      "Radius": 6000.0,
+      "Stream": "sound/voice/e/all01_w00_sd.wma"
+    },
+    {
+      "Name": "all01_w00_rg",
+      "Category": 0,
+      "UnknownSingle": 500.0,
+      "Radius": 6000.0,
+      "Stream": "sound/voice/e/all01_w00_rg.wma"
+    },
+    {
+      "Name": "all01_w00_om",
+      "Category": 0,
+      "UnknownSingle": 500.0,
+      "Radius": 6000.0,
+      "Stream": "sound/voice/e/all01_w00_om.wma"
+    },
+    {
+      "Name": "all01_w00_am",
+      "Category": 0,
+      "UnknownSingle": 500.0,
+      "Radius": 6000.0,
+      "Stream": "sound/voice/e/all01_w00_am.wma"
+    },
+    {
+      "Name": "all01_w00_bz",
+      "Category": 0,
+      "UnknownSingle": 500.0,
+      "Radius": 6000.0,
+      "Stream": "sound/voice/e/all01_w00_bz.wma"
+    },
+    {
+      "Name": "all01_w00_sv",
+      "Category": 0,
+      "UnknownSingle": 500.0,
+      "Radius": 6000.0,
+      "Stream": "sound/voice/e/all01_w00_sv.wma"
+    },
+    {
+      "Name": "all01_w00_pr",
+      "Category": 0,
+      "UnknownSingle": 500.0,
+      "Radius": 6000.0,
+      "Stream": "sound/voice/e/all01_w00_pr.wma"
+    },
+    {
+      "Name": "all01_w01_sn",
+      "Category": 0,
+      "UnknownSingle": 500.0,
+      "Radius": 6000.0,
+      "Stream": "sound/voice/e/all01_w01_sn.wma"
+    },
+    {
+      "Name": "all01_w01_tl",
+      "Category": 0,
+      "UnknownSingle": 500.0,
+      "Radius": 6000.0,
+      "Stream": "sound/voice/e/all01_w01_tl.wma"
+    },
+    {
+      "Name": "all01_w01_kn",
+      "Category": 0,
+      "UnknownSingle": 500.0,
+      "Radius": 6000.0,
+      "Stream": "sound/voice/e/all01_w01_kn.wma"
+    },
+    {
+      "Name": "all01_w01_sd",
+      "Category": 0,
+      "UnknownSingle": 500.0,
+      "Radius": 6000.0,
+      "Stream": "sound/voice/e/all01_w01_sd.wma"
+    },
+    {
+      "Name": "all01_w01_rg",
+      "Category": 0,
+      "UnknownSingle": 500.0,
+      "Radius": 6000.0,
+      "Stream": "sound/voice/e/all01_w01_rg.wma"
+    },
+    {
+      "Name": "all01_w01_om",
+      "Category": 0,
+      "UnknownSingle": 500.0,
+      "Radius": 6000.0,
+      "Stream": "sound/voice/e/all01_w01_om.wma"
+    },
+    {
+      "Name": "all01_w01_am",
+      "Category": 0,
+      "UnknownSingle": 500.0,
+      "Radius": 6000.0,
+      "Stream": "sound/voice/e/all01_w01_am.wma"
+    },
+    {
+      "Name": "all01_w01_bz",
+      "Category": 0,
+      "UnknownSingle": 500.0,
+      "Radius": 6000.0,
+      "Stream": "sound/voice/e/all01_w01_bz.wma"
+    },
+    {
+      "Name": "all01_w01_sv",
+      "Category": 0,
+      "UnknownSingle": 500.0,
+      "Radius": 6000.0,
+      "Stream": "sound/voice/e/all01_w01_sv.wma"
+    },
+    {
+      "Name": "all01_w01_pr",
+      "Category": 0,
+      "UnknownSingle": 500.0,
+      "Radius": 6000.0,
+      "Stream": "sound/voice/e/all01_w01_pr.wma"
+    },
+    {
+      "Name": "all06_a00_sd",
+      "Category": 0,
+      "UnknownSingle": 500.0,
+      "Radius": 6000.0,
+      "Stream": "sound/voice/e/all06_a00_sd.wma"
+    },
+    {
+      "Name": "all06_a00_rg",
+      "Category": 0,
+      "UnknownSingle": 500.0,
+      "Radius": 6000.0,
+      "Stream": "sound/voice/e/all06_a00_rg.wma"
+    },
+    {
+      "Name": "all06_a01_sd",
+      "Category": 0,
+      "UnknownSingle": 500.0,
+      "Radius": 6000.0,
+      "Stream": "sound/voice/e/all06_a01_sd.wma"
+    },
+    {
+      "Name": "all06_a01_rg",
+      "Category": 0,
+      "UnknownSingle": 500.0,
+      "Radius": 6000.0,
+      "Stream": "sound/voice/e/all06_a01_rg.wma"
+    },
+    {
+      "Name": "all06_a02_sd",
+      "Category": 0,
+      "UnknownSingle": 500.0,
+      "Radius": 6000.0,
+      "Stream": "sound/voice/e/all06_a02_sd.wma"
+    },
+    {
+      "Name": "all06_a02_rg",
+      "Category": 0,
+      "UnknownSingle": 500.0,
+      "Radius": 6000.0,
+      "Stream": "sound/voice/e/all06_a02_rg.wma"
+    },
+    {
+      "Name": "all06_a03_sd",
+      "Category": 0,
+      "UnknownSingle": 500.0,
+      "Radius": 6000.0,
+      "Stream": "sound/voice/e/all06_a03_sd.wma"
+    },
+    {
+      "Name": "all06_a03_rg",
+      "Category": 0,
+      "UnknownSingle": 500.0,
+      "Radius": 6000.0,
+      "Stream": "sound/voice/e/all06_a03_rg.wma"
+    },
+    {
+      "Name": "all06_a03ps_sd",
+      "Category": 0,
+      "UnknownSingle": 500.0,
+      "Radius": 6000.0,
+      "Stream": "sound/voice/e/all06_a03ps_sd.wma"
+    },
+    {
+      "Name": "all06_a03ps_rg",
+      "Category": 0,
+      "UnknownSingle": 500.0,
+      "Radius": 6000.0,
+      "Stream": "sound/voice/e/all06_a03ps_rg.wma"
+    },
+    {
+      "Name": "all06_a04_sd",
+      "Category": 0,
+      "UnknownSingle": 500.0,
+      "Radius": 6000.0,
+      "Stream": "sound/voice/e/all06_a04_sd.wma"
+    },
+    {
+      "Name": "all06_a04_rg",
+      "Category": 0,
+      "UnknownSingle": 500.0,
+      "Radius": 6000.0,
+      "Stream": "sound/voice/e/all06_a04_rg.wma"
+    },
+    {
+      "Name": "all06_a04ps_sd",
+      "Category": 0,
+      "UnknownSingle": 500.0,
+      "Radius": 6000.0,
+      "Stream": "sound/voice/e/all06_a04ps_sd.wma"
+    },
+    {
+      "Name": "all06_a04ps_rg",
+      "Category": 0,
+      "UnknownSingle": 500.0,
+      "Radius": 6000.0,
+      "Stream": "sound/voice/e/all06_a04ps_rg.wma"
+    },
+    {
+      "Name": "all06_a05_sd",
+      "Category": 0,
+      "UnknownSingle": 500.0,
+      "Radius": 6000.0,
+      "Stream": "sound/voice/e/all06_a05_sd.wma"
+    },
+    {
+      "Name": "all06_a05_rg",
+      "Category": 0,
+      "UnknownSingle": 500.0,
+      "Radius": 6000.0,
+      "Stream": "sound/voice/e/all06_a05_rg.wma"
+    },
+    {
+      "Name": "all06_a05ps_sd",
+      "Category": 0,
+      "UnknownSingle": 500.0,
+      "Radius": 6000.0,
+      "Stream": "sound/voice/e/all06_a05ps_sd.wma"
+    },
+    {
+      "Name": "all06_a05ps_rg",
+      "Category": 0,
+      "UnknownSingle": 500.0,
+      "Radius": 6000.0,
+      "Stream": "sound/voice/e/all06_a05ps_rg.wma"
+    },
+    {
+      "Name": "all06_a06_sd",
+      "Category": 0,
+      "UnknownSingle": 500.0,
+      "Radius": 6000.0,
+      "Stream": "sound/voice/e/all06_a06_sd.wma"
+    },
+    {
+      "Name": "all06_a06_rg",
+      "Category": 0,
+      "UnknownSingle": 500.0,
+      "Radius": 6000.0,
+      "Stream": "sound/voice/e/all06_a06_rg"
+    },
+    {
+      "Name": "all06_a07_sd",
+      "Category": 0,
+      "UnknownSingle": 500.0,
+      "Radius": 6000.0,
+      "Stream": "sound/voice/e/all06_a07_sd.wma"
+    },
+    {
+      "Name": "all06_a07ps_sd",
+      "Category": 0,
+      "UnknownSingle": 500.0,
+      "Radius": 6000.0,
+      "Stream": "sound/voice/e/all06_a07ps_sd.wma"
+    },
+    {
+      "Name": "all06_a08_sd",
+      "Category": 0,
+      "UnknownSingle": 500.0,
+      "Radius": 6000.0,
+      "Stream": "sound/voice/e/all06_a08_sd.wma"
+    },
+    {
+      "Name": "all06_a09_sd",
+      "Category": 0,
+      "UnknownSingle": 500.0,
+      "Radius": 6000.0,
+      "Stream": "sound/voice/e/all06_a09_sd.wma"
+    },
+    {
+      "Name": "all06_a09ps_sd",
+      "Category": 0,
+      "UnknownSingle": 500.0,
+      "Radius": 6000.0,
+      "Stream": "sound/voice/e/all06_a09ps_sd.wma"
+    },
+    {
+      "Name": "all06_a04_sd",
+      "Category": 0,
+      "UnknownSingle": 500.0,
+      "Radius": 6000.0,
+      "Stream": "sound/voice/e/all06_a04_sd.wma"
+    },
+    {
+      "Name": "all06_a04ps_sd",
+      "Category": 0,
+      "UnknownSingle": 500.0,
+      "Radius": 6000.0,
+      "Stream": "sound/voice/e/all06_a04ps_sd.wma"
+    },
+    {
+      "Name": "all06_a11_sd",
+      "Category": 0,
+      "UnknownSingle": 500.0,
+      "Radius": 6000.0,
+      "Stream": "sound/voice/e/all06_a11_sd.wma"
+    },
+    {
+      "Name": "all06_a11ps_sd",
+      "Category": 0,
+      "UnknownSingle": 500.0,
+      "Radius": 6000.0,
+      "Stream": "sound/voice/e/all06_a11ps_sd.wma"
+    },
+    {
+      "Name": "all06_a12_sd",
+      "Category": 0,
+      "UnknownSingle": 500.0,
+      "Radius": 6000.0,
+      "Stream": "sound/voice/e/all06_a12_sd.wma"
+    },
+    {
+      "Name": "all06_a12ps_sd",
+      "Category": 0,
+      "UnknownSingle": 500.0,
+      "Radius": 6000.0,
+      "Stream": "sound/voice/e/all06_a12ps_sd.wma"
+    },
+    {
+      "Name": "all06_a13_sd",
+      "Category": 0,
+      "UnknownSingle": 500.0,
+      "Radius": 6000.0,
+      "Stream": "sound/voice/e/all06_a13_sd.wma"
+    },
+    {
+      "Name": "all06_a14_sd",
+      "Category": 0,
+      "UnknownSingle": 500.0,
+      "Radius": 6000.0,
+      "Stream": "sound/voice/e/all06_a14_sd.wma"
+    },
+    {
+      "Name": "all06_a14ps_sd",
+      "Category": 0,
+      "UnknownSingle": 500.0,
+      "Radius": 6000.0,
+      "Stream": "sound/voice/e/all06_a14ps_sd.wma"
+    },
+    {
+      "Name": "all06_a15_sd",
+      "Category": 0,
+      "UnknownSingle": 500.0,
+      "Radius": 6000.0,
+      "Stream": "sound/voice/e/all06_a15_sd.wma"
+    },
+    {
+      "Name": "all06_a15ps_sd",
+      "Category": 0,
+      "UnknownSingle": 500.0,
+      "Radius": 6000.0,
+      "Stream": "sound/voice/e/all06_a15ps_sd.wma"
+    },
+    {
+      "Name": "all06_a16_sd",
+      "Category": 0,
+      "UnknownSingle": 500.0,
+      "Radius": 6000.0,
+      "Stream": "sound/voice/e/all06_a16_sd.wma"
+    },
+    {
+      "Name": "all06_a16ps_sd",
+      "Category": 0,
+      "UnknownSingle": 500.0,
+      "Radius": 6000.0,
+      "Stream": "sound/voice/e/all06_a16ps_sd.wma"
+    },
+    {
+      "Name": "all06_a17_sd",
+      "Category": 0,
+      "UnknownSingle": 500.0,
+      "Radius": 6000.0,
+      "Stream": "sound/voice/e/all06_a17_sd.wma"
+    },
+    {
+      "Name": "all06_a18_sd",
+      "Category": 0,
+      "UnknownSingle": 500.0,
+      "Radius": 6000.0,
+      "Stream": "sound/voice/e/all06_a18_sd.wma"
+    },
+    {
+      "Name": "all06_a19_sd",
+      "Category": 0,
+      "UnknownSingle": 500.0,
+      "Radius": 6000.0,
+      "Stream": "sound/voice/e/all06_a19_sd.wma"
+    },
+    {
+      "Name": "all06_a19ps_sd",
+      "Category": 0,
+      "UnknownSingle": 500.0,
+      "Radius": 6000.0,
+      "Stream": "sound/voice/e/all06_a19ps_sd.wma"
+    },
+    {
+      "Name": "all06_a20_sd",
+      "Category": 0,
+      "UnknownSingle": 500.0,
+      "Radius": 6000.0,
+      "Stream": "sound/voice/e/all06_a20_sd.wma"
+    },
+    {
+      "Name": "all06_a20ps_sd",
+      "Category": 0,
+      "UnknownSingle": 500.0,
+      "Radius": 6000.0,
+      "Stream": "sound/voice/e/all06_a20ps_sd.wma"
+    },
+    {
+      "Name": "all06_a21_sd",
+      "Category": 0,
+      "UnknownSingle": 500.0,
+      "Radius": 6000.0,
+      "Stream": "sound/voice/e/all06_a21_sd.wma"
+    },
+    {
+      "Name": "all06_a21ps_sd",
+      "Category": 0,
+      "UnknownSingle": 500.0,
+      "Radius": 6000.0,
+      "Stream": "sound/voice/e/all06_a21ps_sd.wma"
+    },
+    {
+      "Name": "all06_a22_sd",
+      "Category": 0,
+      "UnknownSingle": 500.0,
+      "Radius": 6000.0,
+      "Stream": "sound/voice/e/all06_a22_sd.wma"
+    },
+    {
+      "Name": "all06_a22ps_sd",
+      "Category": 0,
+      "UnknownSingle": 500.0,
+      "Radius": 6000.0,
+      "Stream": "sound/voice/e/all06_a22ps_sd.wma"
+    },
+    {
+      "Name": "all07_a00_sn",
+      "Category": 0,
+      "UnknownSingle": 500.0,
+      "Radius": 6000.0,
+      "Stream": "sound/voice/e/all07_a00_sn.wma"
+    },
+    {
+      "Name": "all07_a00_tl",
+      "Category": 0,
+      "UnknownSingle": 500.0,
+      "Radius": 6000.0,
+      "Stream": "sound/voice/e/all07_a00_tl.wma"
+    },
+    {
+      "Name": "all07_a00_kn",
+      "Category": 0,
+      "UnknownSingle": 500.0,
+      "Radius": 6000.0,
+      "Stream": "sound/voice/e/all07_a00_kn.wma"
+    },
+    {
+      "Name": "all07_a00_sd",
+      "Category": 0,
+      "UnknownSingle": 500.0,
+      "Radius": 6000.0,
+      "Stream": "sound/voice/e/all07_a00_sd.wma"
+    },
+    {
+      "Name": "all07_a00_rg",
+      "Category": 0,
+      "UnknownSingle": 500.0,
+      "Radius": 6000.0,
+      "Stream": "sound/voice/e/all07_a00_rg.wma"
+    },
+    {
+      "Name": "all07_a00_om",
+      "Category": 0,
+      "UnknownSingle": 500.0,
+      "Radius": 6000.0,
+      "Stream": "sound/voice/e/all07_a00_om.wma"
+    },
+    {
+      "Name": "all07_a00_am",
+      "Category": 0,
+      "UnknownSingle": 500.0,
+      "Radius": 6000.0,
+      "Stream": "sound/voice/e/all07_a00_am.wma"
+    },
+    {
+      "Name": "all07_a00_bz",
+      "Category": 0,
+      "UnknownSingle": 500.0,
+      "Radius": 6000.0,
+      "Stream": "sound/voice/e/all07_a00_bz.wma"
+    },
+    {
+      "Name": "all07_a00_sv",
+      "Category": 0,
+      "UnknownSingle": 500.0,
+      "Radius": 6000.0,
+      "Stream": "sound/voice/e/all07_a00_sv.wma"
+    },
+    {
+      "Name": "all07_a01_sn",
+      "Category": 0,
+      "UnknownSingle": 500.0,
+      "Radius": 6000.0,
+      "Stream": "sound/voice/e/all07_a01_sn.wma"
+    },
+    {
+      "Name": "all07_a01_tl",
+      "Category": 0,
+      "UnknownSingle": 500.0,
+      "Radius": 6000.0,
+      "Stream": "sound/voice/e/all07_a01_tl.wma"
+    },
+    {
+      "Name": "all07_a01_kn",
+      "Category": 0,
+      "UnknownSingle": 500.0,
+      "Radius": 6000.0,
+      "Stream": "sound/voice/e/all07_a01_kn.wma"
+    },
+    {
+      "Name": "all07_a01_sd",
+      "Category": 0,
+      "UnknownSingle": 500.0,
+      "Radius": 6000.0,
+      "Stream": "sound/voice/e/all07_a01_sd.wma"
+    },
+    {
+      "Name": "all07_a01_rg",
+      "Category": 0,
+      "UnknownSingle": 500.0,
+      "Radius": 6000.0,
+      "Stream": "sound/voice/e/all07_a01_rg.wma"
+    },
+    {
+      "Name": "all07_a01_om",
+      "Category": 0,
+      "UnknownSingle": 500.0,
+      "Radius": 6000.0,
+      "Stream": "sound/voice/e/all07_a01_om.wma"
+    },
+    {
+      "Name": "all07_a01_am",
+      "Category": 0,
+      "UnknownSingle": 500.0,
+      "Radius": 6000.0,
+      "Stream": "sound/voice/e/all07_a01_am.wma"
+    },
+    {
+      "Name": "all07_a01_bz",
+      "Category": 0,
+      "UnknownSingle": 500.0,
+      "Radius": 6000.0,
+      "Stream": "sound/voice/e/all07_a01_bz.wma"
+    },
+    {
+      "Name": "all07_a01_sv",
+      "Category": 0,
+      "UnknownSingle": 500.0,
+      "Radius": 6000.0,
+      "Stream": "sound/voice/e/all07_a01_sv.wma"
+    },
+    {
+      "Name": "all07_a02_sn",
+      "Category": 0,
+      "UnknownSingle": 500.0,
+      "Radius": 6000.0,
+      "Stream": "sound/voice/e/all07_a02_sn.wma"
+    },
+    {
+      "Name": "all07_a02_tl",
+      "Category": 0,
+      "UnknownSingle": 500.0,
+      "Radius": 6000.0,
+      "Stream": "sound/voice/e/all07_a02_tl.wma"
+    },
+    {
+      "Name": "all07_a02_kn",
+      "Category": 0,
+      "UnknownSingle": 500.0,
+      "Radius": 6000.0,
+      "Stream": "sound/voice/e/all07_a02_kn.wma"
+    },
+    {
+      "Name": "all07_a02_sd",
+      "Category": 0,
+      "UnknownSingle": 500.0,
+      "Radius": 6000.0,
+      "Stream": "sound/voice/e/all07_a02_sd.wma"
+    },
+    {
+      "Name": "all07_a02_rg",
+      "Category": 0,
+      "UnknownSingle": 500.0,
+      "Radius": 6000.0,
+      "Stream": "sound/voice/e/all07_a02_rg.wma"
+    },
+    {
+      "Name": "all07_a02_om",
+      "Category": 0,
+      "UnknownSingle": 500.0,
+      "Radius": 6000.0,
+      "Stream": "sound/voice/e/all07_a02_om.wma"
+    },
+    {
+      "Name": "all07_a02_am",
+      "Category": 0,
+      "UnknownSingle": 500.0,
+      "Radius": 6000.0,
+      "Stream": "sound/voice/e/all07_a02_am.wma"
+    },
+    {
+      "Name": "all07_a02_bz",
+      "Category": 0,
+      "UnknownSingle": 500.0,
+      "Radius": 6000.0,
+      "Stream": "sound/voice/e/all07_a02_bz.wma"
+    },
+    {
+      "Name": "all07_a02_sv",
+      "Category": 0,
+      "UnknownSingle": 500.0,
+      "Radius": 6000.0,
+      "Stream": "sound/voice/e/all07_a02_sv.wma"
+    },
+    {
+      "Name": "all07_a03_sn",
+      "Category": 0,
+      "UnknownSingle": 500.0,
+      "Radius": 6000.0,
+      "Stream": "sound/voice/e/all07_a03_sn.wma"
+    },
+    {
+      "Name": "all07_a03_tl",
+      "Category": 0,
+      "UnknownSingle": 500.0,
+      "Radius": 6000.0,
+      "Stream": "sound/voice/e/all07_a03_tl.wma"
+    },
+    {
+      "Name": "all07_a03_kn",
+      "Category": 0,
+      "UnknownSingle": 500.0,
+      "Radius": 6000.0,
+      "Stream": "sound/voice/e/all07_a03_kn.wma"
+    },
+    {
+      "Name": "all07_a03_sd",
+      "Category": 0,
+      "UnknownSingle": 500.0,
+      "Radius": 6000.0,
+      "Stream": "sound/voice/e/all07_a03_sd.wma"
+    },
+    {
+      "Name": "all07_a03_rg",
+      "Category": 0,
+      "UnknownSingle": 500.0,
+      "Radius": 6000.0,
+      "Stream": "sound/voice/e/all07_a03_rg.wma"
+    },
+    {
+      "Name": "all07_a03_om",
+      "Category": 0,
+      "UnknownSingle": 500.0,
+      "Radius": 6000.0,
+      "Stream": "sound/voice/e/all07_a03_om.wma"
+    },
+    {
+      "Name": "all07_a03_am",
+      "Category": 0,
+      "UnknownSingle": 500.0,
+      "Radius": 6000.0,
+      "Stream": "sound/voice/e/all07_a03_am.wma"
+    },
+    {
+      "Name": "all07_a03_bz",
+      "Category": 0,
+      "UnknownSingle": 500.0,
+      "Radius": 6000.0,
+      "Stream": "sound/voice/e/all07_a03_bz.wma"
+    },
+    {
+      "Name": "all07_a03_sv",
+      "Category": 0,
+      "UnknownSingle": 500.0,
+      "Radius": 6000.0,
+      "Stream": "sound/voice/e/all07_a03_sv.wma"
+    },
+    {
+      "Name": "all07_a04_sn",
+      "Category": 0,
+      "UnknownSingle": 500.0,
+      "Radius": 6000.0,
+      "Stream": "sound/voice/e/all07_a04_sn.wma"
+    },
+    {
+      "Name": "all07_a04_tl",
+      "Category": 0,
+      "UnknownSingle": 500.0,
+      "Radius": 6000.0,
+      "Stream": "sound/voice/e/all07_a04_tl.wma"
+    },
+    {
+      "Name": "all07_a04_kn",
+      "Category": 0,
+      "UnknownSingle": 500.0,
+      "Radius": 6000.0,
+      "Stream": "sound/voice/e/all07_a04_kn.wma"
+    },
+    {
+      "Name": "all07_a04_sd",
+      "Category": 0,
+      "UnknownSingle": 500.0,
+      "Radius": 6000.0,
+      "Stream": "sound/voice/e/all07_a04_sd.wma"
+    },
+    {
+      "Name": "all07_a04_rg",
+      "Category": 0,
+      "UnknownSingle": 500.0,
+      "Radius": 6000.0,
+      "Stream": "sound/voice/e/all07_a04_rg.wma"
+    },
+    {
+      "Name": "all07_a04_am",
+      "Category": 0,
+      "UnknownSingle": 500.0,
+      "Radius": 6000.0,
+      "Stream": "sound/voice/e/all07_a04_am.wma"
+    },
+    {
+      "Name": "all07_a04_bz",
+      "Category": 0,
+      "UnknownSingle": 500.0,
+      "Radius": 6000.0,
+      "Stream": "sound/voice/e/all07_a04_bz.wma"
+    },
+    {
+      "Name": "all07_a04_sv",
+      "Category": 0,
+      "UnknownSingle": 500.0,
+      "Radius": 6000.0,
+      "Stream": "sound/voice/e/all07_a04_sv.wma"
+    },
+    {
+      "Name": "all08_e00_sn",
+      "Category": 0,
+      "UnknownSingle": 500.0,
+      "Radius": 6000.0,
+      "Stream": "sound/voice/e/all08_e00_sn.wma"
+    },
+    {
+      "Name": "all08_e00_1_sn",
+      "Category": 0,
+      "UnknownSingle": 500.0,
+      "Radius": 6000.0,
+      "Stream": "sound/voice/e/all08_e00_1_sn.wma"
+    },
+    {
+      "Name": "all08_e00_sd",
+      "Category": 0,
+      "UnknownSingle": 500.0,
+      "Radius": 6000.0,
+      "Stream": "sound/voice/e/all08_e00_sd.wma"
+    },
+    {
+      "Name": "all08_e01_sn",
+      "Category": 0,
+      "UnknownSingle": 500.0,
+      "Radius": 6000.0,
+      "Stream": "sound/voice/e/all08_e01_sn.wma"
+    },
+    {
+      "Name": "all08_e02_sd",
+      "Category": 0,
+      "UnknownSingle": 500.0,
+      "Radius": 6000.0,
+      "Stream": "sound/voice/e/all08_e02_sd.wma"
+    },
+    {
+      "Name": "all08_e03_sn",
+      "Category": 0,
+      "UnknownSingle": 500.0,
+      "Radius": 6000.0,
+      "Stream": "sound/voice/e/all08_e03_sn.wma"
+    },
+    {
+      "Name": "all08_e04_sd",
+      "Category": 0,
+      "UnknownSingle": 500.0,
+      "Radius": 6000.0,
+      "Stream": "sound/voice/e/all08_e04_sd.wma"
+    },
+    {
+      "Name": "all08_e05_sn",
+      "Category": 0,
+      "UnknownSingle": 500.0,
+      "Radius": 6000.0,
+      "Stream": "sound/voice/e/all08_e05_sn.wma"
+    },
+    {
+      "Name": "all08_e06_sd",
+      "Category": 0,
+      "UnknownSingle": 500.0,
+      "Radius": 6000.0,
+      "Stream": "sound/voice/e/all08_e06_sd.wma"
+    },
+    {
+      "Name": "all08_e07_sn",
+      "Category": 0,
+      "UnknownSingle": 500.0,
+      "Radius": 6000.0,
+      "Stream": "sound/voice/e/all08_e07_sn.wma"
+    },
+    {
+      "Name": "all08_e07_sd",
+      "Category": 0,
+      "UnknownSingle": 500.0,
+      "Radius": 6000.0,
+      "Stream": "sound/voice/e/all08_e07_sd.wma"
+    },
+    {
+      "Name": "all08_e08_sn",
+      "Category": 0,
+      "UnknownSingle": 500.0,
+      "Radius": 6000.0,
+      "Stream": "sound/voice/e/all08_e08_sn.wma"
+    },
+    {
+      "Name": "all08_e09_sn",
+      "Category": 0,
+      "UnknownSingle": 500.0,
+      "Radius": 6000.0,
+      "Stream": "sound/voice/e/all08_e09_sn.wma"
+    },
+    {
+      "Name": "all08_e09_sd",
+      "Category": 0,
+      "UnknownSingle": 500.0,
+      "Radius": 6000.0,
+      "Stream": "sound/voice/e/all08_e09_sd.wma"
+    },
+    {
+      "Name": "all08_e10_sn",
+      "Category": 0,
+      "UnknownSingle": 500.0,
+      "Radius": 6000.0,
+      "Stream": "sound/voice/e/all08_e10_sn.wma"
+    },
+    {
+      "Name": "all08_e10_sd",
+      "Category": 0,
+      "UnknownSingle": 500.0,
+      "Radius": 6000.0,
+      "Stream": "sound/voice/e/all08_e10_sd.wma"
+    },
+    {
+      "Name": "all08_e11_sn",
+      "Category": 0,
+      "UnknownSingle": 500.0,
+      "Radius": 6000.0,
+      "Stream": "sound/voice/e/all08_e11_sn.wma"
+    },
+    {
+      "Name": "all08_e11_sd",
+      "Category": 0,
+      "UnknownSingle": 500.0,
+      "Radius": 6000.0,
+      "Stream": "sound/voice/e/all08_e11_sd.wma"
+    },
+    {
+      "Name": "all08_e12_sn",
+      "Category": 0,
+      "UnknownSingle": 500.0,
+      "Radius": 6000.0,
+      "Stream": "sound/voice/e/all08_e12_sn.wma"
+    },
+    {
+      "Name": "all08_e12_sd",
+      "Category": 0,
+      "UnknownSingle": 500.0,
+      "Radius": 6000.0,
+      "Stream": "sound/voice/e/all08_e12_sd.wma"
+    },
+    {
+      "Name": "all08_e13_sn",
+      "Category": 0,
+      "UnknownSingle": 500.0,
+      "Radius": 6000.0,
+      "Stream": "sound/voice/e/all08_e13_sn.wma"
+    },
+    {
+      "Name": "all08_e13_sd",
+      "Category": 0,
+      "UnknownSingle": 500.0,
+      "Radius": 6000.0,
+      "Stream": "sound/voice/e/all08_e13_sd.wma"
+    },
+    {
+      "Name": "all08_e14_sn",
+      "Category": 0,
+      "UnknownSingle": 500.0,
+      "Radius": 6000.0,
+      "Stream": "sound/voice/e/all08_e14_sn.wma"
+    },
+    {
+      "Name": "all08_e14_sd",
+      "Category": 0,
+      "UnknownSingle": 500.0,
+      "Radius": 6000.0,
+      "Stream": "sound/voice/e/all08_e14_sd.wma"
+    },
+    {
+      "Name": "all08_e15_sn",
+      "Category": 0,
+      "UnknownSingle": 500.0,
+      "Radius": 6000.0,
+      "Stream": "sound/voice/e/all08_e15_sn.wma"
+    },
+    {
+      "Name": "all08_e15_sd",
+      "Category": 0,
+      "UnknownSingle": 500.0,
+      "Radius": 6000.0,
+      "Stream": "sound/voice/e/all08_e15_sd.wma"
+    },
+    {
+      "Name": "all08_e16_eg",
+      "Category": 0,
+      "UnknownSingle": 500.0,
+      "Radius": 6000.0,
+      "Stream": "sound/voice/e/all08_e16_eg.wma"
+    },
+    {
+      "Name": "all08_e17_eg",
+      "Category": 0,
+      "UnknownSingle": 500.0,
+      "Radius": 6000.0,
+      "Stream": "sound/voice/e/all08_e17_eg.wma"
+    },
+    {
+      "Name": "all08_e18_eg",
+      "Category": 0,
+      "UnknownSingle": 500.0,
+      "Radius": 6000.0,
+      "Stream": "sound/voice/e/all08_e18_eg.wma"
+    },
+    {
+      "Name": "all08_e19_eg",
+      "Category": 0,
+      "UnknownSingle": 500.0,
+      "Radius": 6000.0,
+      "Stream": "sound/voice/e/all08_e19_eg.wma"
+    },
+    {
+      "Name": "all08_e20_eg",
+      "Category": 0,
+      "UnknownSingle": 500.0,
+      "Radius": 6000.0,
+      "Stream": "sound/voice/e/all08_e20_eg.wma"
+    },
+    {
+      "Name": "all08_e21_eg",
+      "Category": 0,
+      "UnknownSingle": 500.0,
+      "Radius": 6000.0,
+      "Stream": "sound/voice/e/all08_e21_eg.wma"
+    },
+    {
+      "Name": "all08_h00_so",
+      "Category": 0,
+      "UnknownSingle": 500.0,
+      "Radius": 6000.0,
+      "Stream": "sound/voice/e/all08_h00_so.wma"
+    },
+    {
+      "Name": "all08_h01_so",
+      "Category": 0,
+      "UnknownSingle": 500.0,
+      "Radius": 6000.0,
+      "Stream": "sound/voice/e/all08_h01_so.wma"
+    },
+    {
+      "Name": "all08_h02_so",
+      "Category": 0,
+      "UnknownSingle": 500.0,
+      "Radius": 6000.0,
+      "Stream": "sound/voice/e/all08_h02_so.wma"
+    },
+    {
+      "Name": "end01_e00_tl",
+      "Category": 0,
+      "UnknownSingle": 500.0,
+      "Radius": 6000.0,
+      "Stream": "sound/voice/e/end01_e00_tl.wma"
+    },
+    {
+      "Name": "end01_e00_kn",
+      "Category": 0,
+      "UnknownSingle": 500.0,
+      "Radius": 6000.0,
+      "Stream": "sound/voice/e/end01_e00_kn.wma"
+    },
+    {
+      "Name": "end01_e00_sd",
+      "Category": 0,
+      "UnknownSingle": 500.0,
+      "Radius": 6000.0,
+      "Stream": "sound/voice/e/end01_e00_sd.wma"
+    },
+    {
+      "Name": "end01_e00_rg",
+      "Category": 0,
+      "UnknownSingle": 500.0,
+      "Radius": 6000.0,
+      "Stream": "sound/voice/e/end01_e00_rg.wma"
+    },
+    {
+      "Name": "end01_e00_om",
+      "Category": 0,
+      "UnknownSingle": 500.0,
+      "Radius": 6000.0,
+      "Stream": "sound/voice/e/end01_e00_om.wma"
+    },
+    {
+      "Name": "end01_e00_am",
+      "Category": 0,
+      "UnknownSingle": 500.0,
+      "Radius": 6000.0,
+      "Stream": "sound/voice/e/end01_e00_am.wma"
+    },
+    {
+      "Name": "end01_e00_sv",
+      "Category": 0,
+      "UnknownSingle": 500.0,
+      "Radius": 6000.0,
+      "Stream": "sound/voice/e/end01_e00_sv.wma"
+    },
+    {
+      "Name": "end01_e01_tl",
+      "Category": 0,
+      "UnknownSingle": 500.0,
+      "Radius": 6000.0,
+      "Stream": "sound/voice/e/end01_e01_tl.wma"
+    },
+    {
+      "Name": "end01_e01_kn",
+      "Category": 0,
+      "UnknownSingle": 500.0,
+      "Radius": 6000.0,
+      "Stream": "sound/voice/e/end01_e01_kn.wma"
+    },
+    {
+      "Name": "end01_e01_sd",
+      "Category": 0,
+      "UnknownSingle": 500.0,
+      "Radius": 6000.0,
+      "Stream": "sound/voice/e/end01_e01_sd.wma"
+    },
+    {
+      "Name": "end01_e01_rg",
+      "Category": 0,
+      "UnknownSingle": 500.0,
+      "Radius": 6000.0,
+      "Stream": "sound/voice/e/end01_e01_rg.wma"
+    },
+    {
+      "Name": "end01_e01_om",
+      "Category": 0,
+      "UnknownSingle": 500.0,
+      "Radius": 6000.0,
+      "Stream": "sound/voice/e/end01_e01_om.wma"
+    },
+    {
+      "Name": "end01_e01_am",
+      "Category": 0,
+      "UnknownSingle": 500.0,
+      "Radius": 6000.0,
+      "Stream": "sound/voice/e/end01_e01_am.wma"
+    },
+    {
+      "Name": "end01_e01_sv",
+      "Category": 0,
+      "UnknownSingle": 500.0,
+      "Radius": 6000.0,
+      "Stream": "sound/voice/e/end01_e01_sv.wma"
+    },
+    {
+      "Name": "end01_e02_tl",
+      "Category": 0,
+      "UnknownSingle": 500.0,
+      "Radius": 6000.0,
+      "Stream": "sound/voice/e/end01_e02_tl.wma"
+    },
+    {
+      "Name": "end01_e02_kn",
+      "Category": 0,
+      "UnknownSingle": 500.0,
+      "Radius": 6000.0,
+      "Stream": "sound/voice/e/end01_e02_kn.wma"
+    },
+    {
+      "Name": "end01_e02_sd",
+      "Category": 0,
+      "UnknownSingle": 500.0,
+      "Radius": 6000.0,
+      "Stream": "sound/voice/e/end01_e02_sd.wma"
+    },
+    {
+      "Name": "end01_e02_rg",
+      "Category": 0,
+      "UnknownSingle": 500.0,
+      "Radius": 6000.0,
+      "Stream": "sound/voice/e/end01_e02_rg.wma"
+    },
+    {
+      "Name": "end01_e02_am",
+      "Category": 0,
+      "UnknownSingle": 500.0,
+      "Radius": 6000.0,
+      "Stream": "sound/voice/e/end01_e02_am.wma"
+    },
+    {
+      "Name": "end01_e02_sv",
+      "Category": 0,
+      "UnknownSingle": 500.0,
+      "Radius": 6000.0,
+      "Stream": "sound/voice/e/end01_e02_sv.wma"
+    },
+    {
+      "Name": "end01_e03_tl",
+      "Category": 0,
+      "UnknownSingle": 500.0,
+      "Radius": 6000.0,
+      "Stream": "sound/voice/e/end01_e03_tl.wma"
+    },
+    {
+      "Name": "end01_e03_kn",
+      "Category": 0,
+      "UnknownSingle": 500.0,
+      "Radius": 6000.0,
+      "Stream": "sound/voice/e/end01_e03_kn.wma"
+    },
+    {
+      "Name": "end01_e03_sd",
+      "Category": 0,
+      "UnknownSingle": 500.0,
+      "Radius": 6000.0,
+      "Stream": "sound/voice/e/end01_e03_sd.wma"
+    },
+    {
+      "Name": "end01_e03_rg",
+      "Category": 0,
+      "UnknownSingle": 500.0,
+      "Radius": 6000.0,
+      "Stream": "sound/voice/e/end01_e03_rg.wma"
+    },
+    {
+      "Name": "end01_e03_om",
+      "Category": 0,
+      "UnknownSingle": 500.0,
+      "Radius": 6000.0,
+      "Stream": "sound/voice/e/end01_e03_om.wma"
+    },
+    {
+      "Name": "end01_e03_am",
+      "Category": 0,
+      "UnknownSingle": 500.0,
+      "Radius": 6000.0,
+      "Stream": "sound/voice/e/end01_e03_am.wma"
+    },
+    {
+      "Name": "end01_e03_sv",
+      "Category": 0,
+      "UnknownSingle": 500.0,
+      "Radius": 6000.0,
+      "Stream": "sound/voice/e/end01_e03_sv.wma"
+    },
+    {
+      "Name": "end01_e04_tl",
+      "Category": 0,
+      "UnknownSingle": 500.0,
+      "Radius": 6000.0,
+      "Stream": "sound/voice/e/end01_e04_tl.wma"
+    },
+    {
+      "Name": "end01_e04_kn",
+      "Category": 0,
+      "UnknownSingle": 500.0,
+      "Radius": 6000.0,
+      "Stream": "sound/voice/e/end01_e04_kn.wma"
+    },
+    {
+      "Name": "end01_e04_sd",
+      "Category": 0,
+      "UnknownSingle": 500.0,
+      "Radius": 6000.0,
+      "Stream": "sound/voice/e/end01_e04_sd.wma"
+    },
+    {
+      "Name": "end01_e04_rg",
+      "Category": 0,
+      "UnknownSingle": 500.0,
+      "Radius": 6000.0,
+      "Stream": "sound/voice/e/end01_e04_rg.wma"
+    },
+    {
+      "Name": "end01_e04_om",
+      "Category": 0,
+      "UnknownSingle": 500.0,
+      "Radius": 6000.0,
+      "Stream": "sound/voice/e/end01_e04_om.wma"
+    },
+    {
+      "Name": "end01_e04_am",
+      "Category": 0,
+      "UnknownSingle": 500.0,
+      "Radius": 6000.0,
+      "Stream": "sound/voice/e/end01_e04_am.wma"
+    },
+    {
+      "Name": "end01_e04_sv",
+      "Category": 0,
+      "UnknownSingle": 500.0,
+      "Radius": 6000.0,
+      "Stream": "sound/voice/e/end01_e04_sv.wma"
+    },
+    {
+      "Name": "end01_e05_tl",
+      "Category": 0,
+      "UnknownSingle": 500.0,
+      "Radius": 6000.0,
+      "Stream": "sound/voice/e/end01_e05_tl.wma"
+    },
+    {
+      "Name": "end01_e05_kn",
+      "Category": 0,
+      "UnknownSingle": 500.0,
+      "Radius": 6000.0,
+      "Stream": "sound/voice/e/end01_e05_kn.wma"
+    },
+    {
+      "Name": "end01_e05_sd",
+      "Category": 0,
+      "UnknownSingle": 500.0,
+      "Radius": 6000.0,
+      "Stream": "sound/voice/e/end01_e05_sd.wma"
+    },
+    {
+      "Name": "end01_e05_rg",
+      "Category": 0,
+      "UnknownSingle": 500.0,
+      "Radius": 6000.0,
+      "Stream": "sound/voice/e/end01_e05_rg.wma"
+    },
+    {
+      "Name": "end01_e05_om",
+      "Category": 0,
+      "UnknownSingle": 500.0,
+      "Radius": 6000.0,
+      "Stream": "sound/voice/e/end01_e05_om.wma"
+    },
+    {
+      "Name": "end01_e05_am",
+      "Category": 0,
+      "UnknownSingle": 500.0,
+      "Radius": 6000.0,
+      "Stream": "sound/voice/e/end01_e05_am.wma"
+    },
+    {
+      "Name": "end01_e05_sv",
+      "Category": 0,
+      "UnknownSingle": 500.0,
+      "Radius": 6000.0,
+      "Stream": "sound/voice/e/end01_e05_sv.wma"
+    },
+    {
+      "Name": "end01_h00_so",
+      "Category": 0,
+      "UnknownSingle": 500.0,
+      "Radius": 6000.0,
+      "Stream": "sound/voice/e/end01_h00_so.wma"
+    },
+    {
+      "Name": "end01_h01_so",
+      "Category": 0,
+      "UnknownSingle": 500.0,
+      "Radius": 6000.0,
+      "Stream": "sound/voice/e/end01_h00_1_so.wma"
+    },
+    {
+      "Name": "thanksblaze",
+      "Category": 0,
+      "UnknownSingle": 500.0,
+      "Radius": 6000.0,
+      "Stream": "sound/voice/e/thanksblaze.wma"
+    },
+    {
+      "Name": "blaze_kdv_a_sonicinteraction",
+      "Category": 0,
+      "UnknownSingle": 500.0,
+      "Radius": 6000.0,
+      "Stream": "sound/voice/e/blaze_kdv_a_sonicinteraction.wma"
+    }
+  ],
+  "Name": "voice_all"
+}
