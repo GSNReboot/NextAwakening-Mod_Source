@@ -1391,4 +1391,7 @@
 	<message index="1388" name="hint_twn01_h08_so">Obtain an item to release your power.\nThen you can destroy the rocks blocking\nyour way.</message>
 	<message index="1389" name="hint_twn01_h10_so" placeholder="picture(button_x)">Hold $ button at the highest point during\na jump to perform Psycho Shock.\fYou can send the shock wave by slamming\nthe ground.</message>
 	<message index="1390" name="hint_twn01_h11_so" placeholder="picture(button_a)">Press the $ button twice in quick succession to\ndo a Teleport Dash.\fYou can dash in the light speed.</message>
+	<message index="1391" name="hint_template" placeholder="">$Text.\nmore test\feven MORE test.</message>
+	<message index="1392" name="hint_blaze_kdv_a_sonicinteraction" placeholder="sound(blaze_kdv_a_sonicinteraction)">$Sonic, leave this to me.</message>
+	<message index="1393" name="hint_thanksblaze" placeholder="sound(thanksblaze)">$Thanks, Blaze.</message>
 </mst06>
