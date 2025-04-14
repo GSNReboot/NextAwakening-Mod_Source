@@ -1,5 +1,5 @@
 # Xbox 360 Version (For Testing)
-The xbox 360 Version of Sonic '06 Next Awakening. This branch is mainly used to test out new changes and is being updated constantly. However it is not safe to play this version and it is intended for developers and testers only. Please look at the xenon branch instead for more stable versions of the mod.
+The xbox 360 Version of Sonic '06 Next Awakening. This branch is mainly used to test out new changes and is being updated constantly. However it is not safe to play this version and it is intended for developers and testers only. Please look at the [xenon branch](https://github.com/GSNReboot/NextAwakening-Mod_Source/tree/xenon-testing) instead for more stable versions of the mod.
 
 **Merge = True**
 
