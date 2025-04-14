@@ -5382,6 +5382,20 @@
       "UnknownSingle": 500.0,
       "Radius": 6000.0,
       "Stream": "sound/voice/e/blaze_kdv_a_sonicinteraction.wma"
+    },
+    {
+      "Name": "shadow_needahand",
+      "Category": 0,
+      "UnknownSingle": 500.0,
+      "Radius": 6000.0,
+      "Stream": "sound/voice/e/shadow_needahand.wma"
+    },
+    {
+      "Name": "thanksshadow",
+      "Category": 0,
+      "UnknownSingle": 500.0,
+      "Radius": 6000.0,
+      "Stream": "sound/voice/e/thanksshadow.wma"
     }
   ],
   "Name": "voice_all"
