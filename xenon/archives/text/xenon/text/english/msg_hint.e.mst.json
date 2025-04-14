@@ -9792,6 +9792,20 @@
       "Placeholders": [
         "sound(thanksblaze)"
       ]
+    },
+    {
+      "Name": "hint_shadow_needahand",
+      "Text": "$Hmph. Need a hand?",
+      "Placeholders": [
+        "sound(shadow_needahand)"
+      ]
+    },
+    {
+      "Name": "hint_thanksshadow",
+      "Text": "$Thanks, Shadow.",
+      "Placeholders": [
+        "sound(thanksshadow)"
+      ]
     }
   ]
 }
