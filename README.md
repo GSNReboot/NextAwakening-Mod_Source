@@ -37,10 +37,13 @@ Please make sure that if you downloaded the mod to replace your patches.ini file
 - Animation Changes for Sonic (updownreel and slide)
 - Retextured the 3 main hedgehogs to look more like their CGI Cutscene models
 - Slightly decreased load times for some of Sonic's stages (WiP)
+- Added new voice lines (voices by GSNReboot and therealbluebirdieee)
+- Edited level layouts for Sonic's story
+- Replaced Title Screen Logo
 
 ### WiP Todos
 - Slightly decrease loading times for town missions, bosses, and stages for EVERY story
-- Replace title screen logo
+- Awaken Difficulty
 
 More todos will be made after we come up with more ideas!
 
