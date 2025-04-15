@@ -3,6 +3,7 @@
 The github repository for (the Xbox 360 version of) Sonic '06: Next Awakening Mod.
 
 Please check our [license](LICENSE) for usage information
+![](art/Untitled2039_20250414213847.png)
 ## Documentation
 - [Disclaimer](#disclaimer)
 - [Downlaods](#downloads)
