@@ -1,4 +1,4 @@
-# Xbox 360 Version
+# ![](Untitled2042_20250414214445.png) Xbox 360 Version
 The xbox 360 Version of Sonic '06 Next Awakening
 
 **Merge = True**
