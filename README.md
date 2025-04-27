@@ -49,6 +49,9 @@ Please make sure that if you downloaded the mod to replace your patches.ini file
 
 More todos will be made after we come up with more ideas!
 
+## Compatibility with LoS
+This mod is compatible with LoS (in some aspects anyway), however it is poorly optimized and overall not recommended to play alongside LoS.
+
 ## Tools
 - [Sonic '06 Toolkit](https://github.com/GerbilSoft/Sonic-06-Toolkit) - Used for extracting arc files, and decompiling stuff.
 - [Marathon](https://github.com/hyperbx/Marathon) - Used to repack arc files.
